@@ -34,10 +34,16 @@
 <!--==================================================-->
 
 <section>
-	<div class="container">
+	<div class="container-new">
 		
-		<h1>Coming Soon</h1>
+		<h1 >Coming Soon</h1>
 	</div>
 </section>
+<style>
+	.container-new{
+		padding: 10%;
+		text-align: center;
+	}
+</style>
 
 <?php include('includes/footer.php'); ?>

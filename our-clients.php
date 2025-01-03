@@ -30,11 +30,10 @@
 <!-- Start dreamit team Area -->
 <!--==================================================-->
 <div class="team-area pt-100">
-<div class="team-area pt-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="funnelRivers-section-title style-two text-center">
+				<div class="dreamit-section-title style-two text-center">
 					<h5>OUR CLIENTS</h5>
 					<h1>MEET THE EXPERT <span>TEAM</span></h1>
 				</div>
@@ -42,7 +41,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-single-team-box">
+				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team1.jpg" alt="">
 						<!-- <div class="team-socail-icon">
@@ -54,7 +53,8 @@
 					</div>
 					<div class="team-content">
 						<div class="team-title">
-							<h3>Small and Medium Enterprises (SMEs)</h3>
+							<h3>Small and Medium Enterprises (SMEs)
+							</h3>
 						</div>
 						<div class="team-text">
 							<p>Helping local and growing businesses establish a strong online presence through digital marketing, web development, and branding.</p>
@@ -68,7 +68,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-single-team-box">
+				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team2.jpg" alt="">
 						<!-- <div class="team-socail-icon">
@@ -94,7 +94,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-single-team-box">
+				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team3.jpg" alt="">
 						<!-- <div class="team-socail-icon">
@@ -106,8 +106,7 @@
 					</div>
 					<div class="team-content">
 						<div class="team-title">
-							<h3>E-Commerce Brands
-							</h3>
+							<h3>E-Commerce Brands</h3>
 						</div>
 						<div class="team-text">
 							<p>Empowering e-commerce businesses with advanced website solutions, product catalog integration, and digital marketing strategies.</p>
@@ -121,7 +120,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-single-team-box">
+				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team4.jpg" alt="">
 						<!-- <div class="team-socail-icon">
@@ -136,8 +135,7 @@
 							<h3>Corporations and Enterprises</h3>
 						</div>
 						<div class="team-text">
-							<p>Working with large organizations to optimize digital strategies, improve internal processes, and achieve global brand recognition.
-							</p>
+							<p>Working with large organizations to optimize digital strategies, improve internal processes, and achieve global brand recognition.</p>
 						</div>
 					</div>
 					<!-- <div class="team-icon">
@@ -147,10 +145,8 @@
 					</div> -->
 				</div>
 			</div>
-			
 		</div>
 	</div>
-</div>
 </div>
 <!--==================================================-->
 <!--End dreamit team Area -->
