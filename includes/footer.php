@@ -56,7 +56,7 @@
 						</div>
 						<div class="footer-socail-info">
 							<p>
-								<span>(+001) 123-456-7890</span>
+								<span>+91-9923707569</span>
 							</p>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 							<i class="icon flaticon-email"></i>
 						</div>
 						<div class="footer-socail-info">
-							<p>info@example.com</p>
+							<p>dipti@funnelrivers.com</p>
 						</div>
 					</div>
 					<div class="footer-inner">
@@ -73,7 +73,7 @@
 							<i class="icon flaticon-placeholder-1"></i>
 						</div>
 						<div class="footer-socail-info2">
-							<p>515 Carriage Court, Coachella, CA, 92236 USA</p>
+							<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
 						</div>
 					</div>
 				</div>	
@@ -83,7 +83,7 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-						<p>Copyright © 2021. All rights reserved to <span>dreamit</span></p>
+						<p>Copyright © 2024. All rights reserved to <span>FunnelRivers</span></p>
 					</div>
 				</div>
 			</div>

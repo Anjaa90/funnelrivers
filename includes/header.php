@@ -117,7 +117,7 @@
 					</div>	
 					<div class="slider-button-text">
 						<p>Call Now!</p>
-						<h2>+91-9923-707-569</h2>
+						<h2>+91-9923707569</h2>
 					</div>		
 				</nav>							
 			</div>
