@@ -2,7 +2,7 @@
 
 
 <!--==================================================-->
-<!-- start funnelRivers slider Area -->
+<!-- start dreamit slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -10,25 +10,26 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>Our Clients</h2>
+						<h2>Team Member</h2>
 					</div>
-					<!-- <div class="breatcumb-content-text">
+					<div class="breatcumb-content-text">
 						<ul>
 							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Team Member</span></li>
 						</ul>
-					</div>	 -->
+					</div>	
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers slider Area -->
+<!-- End dreamit slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers team Area -->
+<!-- Start dreamit team Area -->
 <!--==================================================-->
+<div class="team-area pt-100">
 <div class="team-area pt-100">
 	<div class="container">
 		<div class="row">
@@ -150,54 +151,55 @@
 		</div>
 	</div>
 </div>
+</div>
 <!--==================================================-->
-<!--End funnelRivers team Area -->
+<!--End dreamit team Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers brand Area -->
+<!-- Start dreamit brand Area -->
 <!--==================================================-->
 <!-- <div class="brand-area style-three">
 	<div class="container">
 		<div class="row">
 			<div class="brand-list owl-carousel">
 				<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>				
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand5.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand3.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand1.png" alt="">
 					</div>
 				</div>
 			</div> 
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand2.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand4.png" alt="">
 					</div>
@@ -208,11 +210,11 @@
 	</div>
 </div> -->
 <!--==================================================-->
-<!--End funnelRivers brand Area -->
+<!--End dreamit brand Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers subscribe Area -->
+<!-- Start dreamit subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area">
 	<div class="container">
@@ -227,7 +229,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact_form" action="https://html.funnelRiverssolution.net/funnelRivers/digital-agency/mail.php" method="POST">
+					<form id="contact_form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -240,7 +242,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers subscribe Area -->
+<!-- End dreamit subscribe Area -->
 <!--==================================================-->
 
 
@@ -407,7 +409,7 @@
     </script>
 </body>
 
-<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/team-member.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
+<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/team-member.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>
