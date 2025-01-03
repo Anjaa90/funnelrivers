@@ -103,22 +103,11 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 								<h4>Expert Content Creation</h4>
 								<p>High-quality, engaging content designed to resonate with your audience.</p>
-=======
-								<h4>Why funnelRivers</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
->>>>>>> 9e066d889de6f93d9d0168f56df262643ede3462
-=======
-								<h4>Why funnelRivers</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
-=======
-								<h4>Expert Content Creation</h4>
-								<p>High-quality, engaging content designed to resonate with your audience.</p>
->>>>>>> 9c7e4e23c3e87849ad60aaa1adb4f8b2658d37c4
->>>>>>> 22fecc60deacf71489d8c73b6c911f1de310fc18
+
+
 							</div>
 						</div>
 					</div>
