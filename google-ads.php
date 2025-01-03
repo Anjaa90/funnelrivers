@@ -6,7 +6,7 @@
 <!-- End dreamit Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
-<div class="xs-sidebar-group info-group">
+<!-- <div class="xs-sidebar-group info-group">
 	<div class="xs-overlay xs-bg-black"></div>
 	<div class="xs-sidebar-widget">
 		<div class="sidebar-widget-container">
@@ -16,7 +16,7 @@
 				</a>
 			</div>
 			<div class="sidebar-textwidget">
-				<!-- Sidebar Info Content -->
+				 Sidebar Info Content 
 				<div class="sidebar-info-contents">
 					<div class="content-inner">
 						<div class="nav-logo">
@@ -36,7 +36,7 @@
 								<li><span class="flaticon-24-hours-3"></span>Week Days: 09.00 to 18.00 Sunday: Closed</li>
 							</ul>
 						</div>
-						<!-- Social Box -->
+						Social Box 
 						<ul class="social-box">
 							<li class="facebook"><a href="#" class="fab fa-facebook-f"></a></li>
 							<li class="twitter"><a href="#" class="fab fa-instagram"></a></li>
@@ -49,7 +49,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- start dreamit slider Area -->
 <!--==================================================-->
@@ -59,7 +59,7 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>Blog Grid</h2>
+						<h2>Google Ads</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
@@ -88,49 +88,13 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<p>Custom Google Ads Strategy</p>
 						</div>
-						<div class="post-categories">
+						<!-- <div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
-						</div>
+						</div> -->
 						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Top 15 Secrete Business Ideas Next Levels</a></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog2.jpg" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
-						</div>
-						<div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div>
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Premium Supply Chains is Network turnkey</a></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog3.jpg" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
-						</div>
-						<div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div>
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Diverse Intellectual Capital Before Distinctive</a></h4>
+							<h4><a href="blog-details.html">Optimizing campaigns for the most effective keywords and ad placements.</a></h4>
 						</div>
 					</div>
 				</div>
@@ -142,31 +106,13 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<p>Search Campaigns for Targeted Reach</p>
 						</div>
-						<div class="post-categories">
+						<!-- <div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
-						</div>
+						</div> -->
 						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Top 15 Secrete Business Ideas Next Levels</a></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog2.jpg" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
-						</div>
-						<div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div>
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Premium Supply Chains is Network turnkey</a></h4>
+							<h4><a href="blog-details.html">Crafting compelling ad copy to increase click-through rates (CTR) and conversions.</a></h4>
 						</div>
 					</div>
 				</div>
@@ -178,13 +124,69 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<p>Display Network Campaigns</p>
 						</div>
-						<div class="post-categories">
+						<!-- <div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
-						</div>
+						</div> -->
 						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Diverse Intellectual Capital Before Distinctive</a></h4>
+							<h4><a href="blog-details.html">Targeting specific websites, demographics, and interests to broaden brand exposure.</a></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-12">
+				<div class="single_blog">
+					<div class="single_blog_thumb">
+						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+					</div>
+					<div class="single_blog_content">
+						<div class="datatech_blog_meta">
+							<p>Remarketing Campaigns</p>
+						</div>
+						<!-- <div class="post-categories">
+							<a href="blog-details.html">September 20, 2021</a>
+						</div> -->
+						<div class="blog_page_title">
+							<h4><a href="blog-details.html">Re-engaging users who have previously visited your website with personalized ads.</a></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-12">
+				<div class="single_blog">
+					<div class="single_blog_thumb">
+						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+					</div>
+					<div class="single_blog_content">
+						<div class="datatech_blog_meta">
+							<p>Shopping Ads for E-Commerce</p>
+						</div>
+						<!-- <div class="post-categories">
+							<a href="blog-details.html">September 20, 2021</a>
+						</div> -->
+						<div class="blog_page_title">
+							<h4><a href="blog-details.html">Setting up Google Shopping ads to showcase your products directly in search results.
+							</a></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-12">
+				<div class="single_blog">
+					<div class="single_blog_thumb">
+						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+					</div>
+					<div class="single_blog_content">
+						<div class="datatech_blog_meta">
+							<p>YouTube Ads for Enhanced Visibility</p>
+						</div>
+						<!-- <div class="post-categories">
+							<a href="blog-details.html">September 20, 2021</a>
+						</div> -->
+						<div class="blog_page_title">
+							<h4><a href="blog-details.html">Creating video ads on YouTube to capture attention with compelling visuals and messaging.
+							</a></h4>
 						</div>
 					</div>
 				</div>

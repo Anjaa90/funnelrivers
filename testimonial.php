@@ -1,36 +1,28 @@
 
 <?php include ('includes/header.php');?>
-<!--==================================================-->
-<!--End dreamit team Area -->
-<!--==================================================-->
 
 <!--==================================================-->
 <!-- Start dreamit video Area -->
 <!--==================================================-->
-<div class="video-area">
-	<div class="container">
-		<div class="row video-bg">
-			<div class="col-lg-8">
-				<div class="rs-video style-three">
-					<div class="animate-border">
-						<a class="video-vemo-icon2 venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg">
-						<i class="fas fa-play"></i></a>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4">
-				<div class="video-content">
-					<div class="video-title">
-						<h4>AGENCY THAT GETS EXCITED ABOUT</h4>
-					</div>
-					<div class="video-button text-right">
-						<a href="#">Learn More <span><i class="fas fa-check-square"></i></span></a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<div class="breatcumb-area">
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <div class="col-lg-12">
+                <div class="breatcumb-content text-center">
+                    <div class="breatcumb-title">
+                        <h2>About Us</h2>
+                    </div>
+                    <div class="breatcumb-content-text">
+                        <ul>
+                            <li><a href="index.php">Home</a> <i class="fas fa-angle-double-right"></i> About Us <i class="fas fa-angle-double-right"></i> Testimonial</li>
+                        </ul>
+                    </div>    
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
 <!--==================================================-->
 <!-- End dreamit video Area -->
 <!--==================================================-->
@@ -38,163 +30,7 @@
 <!--==================================================-->
 <!--Start datatech testimonial Area -->
 <!--==================================================-->
-<div class="testimonial-area style-three">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12 col-sm-12">
-				<div class="dreamit-section-title style-two text-center pb-40">
-					<h5>TESTIMONIAL</h5>
-					<h1>CLIENT <span>TESTIMONIAL</span></h1>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="testimonial-list owl-carousel">
-				<div class="col-lg-12 col-sm-12">
-					<div class="dreamit-single-testimonial-box">
-						<div class="testimonial-content">
-							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi5.png" alt="">
-							</div>
-							<div class="testi-titile">
-								<h2>Leena Dhondsekar
-								<span>Robotic Engineer</span>
-							</div>
-							<div class="testimonial-text"><p>Dramatically formulate accurate tailers whereas collaboration and idea-sharing. Enthusiastically build dive action items where equity invested products done.</p></div>
-							<div class="testimonial-star">
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fas fa-star-half-alt"></i>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12 col-sm-12">
-					<div class="dreamit-single-testimonial-box">
-						<div class="testimonial-content">
-							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi4.png" alt="">
-							</div>
-							<div class="testi-titile">
-								<h2>ANJELINA KEMI</h2>
-								<span>UI/UX Designer</span>
-							</div>
-							<div class="testimonial-text"><p>Dramatically formulate accurate tailers whereas collaboration and idea-sharing. Enthusiastically build dive action items where equity invested products done.</p></div>
-							<div class="testimonial-star">
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fas fa-star-half-alt"></i>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12 col-sm-12">
-					<div class="dreamit-single-testimonial-box">
-						<div class="testimonial-content">
-							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi5.png" alt="">
-							</div>
-							<div class="testi-titile">
-								<h2>Ellen Eyre</h2>
-								<span>Manager Of TM</span>
-							</div>
-							<div class="testimonial-text"><p>Dramatically formulate accurate tailers whereas collaboration and idea-sharing. Enthusiastically build dive action items where equity invested products done.</p></div>
-							<div class="testimonial-star">
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fas fa-star-half-alt"></i>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12 col-sm-12">
-					<div class="dreamit-single-testimonial-box">
-						<div class="testimonial-content">
-							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi4.png" alt="">
-							</div>
-							<div class="testi-titile">
-								<h2>Mike Jonsone</h2>
-								<span>Sr. Engineer</span>
-							</div>
-							<div class="testimonial-text"><p>Dramatically formulate accurate tailers whereas collaboration and idea-sharing. Enthusiastically build dive action items where equity invested products done.</p></div>
-							<div class="testimonial-star">
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fa fa-star active"></i>
-								<i class="fas fa-star-half-alt"></i>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--==================================================-->
-<!-- End datatech testimonial Area -->
-<!--==================================================-->
 
-<!--==================================================-->
-<!-- Start dreamit brand Area -->
-<!--==================================================-->
-<div class="brand-area style-three">
-	<div class="container">
-		<div class="row">
-			<div class="brand-list owl-carousel">
-				<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
-					</div>
-				</div>
-			</div>				
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand5.png" alt="">
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand3.png" alt="">
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand1.png" alt="">
-					</div>
-				</div>
-			</div> 
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand2.png" alt="">
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
-					</div>
-				</div>
-			</div>
-			</div>
-		</div>
-	</div>
-</div>
 <!--==================================================-->
 <!--End dreamit brand Area -->
 <!--==================================================-->
@@ -339,7 +175,7 @@
 <!-- Start scrollup section Area -->
 <!--==================================================-->
 <!-- scrollup section -->
-<div class="scroll-area">
+<!-- <div class="scroll-area">
 	<div class="top-wrap">
 		<div class="go-top-btn-wraper">
 			<div class="go-top go-top-button">
@@ -348,7 +184,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- Start scrollup section Area -->
 <!--==================================================-->

@@ -1,4 +1,7 @@
 <?php include('includes/header.php');?>
+
+
+
 <!--==================================================-->
 <!-- End dreamit Main Menu Area -->
 <!--==================================================-->
@@ -228,109 +231,7 @@
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
 
-<!--==================================================-->
-<!-- Start dreamit Footer Middle Area -->
-<!--==================================================-->
-<div class="footer-middle"> 
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="widget-widgets-company-info white">
-					<div class="dreamit-logo">
-						<a class="logo_img" href="index.html" title="dreamit">
-							<img src="assets/images/logo.png" alt="" />
-						</a>
-					</div>
-					<div class="company-info-desc">
-						<p>Holisticly reintermediate intuitive factured products after ethical to rables. Monotonectally.</p>
-					</div>
-					<div class="company_icon">
-						<a href="#"><i class="fab fa-facebook-f"></i></a>
-						<a href="#"><i class="fab fa-instagram"></i></a>
-						<a href="#"><i class="fab fa-twitter"></i></a>
-						<a href="#"><i class="fab fa-pinterest-p"></i></a>
-					</div>
-				</div>					
-			</div>
-			<div class="col-lg-2 col-md-6 col-sm-12">
-				<div class="widget widget-nav-menu">
-					<h4 class="widget-title"><span>R</span>ESOURCE</h4>
-					<div class="menu-quick-link-content">
-						<ul class="menu">
-							<li><a href="#">Open Source</a></li>
-							<li><a href="#">Documentation</a></li>
-							<li><a href="#">User Studio</a></li>
-							<li><a href="#">Manage Report</a></li>
-							<li><a href="#">Live Seassion</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>	
-			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="widget-footer-title pl-4">
-					<h4 class="widget-title"><span>U</span>SEFUL LINKS</h4>
-				</div>
-				<div class="footer-recent-post pl-4">
-					<ul class="menu">
-						<li><a href="#">Open Source</a></li>
-						<li><a href="#">Documentation</a></li>
-						<li><a href="#">User Studio</a></li>
-						<li><a href="#">Manage Report</a></li>
-						<li><a href="#">Live Seassion</a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div id="footer-widget-address">
-					<h4 class="widget-title"><span>C</span>ONTACTS</h4>
-					<div class="footer-inner">
-						<div class="footer-socail-icon">
-							<i class="flaticon-call"></i>
-						</div>
-						<div class="footer-socail-info">
-							<p>
-								<span>(+001) 123-456-7890</span>
-							</p>
-						</div>
-					</div>
-					<div class="footer-inner">
-						<div class="footer-socail-icon">
-							<i class="icon flaticon-email"></i>
-						</div>
-						<div class="footer-socail-info">
-							<p>info@example.com</p>
-						</div>
-					</div>
-					<div class="footer-inner">
-						<div class="footer-socail-icon">
-							<i class="icon flaticon-placeholder-1"></i>
-						</div>
-						<div class="footer-socail-info2">
-							<p>515 Carriage Court, Coachella, CA, 92236 USA</p>
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-		<div class="row footer-bottom">
-			<div class="col-lg-6 col-md-6">
-				<div class="footer-bottom-content">
-					<div class="footer-bottom-content-copy">
-						<p>Copyright © 2021. All rights reserved to <span>dreamit</span></p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="footer-bottom-menu">
-					<p>Terms & Condition . Services . Careers</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>		
-<!--==================================================-->
-<!-- End dreamit Footer Middle Area -->
-<!--==================================================-->
+
 
 <!--==================================================-->
 <!-- Start scrollup section Area -->
@@ -496,3 +397,5 @@
 
 <!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/portfolio.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
 </html>
+
+<?php include('includes/footer.php'); ?>

@@ -43,6 +43,13 @@
     <link rel="stylesheet" href="assets/css/slick.css" type="text/css" media="screen" />
     <!-- slick slider CSS -->
     <link rel="stylesheet" href="assets/css/slick-theme.css" type="text/css" media="screen" />
+	<!-- Owl Carousel CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+<!-- Font Awesome for star icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 </head>
 <body>
 <!--==================================================-->
@@ -84,7 +91,7 @@
 								<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
 							</ul>
 						</li>
-						<li><a href="#Services.html">Marketing <span><i class="fas fa-angle-down"></i></span></a>
+						<li><a href="#Services">Marketing <span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 								<li><a href="seo.php">SEO</a></li>
 								<li><a href="smo.php">SMO</a></li>
@@ -95,7 +102,7 @@
 						<li><a href="#blog">Advertising<span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 								<li><a href="google-ads.php">Google Ads</a></li>
-								<li><a href="blog-list.php">Facebook Ads</a></li>
+								<li><a href="facebook-ads.php">Facebook Ads</a></li>
 								<li><a href="youtube-ads.php">Youtube Ads</a></li>
 								<li><a href="X-twitter-ads.php">X Twitter Ads</a></li>
 								<li><a href="instagram-ads.php">Instagram Ads</a></li>
