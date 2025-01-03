@@ -1,14 +1,14 @@
 <?php include('includes/header.php'); ?>
 
-<div style="text-align: center; padding: 50px; background-color: #f4f4f4;">
-    <h1 style="font-size: 36px; color: #333;">SOMETHING IS HAPPENING!</h1>
+<div class="breatcumb-area" style="text-align: center; padding: 50px; background-color: #f4f4f4;padding-top:10%;">
+    <h1 style="font-size: 36px; color: #ffffff;">SOMETHING IS HAPPENING!</h1>
     <h2 style="font-size: 28px; color: #e74c3c;">FunnelRivers</h2>
-    <p style="font-size: 18px; color: #555;">We're working hard to bring you a fantastic experience. Stay tuned!</p>
+    <p style="font-size: 18px; color: #ffffff;">We're working hard to bring you a fantastic experience. Stay tuned!</p>
 
     <!-- Countdown Timer Placeholder -->
-    <div id="countdown" style="font-size: 24px; color: #333; margin: 20px 0;">
+    <div id="countdown" style="font-size: 24px; color: #ffffff; margin: 20px 0;">
         <!-- Add your countdown logic or leave it as a placeholder -->
-        <p>Launching Soon!</p>
+        <p >Launching Soon!</p>
     </div>
 
     <!-- Email Subscription Form -->
@@ -18,13 +18,17 @@
         <button type="submit" style="padding: 10px 20px; font-size: 16px; background-color: #e74c3c; color: white; border: none; border-radius: 5px; cursor: pointer;">Notify Me</button>
     </form> -->
 
+</div>
+
+
     <!-- Contact Information -->
+    <div class="container" style="padding-top:5%; padding-bottom:5%">
     <div class="contact-info" style="background-color: #fff; padding: 20px; margin-top: 30px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <h3 style="font-size: 22px; color: #333;">Contact Us</h3>
         <p style="font-size: 16px; color: #555;"><strong>Phone:</strong> +91-9923-707-569</p>
         <p style="font-size: 16px; color: #555;"><strong>Address:</strong> C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
         <p style="font-size: 16px; color: #555;"><strong>Email:</strong> <a href="mailto:dipti@funnelrivers.com" style="color: #e74c3c;">dipti@funnelrivers.com</a></p>
     </div>
-</div>
+    </div>
 
 <?php include('includes/footer.php'); ?>
