@@ -2,12 +2,55 @@
 
 
 <!--==================================================-->
-<!-- End funnelRivers Main Menu Area -->
+<!-- End dreamit Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
-
+<div class="xs-sidebar-group info-group">
+	<div class="xs-overlay xs-bg-black"></div>
+	<div class="xs-sidebar-widget">
+		<div class="sidebar-widget-container">
+			<div class="widget-heading">
+				<a href="#" class="close-side-widget">
+					<i class="far fa-times-circle"></i>
+				</a>
+			</div>
+			<div class="sidebar-textwidget">
+				
+				<div class="sidebar-info-contents">
+					<div class="content-inner">
+						<div class="nav-logo">
+							<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+						</div>
+						<div class="content-box">
+							<h2>About Us</h2>
+							<p class="text">The argument in favor of using filler text goes something like this: If you use real content in the Consulting Process, anytime you reach a review point you’ll end up reviewing and negotiating the content itself and not the design.</p>
+							<a href="index-7.html" class="theme-btn btn-style-two"><span>Consultation</span> <i class="fas fa-heart"></i></a>
+						</div>
+						<div class="contact-info">
+							<h2>Contact Info</h2>
+							<ul class="list-style-one">
+								<li><span class="icon flaticon-email"></span>Chicago 12, Melborne City, USA</li>
+								<li><span class="flaticon-phone-call"></span>(+001) 123-456-7890</li>
+								<li><span class="icon flaticon-placeholder-1"></span>Example.com</li>
+								<li><span class="flaticon-clock-2"></span>Week Days: 09.00 to 18.00 Sunday: Closed</li>
+							</ul>
+						</div>
+					
+						<ul class="social-box">
+							<li class="facebook"><a href="#" class="fab fa-facebook-f"></a></li>
+							<li class="twitter"><a href="#" class="fab fa-instagram"></a></li>
+							<li class="linkedin"><a href="#" class="fab fa-twitter"></a></li>
+							<li class="instagram"><a href="#" class="fab fa-pinterest-p"></a></li>
+							<li class="youtube"><a href="#" class="fab fa-linkedin-in"></a></li>
+						</ul>
+					</div>
+				</div>		
+			</div>
+		</div>
+	</div>
+</div>
 <!--==================================================-->
-<!-- start funnelRivers slider Area -->
+<!-- start dreamit slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -28,29 +71,29 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers slider Area -->
+<!-- End dreamit slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers service Area -->
+<!-- Start dreamit service Area -->
 <!--==================================================-->
 <div class="service-area">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-md-6 col-sm-12 padding-left">
-				<div class="funnelRivers-section-title text-left">
+				<div class="dreamit-section-title text-left">
 					<h5>SEO</h5>
 					<h1>WE SERVE THE PERFECT SEO <span>SOLUTION</span></h1>					
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="funnelRivers-sinlge-service-box">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-growth"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>Website Audit</h2>
 								<p>Comprehensive review of a website's current SEO performance, identifying areas of improvement.</p>
 							</div>
@@ -59,13 +102,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="funnelRivers-sinlge-service-box-1">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box-1">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-clock"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>SEO Reporting</h2>
 								<p>Providing regular reports on SEO performance, keyword rankings, and traffic analysis.</p>
 							</div>
@@ -74,13 +117,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="funnelRivers-sinlge-service-box ">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box ">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-pen"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>Off-Page SEO</h2>
 								<p>Building backlinks from reputable sites to improve domain authority and rankings.</p>
 							</div>
@@ -89,13 +132,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="funnelRivers-sinlge-service-box-1">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box-1">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-chat"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>Mobile Optimization</h2>
 								<p>Google prioritizes mobile-friendly websites (mobile-first indexing). Responsive design and fast mobile load times are essential.</p>
 							</div>
@@ -104,13 +147,13 @@
 				</div>
 			</div>
 			<!-- <div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="funnelRivers-sinlge-service-box-1">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box-1">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-money-2"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>Digital Marketing</h2>
 								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
 							</div>
@@ -119,8 +162,8 @@
 				</div>
 			</div> -->
 			<!-- <div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="funnelRivers-sinlge-service-box2">
-					<div class="funnelRivers-service-box-inner">
+				<div class="dreamit-sinlge-service-box2">
+					<div class="dreamit-service-box-inner">
 						<div class="service-button">
 							<a href="#">Read More <i class="fas fa-plus"></i></a>
 						</div>
@@ -131,17 +174,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers service Area -->
+<!-- End dreamit service Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers service Area -->
+<!-- Start dreamit service Area -->
 <!--==================================================-->
 <div class="service-area style-three">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-sm-12">
-				<div class="funnelRivers-section-title style-three white text-center pb-3">
+				<div class="dreamit-section-title style-three white text-center pb-3">
 					<h5>SEO</h5>
 					<h1>WE SERVE THE PERFECT</h1>
 					<h1> SEO <span>SOLUTIONS</span></h1>				
@@ -150,13 +193,13 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-sinlge-service-box white">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box white">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-brain-1"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>On-Page SEO</h2>
 								<p>Keyword usage, Meta descriptions and tags, URL structure, Internal linking, Image alt text, Mobile-friendliness and page speed.</p>
 							</div>
@@ -168,13 +211,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-sinlge-service-box white">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box white">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon flaticon-code"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>Off-Page SEO</h2>
 								<p>Building backlinks (links from other websites to yours), Social media signals, Brand mentions and reputation management.</p>
 							</div>
@@ -186,13 +229,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-sinlge-service-box white">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box white">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-pen"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>Technical SEO</h2>
 								<p>Site speed and performance, Mobile optimization, XML sitemap and robots.txt files, Structured data, Website security.</p>
 							</div>
@@ -204,13 +247,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="funnelRivers-sinlge-service-box white">
-					<div class="funnelRivers-service-box-inner">
-						<div class="funnelRivers-service-content">
-							<div class="funnelRivers-service-icon">
+				<div class="dreamit-sinlge-service-box white">
+					<div class="dreamit-service-box-inner">
+						<div class="dreamit-service-content">
+							<div class="dreamit-service-icon">
 								<i class="flaticon-chat"></i>
 							</div>
-							<div class="funnelRivers-service-title">
+							<div class="dreamit-service-title">
 								<h2>Content SEO</h2>
 								<p>Creating high-quality, informative, and relevant content, Incorporating targeted keywords naturally, Optimizing content for user intent.</p>
 							</div>
@@ -225,17 +268,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers service Area -->
+<!-- End dreamit service Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers feature Area -->
+<!-- Start dreamit feature Area -->
 <!--==================================================-->
 <div class="feture-area pt-100 pb-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-5 col-md-5 col-sm-12">
-				<div class="funnelRivers-section-title style-four text-left pb-3">
+				<div class="dreamit-section-title style-four text-left pb-3">
 					<h5>SEO</h5>
 					<!-- <h1>YOU CAN GET THE</h1>
 					<h1>BEST ALL DESIGN</h1>	
@@ -246,7 +289,7 @@
 				</div>
 			</div>
 			<div class="col-lg-7 col-md-6 col-sm-12">
-				<div class="funnelRivers-department-tab">
+				<div class="dreamit-department-tab">
 					<ul class="nav nav-pills mb-60" id="pills-tab" role="tablist">
 						<li class="nav-item">
 							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FUNNEL RIVERS</span></a>
@@ -255,7 +298,7 @@
 					</ul>
 					<div class="tab-content" id="pills-tabContent">
 						<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-							<div class="funnelRivers-department-tab-box">
+							<div class="dreamit-department-tab-box">
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
@@ -263,12 +306,12 @@
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="funnelRivers-department-thumb">
+										<div class="dreamit-department-thumb">
 											<img src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="funnelRivers-department-bottom-content-inner">
+										<div class="dreamit-department-bottom-content-inner">
 											<ul>
 												<li><i class="fas fa-check"></i><span>Tailored SEO Solutions.</span></li>
 												<li><i class="fas fa-check"></i><span>Proven Results.</span></li>
@@ -281,7 +324,7 @@
 							</div>
 						</div>
 						<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-							<div class="funnelRivers-department-tab-box">
+							<div class="dreamit-department-tab-box">
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
@@ -289,12 +332,12 @@
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="funnelRivers-department-thumb">
+										<div class="dreamit-department-thumb">
 											<img src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="funnelRivers-department-bottom-content-inner">
+										<div class="dreamit-department-bottom-content-inner">
 											<ul>
 												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
 												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
@@ -307,7 +350,7 @@
 							</div>
 						</div>
 						<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-							<div class="funnelRivers-department-tab-box">
+							<div class="dreamit-department-tab-box">
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
@@ -315,12 +358,12 @@
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="funnelRivers-department-thumb">
+										<div class="dreamit-department-thumb">
 											<img src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="funnelRivers-department-bottom-content-inner">
+										<div class="dreamit-department-bottom-content-inner">
 											<ul>
 												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
 												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
@@ -339,53 +382,53 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers feature Area -->
+<!-- End dreamit feature Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers brand Area -->
+<!-- Start dreamit brand Area -->
 <!--==================================================-->
-<!-- <div class="brand-area style-four">
+<div class="brand-area style-four">
 	<div class="container">
 		<div class="row">
 			<div class="brand-list owl-carousel">
 				<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>				
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand5.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand3.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand1.png" alt="">
 					</div>
 				</div>
 			</div> 
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand2.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelRivers-single-brand">
+				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand4.png" alt="">
 					</div>
@@ -394,13 +437,13 @@
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 <!--==================================================-->
-<!--End funnelRivers brand Area -->
+<!--End dreamit brand Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers subscribe Area -->
+<!-- Start dreamit subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area">
 	<div class="container">
@@ -415,7 +458,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact_form" action="https://html.funnelRiverssolution.net/funnelRivers/digital-agency/mail.php" method="POST">
+					<form id="contact_form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -428,7 +471,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers subscribe Area -->
+<!-- End dreamit subscribe Area -->
 <!--==================================================-->
 
 
@@ -595,7 +638,7 @@
 	</script>
 </body>
 
-<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
+<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
 </html>
 
 

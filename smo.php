@@ -1,9 +1,8 @@
-
 <?php include('includes/header.php');?>
 
 
 <!--==================================================-->
-<!-- End funnelRivers Main Menu Area -->
+<!-- End dreamit Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -51,7 +50,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start funnelRivers slider Area -->
+<!-- start dreamit slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -72,11 +71,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers slider Area -->
+<!-- End dreamit slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers service Area -->
+<!-- Start dreamit service Area -->
 <!--==================================================-->
 <div class="service-area" id="blog">
 	<div class="container">		
@@ -84,8 +83,8 @@
 			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
-						<div class="funnelRivers-single-service-box">
-							<div class="funnelRivers-sigle-tmumb">
+						<div class="dreamit-single-service-box">
+							<div class="dreamit-sigle-tmumb">
 								<img src="assets/images/resource/img-1.jpg" alt="">
 							</div>
 							<div class="em-service-content">
@@ -103,11 +102,8 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-
 								<h4>Expert Content Creation</h4>
 								<p>High-quality, engaging content designed to resonate with your audience.</p>
-
-
 							</div>
 						</div>
 					</div>
@@ -168,8 +164,8 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets\images\Creations\smo-image-370x500.png" alt="SMO">		
-						<!-- <div class="widget-service-content text-center">
+						<img src="assets/images/resource/details.png" alt="">		
+						<div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>
 							</div>
@@ -184,7 +180,7 @@
 								<a href="#">LET’s START NOW</a>
 								<span><i class="fas fa-link"></i></span>
 							</div>
-						</div> -->
+						</div>
 					</div>
 				</div>
 			</div>	
@@ -192,11 +188,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers service Area -->
+<!-- End dreamit service Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers subscribe Area -->
+<!-- Start dreamit subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area">
 	<div class="container">
@@ -211,7 +207,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact_form" action="https://html.funnelRiverssolution.net/funnelRivers/digital-agency/mail.php" method="POST">
+					<form id="contact_form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -224,7 +220,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers subscribe Area -->
+<!-- End dreamit subscribe Area -->
 <!--==================================================-->
 
 
@@ -391,7 +387,7 @@
     </script>
 </body>
 
-<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:38 GMT -->
+<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:38 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

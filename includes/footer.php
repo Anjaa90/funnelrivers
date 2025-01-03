@@ -3,8 +3,8 @@
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="widget-widgets-company-info white">
-					<div class="funnelRivers-logo">
-						<a class="logo_img" href="index.html" title="funnelRivers">
+					<div class="dreamit-logo">
+						<a class="logo_img" href="index.html" title="dreamit">
 							<img src="assets/images/logo.png" alt="" />
 						</a>
 					</div>
@@ -56,7 +56,7 @@
 						</div>
 						<div class="footer-socail-info">
 							<p>
-								<span>+91-9923707569</span>
+								<span>(+001) 123-456-7890</span>
 							</p>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 							<i class="icon flaticon-email"></i>
 						</div>
 						<div class="footer-socail-info">
-							<p>dipti@funnelrivers.com</p>
+							<p>info@example.com</p>
 						</div>
 					</div>
 					<div class="footer-inner">
@@ -73,7 +73,7 @@
 							<i class="icon flaticon-placeholder-1"></i>
 						</div>
 						<div class="footer-socail-info2">
-							<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
+							<p>515 Carriage Court, Coachella, CA, 92236 USA</p>
 						</div>
 					</div>
 				</div>	
@@ -83,7 +83,7 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-						<p>Copyright © 2021. All rights reserved to <span>funnelRivers</span></p>
+						<p>Copyright © 2021. All rights reserved to <span>dreamit</span></p>
 					</div>
 				</div>
 			</div>
@@ -96,7 +96,7 @@
 	</div>
 </div>		
 <!--==================================================-->
-<!-- End funnelRivers Footer Middle Area -->
+<!-- End dreamit Footer Middle Area -->
 <!--==================================================-->
 
 <!--==================================================-->
