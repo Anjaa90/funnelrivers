@@ -1,6 +1,5 @@
 
-<?php include('includes/header.php'); ?>
-
+<?php include('includes/header.php');?>
 <!--==================================================-->
 <!-- End dreamit Main Menu Area -->
 <!--==================================================-->
