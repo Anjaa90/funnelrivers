@@ -1,185 +1,6 @@
+<?php include('includes/header.php');?>
 
-<!DOCTYPE HTML>
-<html lang="en-US">
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>dreamit-IT Solutions Services HTML5 Template</title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Favicon -->
-<link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.png">
-<!-- bootstrap CSS -->
-<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
-<!-- carousel CSS -->
-<link rel="stylesheet" href="assets/css/owl.carousel.min.css" type="text/css" media="all" />	
-<!-- nivo-slider CSS -->
-<link rel="stylesheet" href="assets/css/nivo-slider.css" type="text/css" media="all" />
-<!-- animate CSS -->
-<link rel="stylesheet" href="assets/css/animate.css" type="text/css" media="all" />	
-<!-- animated-text CSS -->
-<link rel="stylesheet" href="assets/css/animated-text.css" type="text/css" media="all" />	
-<!-- font-awesome CSS -->
-<link rel="stylesheet" href="assets/css/all.min.css" type="text/css" media="all" />	
-<!-- font-flaticon CSS -->
-<link rel="stylesheet" href="assets/css/flaticon.css" type="text/css" media="all" />	
-<!-- theme-default CSS -->
-<link rel="stylesheet" href="assets/css/theme-default.css" type="text/css" media="all" />	
-<!-- meanmenu CSS -->
-<link rel="stylesheet" href="assets/css/meanmenu.min.css" type="text/css" media="all" />	
-<!-- Main Style CSS -->
-<link rel="stylesheet"  href="style.css" type="text/css" media="all" />
-<!-- transitions CSS -->
-<link rel="stylesheet" href="assets/css/owl.transitions.css" type="text/css" media="all" />
-<!-- venobox CSS -->
-<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all" />
-<!-- widget CSS -->
-<link rel="stylesheet" href="assets/css/widget.css" type="text/css" media="all" />
-<!-- responsive CSS -->
-<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all" />
-<!-- slick slider CSS -->
-<link rel="stylesheet" href="assets/css/slick.css" type="text/css" media="screen" />
-<!-- slick slider CSS -->
-<link rel="stylesheet" href="assets/css/slick-theme.css" type="text/css" media="screen" />
-</head>
-<body>
-<!--==================================================-->
-<!-- Start dreamit Main Menu Area -->
-<!--==================================================-->
-<div id="sticky-header" class="dreamit_nav_manu style-two">
-	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-lg-3">
-				<div class="logo">
-					<a class="logo_img" href="index.html" title="dreamit">
-						<img src="assets\images\funnellogo.png" alt="" />
-					</a>
-					<a class="main_sticky" href="index.html" title="dreamit">
-						<img src="assets\images\funnellogo.png" alt="astute" />
-					</a>
-				</div>
-			</div>
-			<div class="col-lg-9">
-				<nav class="dreamit_menu text-left">
-					<ul class="nav_scroll">
-						<li><a href="index.html">Home</a></li>
-							<!-- <ul class="sub-menu">
-								<li><a href="index.html">Digital Agency 01</a></li>
-								<li><a href="index-2.html">Digital Agency 02</a></li>
-								<li><a href="index-3.html">Digital Agency 03</a></li>
-								<li><a href="index-4.html">Digital Agency 04</a></li>
-								<li><a href="index-5.html">Digital Agency 05</a></li>
-								<li><a href="index-6.html">Digital Agency 06</a></li>
-								<li><a href="landing-01.html">Landing Page 01</a></li>
-								<li><a href="landing-02.html">Landing Page 02</a></li>
-							</ul> -->
-						</li>
-						<li><a href="#Company">About Us <span><i class="fas fa-angle-down"></i></span></a>
-							<ul class="sub-menu">
-								<li><a href="about.html">Testimonial</a></li>
-								<li><a href="team-member.html">Our Clients</a></li>
-								<li><a href="contact-us.html">Careers</a></li>
-								<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
-							</ul>
-						</li>
-						<li><a href="#Services.html">Marketing <span><i class="fas fa-angle-down"></i></span></a>
-							<ul class="sub-menu">
-								<li><a href="service.html">SEO</a></li>
-								<li><a href="service-details.html">SMO</a></li>
-								<li><a href="service-details.html">Marketing Automation</a></li>
-							</ul>   
-						</li>
-						<!-- <li><a href="#Solution.html"></a></li>-->
-						<li><a href="#blog">Advertising<span><i class="fas fa-angle-down"></i></span></a>
-							<ul class="sub-menu">
-								<li><a href="blog-grid.html">Google Ads</a></li>
-								<li><a href="blog-list.html">Facebook Ads</a></li>
-								<li><a href="blog-details.html">Youtube Ads</a></li>
-								<li><a href="blog-2colum.html">X Twitter Ads</a></li>
-								<li><a href="blog-2colum.html">Instagram Ads</a></li>
-							</ul>
-						</li>
-						<li><a href="#blog">Creations<span><i class="fas fa-angle-down"></i></span></a>
-							<ul class="sub-menu">
-								<li><a href="blog-grid.html">Content Writing</a></li>
-								<li><a href="blog-list.html">Website Development</a></li>
-								<li><a href="blog-details.html">Graphic & Videos</a></li>
-								<li><a href="blog-2colum.html">Resume Making</a></li>
-								<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
-							</ul>
-						</li>
-						<li><a href="contact-us.html">Contact Us</a></li>
-					</ul>
-					<div class="header-button">
-						<i class="flaticon-phone-call"></i>		
-					</div>	
-					<div class="slider-button-text">
-						<p>Call Now!</p>
-						<h2>+91-9923-707-569</h2>
-					</div>		
-				</nav>							
-			</div>
-		</div>
-	</div>
-</div>
-<!-- dreamit Mobile Menu Area -->
-<div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
-	<div class="mobile-menu">
-		<nav class="dreamit_menu">
-			<ul class="nav_scroll">
-				<li><a href="#home">Home <span><i class="fas fa-angle-down"></i></span></a>
-					<!-- <ul class="sub-menu">
-						<li><a href="index.html">Digital Agency 01</a></li>
-						<li><a href="index-2.html">Digital Agency 02</a></li>
-						<li><a href="index-3.html">Digital Agency 03</a></li>
-						<li><a href="index-4.html">Digital Agency 04</a></li>
-						<li><a href="index-5.html">Digital Agency 05</a></li>
-						<li><a href="index-6.html">Digital Agency 06</a></li>
-						<li><a href="landing-01.html">Landing Page 01</a></li>
-						<li><a href="landing-02.html">Landing Page 02</a></li>
-					</ul> -->
-				</li>
-				<li><a href="#Company">About Us <span><i class="fas fa-angle-down"></i></span></a>
-					<ul class="sub-menu">
-						<li><a href="about.html">Testimonial</a></li>
-						<li><a href="team-member.html">Our Clients</a></li>
-						<li><a href="contact-us.html">Careers</a></li>
-						<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
-					</ul>
-				</li>
-				<li><a href="#Services.html">Marketing <span><i class="fas fa-angle-down"></i></span></a>
-					<ul class="sub-menu">
-						<li><a href="service.html">SEO</a></li>
-						<li><a href="service-details.html">SMO</a></li>
-						<li><a href="service-details.html">Marketing Automation</a></li>
-					</ul>   
-				</li>
-				<li><a href="#blog">Advertising<span><i class="fas fa-angle-down"></i></span></a>
-					<ul class="sub-menu">
-						<li><a href="blog-grid.html">Google Ads</a></li>
-						<li><a href="blog-list.html">Facebook Ads</a></li>
-						<li><a href="blog-details.html">Youtube Ads</a></li>
-						<li><a href="blog-2colum.html">X Twitter Ads</a></li>
-						<li><a href="blog-2colum.html">Instagram Ads</a></li>
-					</ul>
-				</li>
-				<li><a href="#blog">Creations<span><i class="fas fa-angle-down"></i></span></a>
-					<ul class="sub-menu">
-						<li><a href="blog-grid.html">Content Writing</a></li>
-						<li><a href="blog-list.html">Website Development</a></li>
-						<li><a href="blog-details.html">Graphic & Videos</a></li>
-						<li><a href="blog-2colum.html">Resume Making</a></li>
-						<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
-					</ul>
-				</li>
-				<li><a href="contact-us.html">Contact Us</a></li>
-					
-			</ul>
-		</nav>
-	</div>
-</div>
 <!--==================================================-->
 <!-- End dreamit Main Menu Area -->
 <!--==================================================-->
@@ -194,7 +15,7 @@
 				</a>
 			</div>
 			<div class="sidebar-textwidget">
-				<!-- Sidebar Info Content -->
+				
 				<div class="sidebar-info-contents">
 					<div class="content-inner">
 						<div class="nav-logo">
@@ -214,7 +35,7 @@
 								<li><span class="flaticon-clock-2"></span>Week Days: 09.00 to 18.00 Sunday: Closed</li>
 							</ul>
 						</div>
-						<!-- Social Box -->
+					
 						<ul class="social-box">
 							<li class="facebook"><a href="#" class="fab fa-facebook-f"></a></li>
 							<li class="twitter"><a href="#" class="fab fa-instagram"></a></li>
@@ -237,11 +58,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>SERVICES</h2>
+						<h2>SEO</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>SERVICES</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>SEO</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -259,11 +80,10 @@
 <div class="service-area">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-12 padding-left">
+			<div class="col-lg-12 col-md-6 col-sm-12 padding-left">
 				<div class="dreamit-section-title text-left">
-					<h5>SERVICES</h5>
-					<h1>WE SERVE THE PERFECT</h1>
-					<h1>PIXEL <span>IT SOLUTION</span></h1>					
+					<h5>SEO</h5>
+					<h1>WE SERVE THE PERFECT SEO <span>SOLUTION</span></h1>					
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
@@ -274,8 +94,8 @@
 								<i class="flaticon-growth"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>SEO Consultancy</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>Website Audit</h2>
+								<p>Comprehensive review of a website's current SEO performance, identifying areas of improvement.</p>
 							</div>
 						</div>
 					</div>
@@ -289,44 +109,44 @@
 								<i class="flaticon-clock"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>UI/UX Designing</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>SEO Reporting</h2>
+								<p>Providing regular reports on SEO performance, keyword rankings, and traffic analysis.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="dreamit-sinlge-service-box active">
+				<div class="dreamit-sinlge-service-box ">
 					<div class="dreamit-service-box-inner">
 						<div class="dreamit-service-content">
 							<div class="dreamit-service-icon">
 								<i class="flaticon-pen"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>App Development</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>Off-Page SEO</h2>
+								<p>Building backlinks from reputable sites to improve domain authority and rankings.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="dreamit-sinlge-service-box">
+				<div class="dreamit-sinlge-service-box-1">
 					<div class="dreamit-service-box-inner">
 						<div class="dreamit-service-content">
 							<div class="dreamit-service-icon">
 								<i class="flaticon-chat"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>Web Designing</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>Mobile Optimization</h2>
+								<p>Google prioritizes mobile-friendly websites (mobile-first indexing). Responsive design and fast mobile load times are essential.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
+			<!-- <div class="col-lg-3 col-md-6 col-sm-12 padding-left">
 				<div class="dreamit-sinlge-service-box-1">
 					<div class="dreamit-service-box-inner">
 						<div class="dreamit-service-content">
@@ -340,8 +160,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
+			</div> -->
+			<!-- <div class="col-lg-3 col-md-6 col-sm-12 padding-left">
 				<div class="dreamit-sinlge-service-box2">
 					<div class="dreamit-service-box-inner">
 						<div class="service-button">
@@ -349,7 +169,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>
@@ -365,9 +185,9 @@
 		<div class="row">
 			<div class="col-lg-12 col-sm-12">
 				<div class="dreamit-section-title style-three white text-center pb-3">
-					<h5>SERVICES</h5>
+					<h5>SEO</h5>
 					<h1>WE SERVE THE PERFECT</h1>
-					<h1>PIXEL <span>SOLUTIONS</span></h1>				
+					<h1> SEO <span>SOLUTIONS</span></h1>				
 				</div>
 			</div>
 		</div>
@@ -380,13 +200,13 @@
 								<i class="flaticon-brain-1"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>DIGITAL SEO CONSULTANCY</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>On-Page SEO</h2>
+								<p>Keyword usage, Meta descriptions and tags, URL structure, Internal linking, Image alt text, Mobile-friendliness and page speed.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -398,13 +218,13 @@
 								<i class="flaticon flaticon-code"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>APPS INTERFACE DESIGN</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>Off-Page SEO</h2>
+								<p>Building backlinks (links from other websites to yours), Social media signals, Brand mentions and reputation management.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -416,13 +236,13 @@
 								<i class="flaticon-pen"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>WEBSITE DEVELOPMENT</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>Technical SEO</h2>
+								<p>Site speed and performance, Mobile optimization, XML sitemap and robots.txt files, Structured data, Website security.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -434,13 +254,13 @@
 								<i class="flaticon-chat"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>UI DATABASE DESIGN</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>Content SEO</h2>
+								<p>Creating high-quality, informative, and relevant content, Incorporating targeted keywords naturally, Optimizing content for user intent.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -459,25 +279,22 @@
 		<div class="row">
 			<div class="col-lg-5 col-md-5 col-sm-12">
 				<div class="dreamit-section-title style-four text-left pb-3">
-					<h5>SERVICES</h5>
-					<h1>YOU CAN GET THE</h1>
+					<h5>SEO</h5>
+					<!-- <h1>YOU CAN GET THE</h1>
 					<h1>BEST ALL DESIGN</h1>	
-					<h1><span> SOLUTION</span></h1>
-					<p>Dramatically enable is a economically sound information deliverables is a completely impact resource-leveling the focussed leadership for a reals methodologies supported digital agency dreamit.</p>
+					<h1><span> SOLUTION</span></h1> -->
+					<h1>You Can Get the Best All-Design Solution with <span>SEO Services</span> by Funnel River</h1>
+					
+					
 				</div>
 			</div>
 			<div class="col-lg-7 col-md-6 col-sm-12">
 				<div class="dreamit-department-tab">
 					<ul class="nav nav-pills mb-60" id="pills-tab" role="tablist">
 						<li class="nav-item">
-							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FULL SATISFACTION</span></a>
+							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FUNNEL RIVERS</span></a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false"><span>EXPERT TEAM</span></a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false"><span>MISSION & VISION</span></a>
-						</li>	
+						
 					</ul>
 					<div class="tab-content" id="pills-tabContent">
 						<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
@@ -485,7 +302,7 @@
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
-											<p>We’ve combined a new kind of doctor’s experience that blends the highest level of the moment your health care with exceptional service. People can enroll membership by paying only an annual.</p>
+											<p>FunnelRiver delivers tailored SEO solutions with clear communication and continuous support to ensure customer satisfaction and long-term success.</p>
 										</div>
 									</div>
 									<div class="col-lg-6">
@@ -496,10 +313,10 @@
 									<div class="col-lg-6">
 										<div class="dreamit-department-bottom-content-inner">
 											<ul>
-												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
-												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
-												<li><i class="fas fa-check"></i><span>Quality users after Breed Applications.</span></li>
-												<li><i class="fas fa-check"></i><span>Market Positioning Expertise.</span></li>
+												<li><i class="fas fa-check"></i><span>Tailored SEO Solutions.</span></li>
+												<li><i class="fas fa-check"></i><span>Proven Results.</span></li>
+												<li><i class="fas fa-check"></i><span>Clear Communication.</span></li>
+												<li><i class="fas fa-check"></i><span>Ongoing Support.</span></li>
 											</ul>
 										</div>
 									</div>
@@ -657,109 +474,7 @@
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
 
-<!--==================================================-->
-<!-- Start dreamit Footer Middle Area -->
-<!--==================================================-->
-<div class="footer-middle"> 
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="widget-widgets-company-info white">
-					<div class="dreamit-logo">
-						<a class="logo_img" href="index.html" title="dreamit">
-							<img src="assets/images/logo.png" alt="" />
-						</a>
-					</div>
-					<div class="company-info-desc">
-						<p>Holisticly reintermediate intuitive factured products after ethical to rables. Monotonectally.</p>
-					</div>
-					<div class="company_icon">
-						<a href="#"><i class="fab fa-facebook-f"></i></a>
-						<a href="#"><i class="fab fa-instagram"></i></a>
-						<a href="#"><i class="fab fa-twitter"></i></a>
-						<a href="#"><i class="fab fa-pinterest-p"></i></a>
-					</div>
-				</div>					
-			</div>
-			<div class="col-lg-2 col-md-6 col-sm-12">
-				<div class="widget widget-nav-menu">
-					<h4 class="widget-title"><span>R</span>ESOURCE</h4>
-					<div class="menu-quick-link-content">
-						<ul class="menu">
-							<li><a href="#">Open Source</a></li>
-							<li><a href="#">Documentation</a></li>
-							<li><a href="#">User Studio</a></li>
-							<li><a href="#">Manage Report</a></li>
-							<li><a href="#">Live Seassion</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>	
-			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="widget-footer-title pl-4">
-					<h4 class="widget-title"><span>U</span>SEFUL LINKS</h4>
-				</div>
-				<div class="footer-recent-post pl-4">
-					<ul class="menu">
-						<li><a href="#">Open Source</a></li>
-						<li><a href="#">Documentation</a></li>
-						<li><a href="#">User Studio</a></li>
-						<li><a href="#">Manage Report</a></li>
-						<li><a href="#">Live Seassion</a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div id="footer-widget-address">
-					<h4 class="widget-title"><span>C</span>ONTACTS</h4>
-					<div class="footer-inner">
-						<div class="footer-socail-icon">
-							<i class="flaticon-call"></i>
-						</div>
-						<div class="footer-socail-info">
-							<p>
-								<span>(+001) 123-456-7890</span>
-							</p>
-						</div>
-					</div>
-					<div class="footer-inner">
-						<div class="footer-socail-icon">
-							<i class="icon flaticon-email"></i>
-						</div>
-						<div class="footer-socail-info">
-							<p>info@example.com</p>
-						</div>
-					</div>
-					<div class="footer-inner">
-						<div class="footer-socail-icon">
-							<i class="icon flaticon-placeholder-1"></i>
-						</div>
-						<div class="footer-socail-info2">
-							<p>515 Carriage Court, Coachella, CA, 92236 USA</p>
-						</div>
-					</div>
-				</div>	
-			</div>
-		</div>
-		<div class="row footer-bottom">
-			<div class="col-lg-6 col-md-6">
-				<div class="footer-bottom-content">
-					<div class="footer-bottom-content-copy">
-						<p>Copyright © 2021. All rights reserved to <span>dreamit</span></p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="footer-bottom-menu">
-					<p>Terms & Condition . Services . Careers</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>		
-<!--==================================================-->
-<!-- End dreamit Footer Middle Area -->
-<!--==================================================-->
+
 
 <!--==================================================-->
 <!-- Start scrollup section Area -->
@@ -925,3 +640,6 @@
 
 <!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
 </html>
+
+
+<?php include('includes/footer.php'); ?>

@@ -234,7 +234,7 @@
 <!--==================================================-->
 <!-- Start dreamit Footer Middle Area -->
 <!--==================================================-->
-<div class="footer-middle"> 
+<!-- <div class="footer-middle"> 
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-12">
@@ -330,7 +330,7 @@
 			</div>
 		</div>
 	</div>
-</div>		
+</div>		 -->
 <!--==================================================-->
 <!-- End dreamit Footer Middle Area -->
 <!--==================================================-->
@@ -499,3 +499,5 @@
 
 <!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
 </html>
+
+<?php include('includes/footer.php'); ?>
