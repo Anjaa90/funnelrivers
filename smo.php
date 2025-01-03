@@ -165,8 +165,8 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets/images/resource/details.png" alt="">		
-						<div class="widget-service-content text-center">
+						<img src="assets\images\Creations\smo-image-370x500.png" alt="SMO">		
+						<!-- <div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>
 							</div>
@@ -181,7 +181,7 @@
 								<a href="#">LET’s START NOW</a>
 								<span><i class="fas fa-link"></i></span>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>	

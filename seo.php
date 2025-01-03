@@ -388,7 +388,7 @@
 <!--==================================================-->
 <!-- Start dreamit brand Area -->
 <!--==================================================-->
-<div class="brand-area style-four">
+<!-- <div class="brand-area style-four">
 	<div class="container">
 		<div class="row">
 			<div class="brand-list owl-carousel">
@@ -437,7 +437,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!--End dreamit brand Area -->
 <!--==================================================-->

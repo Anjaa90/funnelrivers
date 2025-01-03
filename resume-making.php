@@ -57,11 +57,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>Blog 2column</h2>
+						<h2>Resume Making</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Blog 2column</span></li>
+						<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">creations</a> <i class="fas fa-angle-double-right"></i></span> <span>Resume Making</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -73,10 +73,148 @@
 <!-- End dreamit slider Area -->
 <!--==================================================-->
 
+
+<!-- Start Funnelriver service Area -->
+<!--==================================================-->
+<div class="service-area" id="blog">
+	<div class="container">		
+		<div class="row">	
+			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
+				<div class="row">
+					<div class="col-lg-12 col-sm-12">
+						<div class="dreamit-single-service-box">
+							<div class="dreamit-sigle-tmumb">
+								<img src="assets/images/resource/img-1.jpg" alt="">
+							</div>
+							<div class="em-service-content">
+								<div class="service-page-title">
+									<h1><a href="#">Funnelriver Resume Making Services
+									</a></h1>
+									<p>Funnelriver provides professional resume-making services to help you stand out in today’s competitive job market. We craft personalized resumes that highlight your skills, experience, and achievements in a compelling way. Our expert writers ensure your resume is optimized for both human recruiters and applicant tracking systems (ATS).
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
+						<div class="service-details-box">
+							<div class="service-details-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="service-details-title">
+								<h4>Expert Content Creation</h4>
+								<p>High-quality, engaging content designed to resonate with your audience.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
+						<div class="service-details-box">
+							<div class="service-details-icon">
+								<i class="flaticon-support-6"></i>
+							</div>
+							<div class="service-details-title">
+								<h4>Performance Monitoring</h4>
+								<p> Regular analytics and optimization to improve results.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12">
+						<div class="service-details-thumb">
+							<img src="assets/images/resource/img-2.png" alt="">
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12">
+						<div class="service-details-icon-box">
+							<div class="service-details-icon-title">
+								<h3>We Serve the Best Work in Resume Making 
+								</h3>
+								<p>We deliver exceptional Resume Making with tailored strategies, targeted solutions.</p>
+							</div>
+						</div>
+						<div class="widget-service-details-icon">
+							<p><i class="fas fa-check"></i> <span>Tailored Strategies</span></p>
+							<p><i class="fas fa-check"></i> <span>Targeted Ads</span></p>
+							<p><i class="fas fa-check"></i> <span>Data-Driven Results </span></p>
+						</div>
+					</div>
+					<div class="col-lg-12 col-sm-12">
+					<div class="widget-details-text pt-25 pb-3">
+						<h4> Resume Making Services by Funnel River</h4>
+						<br>
+    					<p><i class="fas fa-check"></i> <b>Professional Resume Design</b>
+    					Creating clean, modern, and ATS-friendly resumes that highlight your skills and achievements.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Content Optimization for Impact</b>
+    					Writing compelling summaries, experience descriptions, and skill sections to showcase your strengths.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Keyword Integration for ATS</b> 
+    					Optimizing your resume with relevant keywords to pass through Applicant Tracking Systems (ATS).
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Cover Letter Writing</b>
+    					Crafting personalized cover letters that complement your resume and highlight your enthusiasm for the role.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>LinkedIn Profile Optimization</b>
+    					Optimizing your LinkedIn profile to match your resume, ensuring consistency across platforms.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Job-Specific Customization</b>
+    					Tailoring your resume for specific job applications, focusing on relevant skills and experiences.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Resume Editing and Proofreading</b>
+    					Offering professional editing to eliminate grammatical errors, inconsistencies, and formatting issues.
+    					</p>
+					</div>
+
+					</div>
+				</div>	
+			</div>
+			<div class=" col-lg-4 col-md-6 col-sm-12 col-sm-12">
+				<div class="widget-service-box">
+					<h4>ALL Creations</h4>
+					<div class="widget-service-menu">
+						<ul>
+							<li><a href="content-writing.php">Content Writing <i class="fas fa-angle-right"></i></a></li>	
+							<li><a href="web-development.php">Website Development<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="graphic-videos.php">Graphics and Videos<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="resume-making.php">Resume Making <i class="fas fa-angle-right"></i></a></li>
+							
+						</ul>
+					</div>
+				</div>
+				<div class="widget-service-thumb-box">
+					<div class="wedget-service-thumb">
+						<img src="assets\images\Creations\resume-making-1-image-370x500.png" alt="Resume making">		
+						<!-- <div class="widget-service-content text-center">
+							<div class="widget-text">
+								<p>Contact Us Now</p>
+							</div>
+							<div class="widget-title2">
+								<h3>If Need Help</h3>
+							</div>
+							<div class="widget-contact-title">
+								<h2>557-3452-234</h2>
+								<p>Or got to contact form</p>
+							</div>
+							<div class="widget-button">
+								<a href="#">LET’s START NOW</a>
+								<span><i class="fas fa-link"></i></span>
+							</div>
+						</div> -->
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- End dreamit service Area -->
+<!--==================================================-->
+
 <!--==================================================-->
 <!-- Start datatech Blog list Area -->
 <!--==================================================-->
-<div class="blog-list-area ">
+<!-- <div class="blog-list-area ">
 	<div class="container">		
 		<div class="row">	
 			<div class="col-lg-8 col-md-6 col-sm-12 col-xs-12">
@@ -283,12 +421,41 @@
 			</div>	
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- End datatech Blog list Area -->
 <!--==================================================-->
 
-
+<!-- Start dreamit subscribe Area -->
+<!--==================================================-->
+<div class="subscribe-area">
+	<div class="container">
+		<div class="row subscribe-bg">
+			<div class="col-lg-6 col-md-6 col-sm-12">
+				<div class="subscribe-content white">
+					<div class="subscribe-title">
+						<h1>Subscribe our newsletter</h1>
+						<p>Please Subscribe our news letter and and get update.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12">
+			    <div class="contact-form-box">	
+					<form id="contact_form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
+						<div class="from-box">
+							<input type="text" placeholder="Enter E-Mail Address">
+							<button>Subscribe</button>
+						</div>
+					</form>
+					<p class="form-message"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- End dreamit subscribe Area -->
+<!--==================================================-->
 
 <!--==================================================-->
 <!-- Start scrollup section Area -->
