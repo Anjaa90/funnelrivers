@@ -56,13 +56,13 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>Blog list</h2>
+						<h2>career</h2>
 					</div>
-					<div class="breatcumb-content-text">
+					<!-- <div class="breatcumb-content-text">
 						<ul>
 							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Blog list</span></li>
 						</ul>
-					</div>	
+					</div>	 -->
 				</div>
 			</div>
 		</div>

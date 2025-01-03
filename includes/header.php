@@ -43,6 +43,13 @@
     <link rel="stylesheet" href="assets/css/slick.css" type="text/css" media="screen" />
     <!-- slick slider CSS -->
     <link rel="stylesheet" href="assets/css/slick-theme.css" type="text/css" media="screen" />
+	<!-- Owl Carousel CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+<!-- Font Awesome for star icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 </head>
 <body>
 <!--==================================================-->
