@@ -57,11 +57,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>SEO & CONTENT WRITING</h2>
+						<h2>YouTube Ads</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">service</a> <i class="fas fa-angle-double-right"></i></span> <span>SEO & CONTENT WRITING</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">Advertising</a> <i class="fas fa-angle-double-right"></i></span> <span>YouTube Ads</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -88,8 +88,9 @@
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">UI/UX GRAPHIC DESIGN</a></h1>
-									<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics. Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
+									<h1><a href="#">Funnelriver YouTube Ads Services</a></h1>
+									<p>Funnelriver brings your brand to life with powerful YouTube Ads that drive engagement and conversions. Our team creates eye-catching video ads tailored to resonate with your target audience. Using YouTube’s advanced targeting tools, we ensure your ads reach the right viewers at the right moment, boosting your brand’s visibility and impact. We continuously track campaign performance, optimize based on data, and refine strategies to maximize your return on investment. With Funnelriver’s YouTube Ads, your business will experience enhanced brand awareness and measurable results. Let’s elevate your online presence and achieve your goals with the power of video advertising!
+									</p>
 								</div>
 							</div>
 						</div>
@@ -100,8 +101,9 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>Why funnelRivers</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<h4>Expert Content Creation</h4>
+								<p>High-quality, engaging content designed to resonate with your audience.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -111,8 +113,8 @@
 								<i class="flaticon-support-6"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>24/7 SUPPORT</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<h4>Performance Monitoring</h4>
+								<p>Regular analytics and optimization to improve results.</p>
 							</div>
 						</div>
 					</div>
@@ -124,23 +126,39 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-icon-box">
 							<div class="service-details-icon-title">
-								<h3>WE SERVE THE BEST WORK</h3>
-								<p>Dramatically monetize revolutionary collaboration and idea-sharing through accurate platforms the nectally syndicate high</p>
+								<h3>We Serve the Best Work in Youtube Ads!</h3>
+								<p>We specialize in delivering the best work in YouTube Ads, crafting tailored strategies.</p>
 							</div>
 						</div>
 						<div class="widget-service-details-icon">
-							<p><i class="fas fa-check"></i> <span>Rather than unique Idea.</span></p>
-							<p><i class="fas fa-check"></i> <span>Entums estibulum dignissim posuere</span></p>
-							<p><i class="fas fa-check"></i> <span>Quality users after Breed Applications.</span></p>
+							<p><i class="fas fa-check"></i> <span>Tailored Strategies</span></p>
+							<p><i class="fas fa-check"></i> <span>Targeted Ads</span></p>
+							<p><i class="fas fa-check"></i> <span>Data-Driven Results</span></p>
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12">
 						<div class="widget-details-text pt-25 pb-3">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities.</p>
+
+							<p><i class="fas fa-check"></i> <b>Custom YouTube Ad Campaigns</b> 
+							Developing tailored video ad strategies to reach your specific target audience on YouTube.
+							</p>
+							<p><i class="fas fa-check"></i> <b>TrueView Ads for Targeted Reach</b>
+							Running TrueView ads (skippable ads) to capture the attention of users with a compelling message.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Non-Skippable Ads for Full Impact</b> 
+							Creating non-skippable video ads that ensure users watch your message in full.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Bumper Ads for Short-Form Engagement</b>
+							Designing 6-second bumper ads that leave a lasting impression in a brief, impactful format.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Video Discovery Ads for Increased Visibility</b>
+							 Running video discovery ads that appear alongside related content in search results and YouTube recommendations.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Targeting Based on Demographics, Interests, and Behavior</b>
+							Utilizing YouTube’s targeting options to reach users based on age, gender, location, interests, and behavior.
+							</p>
 						</div>
-						<div class="widget-details-text2">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures.That product Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics of fetures Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with of customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
-						</div>
+						
 					</div>
 				</div>	
 			</div>
@@ -149,18 +167,18 @@
 					<h4>ALL SERVICES</h4>
 					<div class="widget-service-menu">
 						<ul>
-							<li><a href="web-development.html">WEB DEVELOPMENT <i class="fas fa-angle-right"></i></a></li>	
-							<li><a href="service-details.html">UI UX DESIGN <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="cloud-computing.html">CLOUD COMPUTING <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="digital-marketing.html">DIGITAL MARKETING <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="content-writing.html">SEO & CONTENT WRITING <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="google-ads.php">Google Ads<i class="fas fa-angle-right"></i></a></li>	
+							<li><a href="facebook-ads.php">Facebook Ads <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="youtube-ads.php">YouTube Ads<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="X-twitter-ads.php">X-Twitter Ads <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="instagram-ads.php">Instagram Ads <i class="fas fa-angle-right"></i></a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets/images/resource/details.png" alt="">		
-						<div class="widget-service-content text-center">
+						<img src="assets\images\googleAds\youtube-ads-2-370x500.png" alt="Youtube Ads">		
+						<!-- <div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>
 							</div>
@@ -175,7 +193,7 @@
 								<a href="#">LET’s START NOW</a>
 								<span><i class="fas fa-link"></i></span>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>	

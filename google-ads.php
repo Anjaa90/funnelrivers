@@ -62,8 +62,8 @@
 						<h2>Google Ads</h2>
 					</div>
 					<div class="breatcumb-content-text">
-						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Blog Grid</span></li>
+					<ul>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">Advertising</a> <i class="fas fa-angle-double-right"></i></span> <span>Google Ads</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -84,7 +84,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-1-208x300.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -102,7 +102,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-208x300.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -120,7 +120,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-1-208x300.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -138,7 +138,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-208x300.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -156,7 +156,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-1-208x300.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -175,7 +175,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-208x300.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">

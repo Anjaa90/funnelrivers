@@ -56,7 +56,7 @@
 						</div>
 						<div class="footer-socail-info">
 							<p>
-								<span>(+001) 123-456-7890</span>
+								<span>+91-9923707569</span>
 							</p>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 							<i class="icon flaticon-email"></i>
 						</div>
 						<div class="footer-socail-info">
-							<p>info@example.com</p>
+							<p>dipti@funnelrivers.com</p>
 						</div>
 					</div>
 					<div class="footer-inner">
@@ -73,7 +73,7 @@
 							<i class="icon flaticon-placeholder-1"></i>
 						</div>
 						<div class="footer-socail-info2">
-							<p>515 Carriage Court, Coachella, CA, 92236 USA</p>
+							<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
 						</div>
 					</div>
 				</div>	
