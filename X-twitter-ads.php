@@ -172,11 +172,11 @@
 					<h4>ALL SERVICES</h4>
 					<div class="widget-service-menu">
 						<ul>
-							<li><a href="web-development.html">WEB DEVELOPMENT <i class="fas fa-angle-right"></i></a></li>	
-							<li><a href="service-details.html">UI UX DESIGN <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="cloud-computing.html">CLOUD COMPUTING <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="digital-marketing.html">DIGITAL MARKETING <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="content-writing.html">SEO & CONTENT WRITING <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="google-ads.php">Google Ads<i class="fas fa-angle-right"></i></a></li>	
+							<li><a href="facebook-ads.php">Facebook Ads <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="youtube-ads.php">YouTube Ads<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="X-twitter-ads.php">X-Twitter Ads <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="instagram-ads.php">Instagram Ads <i class="fas fa-angle-right"></i></a></li>
 						</ul>
 					</div>
 				</div>
