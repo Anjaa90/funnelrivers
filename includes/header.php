@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 
-<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:35 GMT -->
+<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:35 GMT -->
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -49,28 +49,27 @@
 
 <!-- Font Awesome for star icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </head>
 <body>
 <!--==================================================-->
-<!-- Start funnelRivers Main Menu Area -->
+<!-- Start dreamit Main Menu Area -->
 <!--==================================================-->
-<div id="sticky-header" class="funnelRivers_nav_manu style-two">
+<div id="sticky-header" class="dreamit_nav_manu style-two">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-3">
 				<div class="logo">
-					<a class="logo_img" href="index.php" title="funnelRivers">
+					<a class="logo_img" href="index.php" title="dreamit">
 						<img src="assets\images\funnellogo.png" alt="" />
 					</a>
-					<a class="main_sticky" href="index.php" title="funnelRivers">
+					<a class="main_sticky" href="index.php" title="dreamit">
 						<img src="assets\images\funnellogo.png" alt="astute" />
 					</a>
 				</div>
 			</div>
 			<div class="col-lg-9">
-				<nav class="funnelRivers_menu text-left">
+				<nav class="dreamit_menu text-left">
 					<ul class="nav_scroll">
 						<li><a href="index.php">Home</a></li>
 							<!-- <ul class="sub-menu">
@@ -132,10 +131,10 @@
 		</div>
 	</div>
 </div>
-<!-- funnelRivers Mobile Menu Area -->
+<!-- dreamit Mobile Menu Area -->
 <div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
 	<div class="mobile-menu">
-		<nav class="funnelRivers_menu">
+		<nav class="dreamit_menu">
 			<ul class="nav_scroll">
 				<li><a href="#home">Home <span><i class="fas fa-angle-down"></i></span></a>
 					<!-- <ul class="sub-menu">
@@ -190,7 +189,7 @@
 </div>
 
 <!--==================================================-->
-<!-- End funnelRivers Main Menu Area -->
+<!-- End dreamit Main Menu Area -->
 <!--==================================================-->
 
 </header>

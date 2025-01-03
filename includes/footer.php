@@ -83,11 +83,7 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-<<<<<<< HEAD
-						<p>Copyright © 2024. All rights reserved to <span>FunnelRivers</span></p>
-=======
 						<p>Copyright © 2021. All rights reserved to <span>funnelRivers</span></p>
->>>>>>> 9e066d889de6f93d9d0168f56df262643ede3462
 					</div>
 				</div>
 			</div>

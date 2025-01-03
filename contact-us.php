@@ -37,11 +37,7 @@
 				<div class="funnelRivers-section-title style-two text-center">
 					<h5>CONTACT US</h5>
 					<h1>GET IN TOUCH ANY TIME</h1>
-<<<<<<< HEAD
-					<h1>WITH <span>Funnelriver</span></h1>
-=======
 					<h1>WITH <span>funnelRivers</span></h1>
->>>>>>> 9e066d889de6f93d9d0168f56df262643ede3462
 				</div>
 			</div>
 		</div>
@@ -55,11 +51,7 @@
 							</div>
 							<div class="contact-us-title">
 								<h2>Office Address</h2>
-<<<<<<< HEAD
 								<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
-=======
-								<p>Digital funnelRivers Network & IT 20 Eastbourne the Terrace Cen London W2</p>
->>>>>>> 9e066d889de6f93d9d0168f56df262643ede3462
 							</div>
 						</div>
 					</div>
