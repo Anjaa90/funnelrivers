@@ -79,34 +79,34 @@
 						<li><a href="#">About Us <span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 								<li><a href="testimonial.php">Testimonial</a></li>
-								<li><a href="team-member.php">Our Clients</a></li>
-								<li><a href="contact-us.php">Careers</a></li>
+								<li><a href="our-clients.php">Our Clients</a></li>
+								<li><a href="career.php">Careers</a></li>
 								<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
 							</ul>
 						</li>
 						<li><a href="#Services.html">Marketing <span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
-								<li><a href="service.php">SEO</a></li>
-								<li><a href="service-details.php">SMO</a></li>
-								<li><a href="service-details.php">Marketing Automation</a></li>
+								<li><a href="seo.php">SEO</a></li>
+								<li><a href="smo.php">SMO</a></li>
+								<li><a href="marketing-automation.php">Marketing Automation</a></li>
 							</ul>   
 						</li>
 						<!-- <li><a href="#Solution.html"></a></li>-->
 						<li><a href="#blog">Advertising<span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
-								<li><a href="blog-grid.php">Google Ads</a></li>
+								<li><a href="google-ads.php">Google Ads</a></li>
 								<li><a href="blog-list.php">Facebook Ads</a></li>
-								<li><a href="blog-details.php">Youtube Ads</a></li>
-								<li><a href="blog-2colum.php">X Twitter Ads</a></li>
-								<li><a href="blog-2colum.php">Instagram Ads</a></li>
+								<li><a href="youtube-ads.php">Youtube Ads</a></li>
+								<li><a href="X-twitter-ads.php">X Twitter Ads</a></li>
+								<li><a href="instagram-ads.php">Instagram Ads</a></li>
 							</ul>
 						</li>
 						<li><a href="#blog">Creations<span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
-								<li><a href="blog-grid.php">Content Writing</a></li>
-								<li><a href="blog-list.php">Website Development</a></li>
-								<li><a href="blog-details.php">Graphic & Videos</a></li>
-								<li><a href="blog-2colum.php">Resume Making</a></li>
+								<li><a href="content-writing.php">Content Writing</a></li>
+								<li><a href="web-development.php">Website Development</a></li>
+								<li><a href="graphic-videos.php">Graphic & Videos</a></li>
+								<li><a href="resume-making.php">Resume Making</a></li>
 								<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
 							</ul>
 						</li>
