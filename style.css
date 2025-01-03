@@ -5502,9 +5502,10 @@ span.fill.my-class2 {
     background-size: cover;
     background-position: center;
 }
-.funnelRivers-button a:hover: {
+.funnelRivers-button a:hover {
     color: #e91f4f !important;
 }
+
 .funnelRivers-button a:hover::before {
     transform: scale(1, 1);
     opacity: 1;
@@ -5539,7 +5540,7 @@ span.fill.my-class2 {
     background-size: cover;
     background-position: center;
 }
-.funnelRivers-button2 a:hover: {
+.funnelRivers-button2 a:hover {
     color: #e91f4f !important;
 }
 .funnelRivers-button2 a:hover::before {
@@ -5780,10 +5781,10 @@ span.fill.my-class2 {
 }
 .team-content {
     position: relative;
-    padding: 13px 0px 1px;
+    padding: 13px 30px 1px;
     background: #fff;
     box-shadow: 0 -13px 30px rgb(0 0 0 / 12%);
-    width: 81%;
+    width: 100%;
     left: 24px;
     top: -28px;
     border-radius: 9px 0 0px 0;
@@ -7556,9 +7557,9 @@ textarea:focus {
     right: 13px;
     content: " ";
     top: 26px;
-    /: ;
+     ;
     transform: rotate(0deg);
-    /: ;
+    ;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;

@@ -43,7 +43,7 @@
     font-family: 'Rajdhani';
 }
 /*about us area*/
-.funnelRivers-about-thumb-3 {
+.dreamit-about-thumb-3 {
     position: relative;
     margin-left: -115px;
 }
@@ -234,13 +234,13 @@
     transform: scale(1);
 }
 /*blog details*/
-.funnelRivers-blog-socails {
+.dreamit-blog-socails {
     padding-top: 40px;
     border-top: 1px solid #e6e6e6;
     margin-top: 40px;
     margin-bottom: 20px;
 }
-.funnelRivers-socail-icon a i {
+.dreamit-socail-icon a i {
     display: inline-block;
     border: 1px solid #e6e6e6;
     font-size: 15px;
@@ -253,7 +253,7 @@
     color: #565872;
     transition: .5s;
 }
-.funnelRivers-socail-icon a i:hover {
+.dreamit-socail-icon a i:hover {
     background: #ED2A22;
     border: #fb8a42;
     color: #fff;
@@ -304,10 +304,10 @@
     font-size: 22px;
     margin: 0 0 4px 0;
 }
-.funnelRivers-team-thumb.widget {
+.dreamit-team-thumb.widget {
     margin-bottom: 30px;
 }
-.widget .funnelRivers-team-thumb-inner:before {
+.widget .dreamit-team-thumb-inner:before {
     position: absolute;
     content: "";
     left: 0;
@@ -318,15 +318,15 @@
     opacity: 0;
     transition: .5s;
 }
-.widget.funnelRivers-team-thumb:hover .funnelRivers-team-thumb-inner:before {
+.widget.dreamit-team-thumb:hover .dreamit-team-thumb-inner:before {
     opacity: 1;
 } 
-.widget .funnelRivers-team-thumb-inner {
+.widget .dreamit-team-thumb-inner {
     position: relative;
     z-index: 1;
     overflow: hidden;
 }
-.widget .funnelRivers-team-thumb-inner img {
+.widget .dreamit-team-thumb-inner img {
     width: 100%;
 }
 .widget .team-content-socail-icon {
@@ -340,7 +340,7 @@
     -webkit-transform: translateY(-50%);
     transition: .3s;
 }
-.widget.funnelRivers-team-thumb:hover .team-content-socail-icon{
+.widget.dreamit-team-thumb:hover .team-content-socail-icon{
     opacity: 1;
     right: 0;
 }
@@ -373,7 +373,7 @@
     color: #616161;
     text-transform: uppercase;
 }
-.widget.funnelRivers-team-thumb:hover .em-team-content{
+.widget.dreamit-team-thumb:hover .em-team-content{
     margin-top: -55px; 
 }
 /*blog list*/ 
@@ -381,7 +381,7 @@
     background: #F6F6F6;
     padding: 100px 0 100px;
 }
-.funnelRivers-single-blog-box {
+.dreamit-single-blog-box {
     margin-bottom: 40px;
     transition: .3s;
     background: #fff;
@@ -389,10 +389,10 @@
     overflow: hidden;
     border-radius: 7px;
 }
-.funnelRivers-single-blog-box:hover {
+.dreamit-single-blog-box:hover {
     box-shadow: 6px 5px 30px rgb(0 0 0 / 12%);
 }
-.funnelRivers-sigle-tmumb img {
+.dreamit-sigle-tmumb img {
     width: 100%;
 }
 .em-blog-content {
@@ -757,12 +757,12 @@ margin-bottom: 0;
     color: rgb(255, 255, 255);
 }
 /*blog details*/
-.funnelRivers-blog-socails {
+.dreamit-blog-socails {
     padding-top: 40px;
     border-top: 1px solid #e6e6e6;
     margin-top: 40px;
 }
-.funnelRivers-socail-icon a i {
+.dreamit-socail-icon a i {
     display: inline-block;
     border: 1px solid #e6e6e6;
     font-size: 15px;
@@ -775,7 +775,7 @@ margin-bottom: 0;
     color: #565872;
     transition: .5s;
 }
-.funnelRivers-socail-icon a i:hover {
+.dreamit-socail-icon a i:hover {
     background: #ED2C41;
     border: #ED2C41;
     color: #fff;
@@ -990,7 +990,7 @@ label {
 }
 
 /*faq css*/
-.funnelRivers-faq-thumb img {
+.dreamit-faq-thumb img {
     width: 100%;
 }
 .btn-link {

@@ -37,7 +37,7 @@
 				<div class="funnelRivers-section-title style-two text-center">
 					<h5>CONTACT US</h5>
 					<h1>GET IN TOUCH ANY TIME</h1>
-					<h1>WITH <span>funnelRivers</span></h1>
+					<h1>WITH <span>Funnelriver</span></h1>
 				</div>
 			</div>
 		</div>
@@ -51,7 +51,7 @@
 							</div>
 							<div class="contact-us-title">
 								<h2>Office Address</h2>
-								<p>Digital funnelRivers Network & IT 20 Eastbourne the Terrace Cen London W2</p>
+								<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
 							</div>
 						</div>
 					</div>
@@ -61,9 +61,9 @@
 								<i class="flaticon-call"></i>
 							</div>
 							<div class="contact-us-title">
-								<h2>TELEPHONE NO.</h2>
-								<p>+99 (408) 389-5470</p>
-								<p>+99 (408) 389-5470</p>
+								<h2>CONTACT NO.</h2>
+								<p>+91-9923707569</p>
+								
 							</div>
 						</div>
 					</div>
@@ -74,8 +74,8 @@
 							</div>
 							<div class="contact-us-title">
 								<h2>E-MAIL ADDRESS</h2>
-								<p>yourmail@yahoocom</p>
-								<p>yourmail@yahoocom</p>
+								<p> dipti@funnelrivers.com</p>
+								
 							</div>
 						</div>
 					</div>
@@ -155,12 +155,14 @@
 <!-- Start funnelRivers map Area -->
 <!--==================================================-->
 <div class="map-area pt-100">
-	<div class="container-fluid">
-		<div class="row">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3746840.9773080125!2d88.10061603600629!3d23.495630908432812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adaaed80e18ba7%3A0xf2d28e0c4e1fc6b!2sBangladesh!5e0!3m2!1sen!2sbd!4v1634707629702!5m2!1sen!2sbd" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-		</div>
-	</div>
+    <div class="container-fluid">
+        <div class="row">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771741.526258081!2d73.07914554168787!3d19.05668777128565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e401d8b9fb5f%3A0x15ed9eb92e5998c8!2sC%2FO%20KTown%2C%20Sai%20Nagar%20Society%2C%20Plot%20No-26%2C%20Sector%204%2C%20Kalamboli%2C%20Panvel%2C%20Navi%20Mumbai%2C%20Maharashtra%20410218!5e0!3m2!1sen!2sin!4v1642048971000!5m2!1sen!2sin&markers=19.05668777128565,73.07914554168787" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+    </div>
 </div>
+
+
 <!--==================================================-->
 <!--End funnelRivers map Area -->
 <!--==================================================-->
@@ -168,7 +170,7 @@
 <!--==================================================-->
 <!-- Start funnelRivers brand Area -->
 <!--==================================================-->
-<div class="brand-area style-three">
+<!-- <div class="brand-area style-three">
 	<div class="container">
 		<div class="row">
 			<div class="brand-list owl-carousel">
@@ -217,7 +219,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!--End funnelRivers brand Area -->
 <!--==================================================-->

@@ -59,11 +59,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>Blog list</h2>
+						<h2>Graphics and Videos</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Blog list</span></li>
+						<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">creations</a> <i class="fas fa-angle-double-right"></i></span> <span>Graphics and Videos</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -74,11 +74,152 @@
 <!--==================================================-->
 <!-- End funnelRivers slider Area -->
 <!--==================================================-->
+<!--==================================================-->
+<!-- Start dreamit service Area -->
+<!--==================================================-->
+<div class="service-area" id="blog">
+	<div class="container">		
+		<div class="row">	
+			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
+				<div class="row">
+					<div class="col-lg-12 col-sm-12">
+						<div class="dreamit-single-service-box">
+							<div class="dreamit-sigle-tmumb">
+								<img src="assets/images/resource/img-1.jpg" alt="">
+							</div>
+							<div class="em-service-content">
+								<div class="service-page-title">
+									<h1><a href="#">Funnelriver Graphics and Videos Services
+									</a></h1>
+									<p>Funnelriver offers top-tier graphic design and video production services tailored to your brand's unique needs. From creating eye-catching logos, banners, and social media visuals to producing high-quality videos and animations, we ensure your brand stands out. Our designs and videos are crafted to captivate your audience and drive results across all platforms.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
+						<div class="service-details-box">
+							<div class="service-details-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="service-details-title">
+								<h4>Expert Content Creation</h4>
+								<p>High-quality, engaging content designed to resonate with your audience.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
+						<div class="service-details-box">
+							<div class="service-details-icon">
+								<i class="flaticon-support-6"></i>
+							</div>
+							<div class="service-details-title">
+								<h4>Performance Monitoring</h4>
+								<p> Regular analytics and optimization to improve results.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12">
+						<div class="service-details-thumb">
+							<img src="assets/images/resource/img-2.png" alt="">
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12">
+						<div class="service-details-icon-box">
+							<div class="service-details-icon-title">
+								<h3>We Serve the Best Work in Graphics and Videos
+								</h3>
+								<p>We deliver exceptional Graphics and Videos with tailored strategies, targeted solutions.</p>
+							</div>
+						</div>
+						<div class="widget-service-details-icon">
+							<p><i class="fas fa-check"></i> <span>Tailored Strategies</span></p>
+							<p><i class="fas fa-check"></i> <span>Targeted Ads</span></p>
+							<p><i class="fas fa-check"></i> <span>Data-Driven Results </span></p>
+						</div>
+					</div>
+					<div class="col-lg-12 col-sm-12">
+					<div class="widget-details-text pt-25 pb-3">
+						<h4>Graphic and Video Creation Services by Funnel River: Key Benefits and Offerings
+						</h4>
+						<br>
+    					<p><i class="fas fa-check"></i> <b>Custom Graphic Design</b>
+    					Creating visually engaging graphics for logos, banners, brochures, and social media.
+    					Tailored designs to match your brand’s identity and messaging.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Social Media Visuals</b>
+   						Designing eye-catching social media posts, stories, and ads for platforms like Facebook, Instagram, and LinkedIn.
+    					Enhancing brand presence with consistent, high-quality visuals.
+   						</p>
+    					<p><i class="fas fa-check"></i> <b>Video Production and Editing</b>
+    					Producing high-quality videos for marketing, product demos, and social media.
+    					Providing professional video editing to deliver polished, compelling content.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Explainer and Animation Videos</b>
+    					Creating animated explainer videos to simplify complex ideas and engage viewers.
+    					Designing motion graphics that tell your brand story in a dynamic, memorable way.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Branding and Marketing Collateral</b>
+    					Designing marketing materials such as posters, flyers, and infographics to promote your brand.
+    					Maintaining brand consistency across all graphic and video content.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>YouTube and Video Ad Creatives</b>
+    					Producing engaging video ads for platforms like YouTube and Facebook to capture attention and drive conversions.
+    					Optimizing video content for maximum reach and engagement.
+    					</p>
+					</div>
+
+					</div>
+				</div>	
+			</div>
+			<div class=" col-lg-4 col-md-6 col-sm-12 col-sm-12">
+				<div class="widget-service-box">
+					<h4>ALL Creations</h4>
+					<div class="widget-service-menu">
+						<ul>
+							<li><a href="content-writing.php">Content Writing <i class="fas fa-angle-right"></i></a></li>	
+							<li><a href="web-development.php">Website Development<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="graphic-videos.php">Graphics and Videos<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="resume-making.php">Resume Making <i class="fas fa-angle-right"></i></a></li>
+							
+						</ul>
+					</div>
+				</div>
+				<div class="widget-service-thumb-box">
+					<div class="wedget-service-thumb">
+						<img src="assets\images\Creations\Graphic-Videos-image-370x500.png" alt="Graphic-videos">		
+						<!-- <div class="widget-service-content text-center">
+							<div class="widget-text">
+								<p>Contact Us Now</p>
+							</div>
+							<div class="widget-title2">
+								<h3>If Need Help</h3>
+							</div>
+							<div class="widget-contact-title">
+								<h2>557-3452-234</h2>
+								<p>Or got to contact form</p>
+							</div>
+							<div class="widget-button">
+								<a href="#">LET’s START NOW</a>
+								<span><i class="fas fa-link"></i></span>
+							</div>
+						</div> -->
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- End dreamit service Area -->
+<!--==================================================-->
 
 <!--==================================================-->
 <!-- Start datatech Blog list Area -->
 <!--==================================================-->
-<div class="blog-list-area ">
+<!-- <div class="blog-list-area ">
 	<div class="container">		
 		<div class="row">	
 			<div class="col-lg-8 col-md-6 col-sm-12 col-xs-12">
@@ -341,12 +482,41 @@
 			</div>	
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- End datatech Blog list Area -->
 <!--==================================================-->
 
-
+<!-- Start dreamit subscribe Area -->
+<!--==================================================-->
+<div class="subscribe-area">
+	<div class="container">
+		<div class="row subscribe-bg">
+			<div class="col-lg-6 col-md-6 col-sm-12">
+				<div class="subscribe-content white">
+					<div class="subscribe-title">
+						<h1>Subscribe our newsletter</h1>
+						<p>Please Subscribe our news letter and and get update.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12">
+			    <div class="contact-form-box">	
+					<form id="contact_form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
+						<div class="from-box">
+							<input type="text" placeholder="Enter E-Mail Address">
+							<button>Subscribe</button>
+						</div>
+					</form>
+					<p class="form-message"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- End dreamit subscribe Area -->
+<!--==================================================-->
 
 <!--==================================================-->
 <!-- Start scrollup section Area -->

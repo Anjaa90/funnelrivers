@@ -20,15 +20,15 @@
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1199px) {
 
-.funnelRivers_menu > ul > li > a {
+.dreamit_menu > ul > li > a {
     margin: 24px 7px;
     font-size: 16px;
 }
-.sticky .funnelRivers_menu > ul > li > a {
+.sticky .dreamit_menu > ul > li > a {
     margin: 30px 8px;
     font-size: 16px;
 }
-nav.funnelRivers_menu {
+nav.dreamit_menu {
     text-align: left !important;
 }
 .search-box-btn {
@@ -56,32 +56,32 @@ nav.funnelRivers_menu {
 .slider-socail-icon {
     left: 5px;
 }
-.funnelRivers-section-title2 h1 {
+.dreamit-section-title2 h1 {
     font-size: 44px;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 40px;
 }
-.style-two .funnelRivers-service-title h2 {
+.style-two .dreamit-service-title h2 {
     font-size: 19px;
 }
-.funnelRivers-service-title p {
+.dreamit-service-title p {
     font-size: 13px;
 }
-.funnelRivers-skill-thumb img {
+.dreamit-skill-thumb img {
     width: 100%;
 }
-.funnelRivers-button2 a {
+.dreamit-button2 a {
     font-size: 14px;
     padding: 12px 25px;
 }
-.funnelRivers-slider-thumb {
+.dreamit-slider-thumb {
    right: -209px;
 }
-.funnelRivers-slider-thumb img {
+.dreamit-slider-thumb img {
     width: 100%;
 }
-.funnelRivers-slider-thumb-1 {
+.dreamit-slider-thumb-1 {
     right: -148px;
     top: -126px;
 }
@@ -94,7 +94,7 @@ nav.funnelRivers_menu {
 .style-two.upper1 .slider-button-text {
     display: none;
 }
-.funnelRivers-slider-thumb-1 img {
+.dreamit-slider-thumb-1 img {
     width: 100%;
 }
 .slider-content p {
@@ -111,7 +111,7 @@ nav.funnelRivers_menu {
 .elementor-about-title p {
     font-size: 14px;
 }
-.funnelRivers-single-testimonial-box {
+.dreamit-single-testimonial-box {
     padding: 100px 12px 57px;
 }
 .testimonial-title p {
@@ -123,7 +123,7 @@ nav.funnelRivers_menu {
 .blog_page_title h4 {
     font-size: 21px;
 }
-.funnelRivers_blog_meta a {
+.dreamit_blog_meta a {
     font-size: 15px;
 }
 .slider3 .slider-button a {
@@ -145,7 +145,7 @@ span.tk {
 .contact-us-title h2 {
     font-size: 20px;
 }
-.funnelRivers-about-thumb-3 img {
+.dreamit-about-thumb-3 img {
     width: 100%;
 }
 .about-icon {
@@ -157,7 +157,7 @@ span.tk {
 .video-title h4 {
     font-size: 35px;
 }
-.style-three .funnelRivers-service-title h2 {
+.style-three .dreamit-service-title h2 {
     font-size: 18px;
 }
 .widget-service-menu ul li a {
@@ -184,20 +184,20 @@ span.tk {
 .blog-page-title h2 {
     font-size: 25px;
 }
-.style-four .funnelRivers-service-title h2 {
+.style-four .dreamit-service-title h2 {
     font-size: 19px;
 }
 .style-three .elementor-about-title p {
     font-size: 15px;
 }
-.funnelRivers-department-tab ul li a {
+.dreamit-department-tab ul li a {
     font-size: 13px;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     padding: 13px 24px;
     font-size: 14px;
 }
-.funnelRivers-department-bottom-content-inner ul li span {
+.dreamit-department-bottom-content-inner ul li span {
     font-size: 14px;
 }
 .style-three .counter-text h1 {
@@ -218,10 +218,10 @@ span.tk {
 .style-four .post-categories a {
     font-size: 14px;
 }
-.style-four .funnelRivers_blog_meta a {
+.style-four .dreamit_blog_meta a {
     font-size: 14px;
 }
-.style-four.upper2 .funnelRivers_blog_meta a {
+.style-four.upper2 .dreamit_blog_meta a {
     font-size: 15px;
 }
 .sticky.style-two .slider-button-text {
@@ -242,34 +242,34 @@ span.tk {
 .slider7 .slider-content h1 {
     font-size: 62px;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 38px;
 }
-.style-five .funnelRivers-service-title h2 {
+.style-five .dreamit-service-title h2 {
     font-size: 20px;
 }
-.style-five .funnelRivers-service-title2 h2 {
+.style-five .dreamit-service-title2 h2 {
     font-size: 20px;
 }
-.style-five .funnelRivers-service-title3 h2 {
+.style-five .dreamit-service-title3 h2 {
     font-size: 20px;
 }
-.style-five .funnelRivers-service-title4 h2 {
+.style-five .dreamit-service-title4 h2 {
     font-size: 20px;
 }
 p.responsive {
     font-size: 15px;
 }
-.funnelRivers-service-title2 p {
+.dreamit-service-title2 p {
     font-size: 15px;
 }
-.funnelRivers-service-title3 p {
+.dreamit-service-title3 p {
     font-size: 15px;
 }
-.funnelRivers-service-title4 p {
+.dreamit-service-title4 p {
     font-size: 15px;
 }
-.skill.funnelRivers-section-title h1 {
+.skill.dreamit-section-title h1 {
     font-size: 43px;
 }
 .counter-text-1 h1 {
@@ -351,7 +351,7 @@ h4.widget-title {
 .header-top-area {
     display: none;
 }
-.funnelRivers_nav_manu {
+.dreamit_nav_manu {
     display: none;
 }
 .slider-content h1 {
@@ -386,10 +386,10 @@ h4.widget-title {
 a.slider-button2 {
     margin-left: 0;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 31px;
 }
-.funnelRivers-sinlge-service-box {
+.dreamit-sinlge-service-box {
     margin-bottom: 30px;
 }
 .about-icon {
@@ -437,16 +437,16 @@ a.slider-button2 {
     left: 26px;
     bottom: -186px;
 }
-.funnelRivers-section-title2 h1 {
+.dreamit-section-title2 h1 {
     font-size: 26px;
 }
-.funnelRivers-single-brand {
+.dreamit-single-brand {
     text-align: center;
 }
-.funnelRivers-section-title2.white.text-left.center {
+.dreamit-section-title2.white.text-left.center {
     text-align: center !important;
 }
-.style-two .funnelRivers-single-testimonial-box {
+.style-two .dreamit-single-testimonial-box {
     padding: 60px 15px 50px 20px;
 }
 .style-two .testi-icon {
@@ -464,7 +464,7 @@ a.slider-button2 {
 .contact-us-title p {
     font-size: 14px;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 34px;
 }
 .contact-form-box.style-two {
@@ -483,7 +483,7 @@ a.slider-button2 {
 .video-title h4 {
     font-size: 30px;
 }
-.style-three .funnelRivers-service-title h2 {
+.style-three .dreamit-service-title h2 {
     font-size: 22px;
 }
 .service-page-title h1 a {
@@ -517,13 +517,13 @@ a.slider-button2 {
     padding: 12px 24px;
     font-size: 16px;
 }
-.style-four .funnelRivers-service-title h2 {
+.style-four .dreamit-service-title h2 {
     font-size: 22px;
 }
-.style-three .funnelRivers-about-thumb-3 {
+.style-three .dreamit-about-thumb-3 {
     margin-left: -15px;
 }
-.style-three .funnelRivers-about-thumb-3 img {
+.style-three .dreamit-about-thumb-3 img {
     width: 100%;
 }
 .style-three .elementor-about-title p {
@@ -541,7 +541,7 @@ a.slider-button2 {
 li.nav-item {
     padding-right: 25px;
 }
-.funnelRivers-department-tab ul li a {
+.dreamit-department-tab ul li a {
     font-size: 15px;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
@@ -551,13 +551,13 @@ li.nav-item {
     padding: 13px 20px;
     font-size: 15px;
 }
-.funnelRivers-department-bottom-content-inner ul li {
+.dreamit-department-bottom-content-inner ul li {
     display: inline-grid !important;
 }
-.funnelRivers-department-bottom-content-inner ul li span {
+.dreamit-department-bottom-content-inner ul li span {
     font-size: 14px !important ;
 }
-.funnelRivers-department-bottom-content-inner ul li i {
+.dreamit-department-bottom-content-inner ul li i {
     font-size: 14px !important;
 }
 .portfolio_menu ul li {
@@ -578,7 +578,7 @@ li.nav-item {
 .style-two .accordion a {
     font-size: 15px;
 }
-.funnelRivers-section-title h5 {
+.dreamit-section-title h5 {
     font-size: 18px;
 }
 .contact-form-title {
@@ -605,10 +605,10 @@ li.nav-item {
 .post-categories span i {
     font-size: 12px;
 }
-.funnelRivers_blog_meta a {
+.dreamit_blog_meta a {
     font-size: 12px;
 }
-.funnelRivers_blog_meta a i {
+.dreamit_blog_meta a i {
     font-size: 12px;
 }
 .post-categories {
@@ -626,7 +626,7 @@ li.nav-item {
     height: 40px;
     line-height: 40px;
 }
-.funnelRivers-about-thumb-3 img {
+.dreamit-about-thumb-3 img {
     width: 100%;
 }
 .choose-us-title h4 {
@@ -640,7 +640,7 @@ li.nav-item {
     bottom: -82px;
     height: 79px;
 }
-.style-two.funnelRivers-section-title:after {
+.style-two.dreamit-section-title:after {
     left: 312px;
 }
 .row.background-color1 {
@@ -672,7 +672,7 @@ li.nav-item {
 .slider7 .slider-content h1 {
     font-size: 42px;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 30px;
 }
 .style-five .service-button a {
@@ -681,16 +681,16 @@ li.nav-item {
 p.feature-text {
     padding: 13px 2px 40px;
 }
-.style-five .funnelRivers-service-title h2 {
+.style-five .dreamit-service-title h2 {
     font-size: 20px;
 }
-.style-five .funnelRivers-service-title2 h2 {
+.style-five .dreamit-service-title2 h2 {
     font-size: 20px;
 }
-.style-five .funnelRivers-service-title3 h2 {
+.style-five .dreamit-service-title3 h2 {
     font-size: 20px;
 }
-.style-five .funnelRivers-service-title4 h2 {
+.style-five .dreamit-service-title4 h2 {
     font-size: 20px;
 }
 p.responsive {
@@ -708,16 +708,16 @@ p.responsive {
 .feature-shape-thumb2 {
     right: -33px;
 }
-.funnelRivers-service-title2 p {
+.dreamit-service-title2 p {
     font-size: 15px;
 }
-.funnelRivers-service-title3 p {
+.dreamit-service-title3 p {
     font-size: 15px;
 }
-.funnelRivers-service-title4 p {
+.dreamit-service-title4 p {
     font-size: 15px;
 }
-.skill.funnelRivers-section-title h1 {
+.skill.dreamit-section-title h1 {
     font-size: 32px;
 }
 p.portfolio-text {
@@ -826,13 +826,13 @@ h4.widget-title {
 .header-top-area {
     display: none;
 }
-.funnelRivers-slider-thumb-1 {
+.dreamit-slider-thumb-1 {
     display: none;
 }
-.funnelRivers-slider-thumb {
+.dreamit-slider-thumb {
     display: none;
 }
-.funnelRivers_nav_manu {
+.dreamit_nav_manu {
     display: none;
 }
 .slider-content h1 {
@@ -846,11 +846,11 @@ h4.widget-title {
     right: 5px;
     bottom: 286px;
 }
-.funnelRivers-slider-thumb {
+.dreamit-slider-thumb {
     right: -108px;
     top: 33px;
 }
-.funnelRivers-slider-thumb-1 {
+.dreamit-slider-thumb-1 {
     right: -108px;
     top: 345px;
 }
@@ -885,7 +885,7 @@ div#footer-widget-address {
 .row.footer-bottom {
     text-align: center;
 }
-.funnelRivers-slider-thumb-1 img {
+.dreamit-slider-thumb-1 img {
     width: 65%;
 }
 .slider-shape-inner1 img {
@@ -902,12 +902,12 @@ div#footer-widget-address {
 .rs-video .animate-border a {
     left: -7%;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 28px;
     font-weight: 700;
     line-height: 1;
 }
-.funnelRivers-section-title2 h1 {
+.dreamit-section-title2 h1 {
     font-size: 31px;
 }
 .brand-thumb {
@@ -916,18 +916,18 @@ div#footer-widget-address {
 .blog_page_title h4 {
     font-size: 20px;
 }
-.style-two.funnelRivers-single-counter:before {
+.style-two.dreamit-single-counter:before {
     left: -12px;
     top: -24px;
     width: 190px;
     height: 190px;
 }
-.style-two .funnelRivers-single-counter-inner {
+.style-two .dreamit-single-counter-inner {
     margin: -35px 0 0;
     height: 190px;
     width: 190px;
 }
-.funnelRivers-counter-title h4 {
+.dreamit-counter-title h4 {
     font-size: 18px;
     margin: 0;
 }
@@ -963,13 +963,13 @@ div#footer-widget-address {
     margin-top: 5px;
     margin-bottom: 30px;
 }
-.style-four .funnelRivers-service-title h2 {
+.style-four .dreamit-service-title h2 {
     font-size: 22px;
 }
 li.nav-item {
     padding-right: 20px;
 }
-.funnelRivers-department-tab ul li a {
+.dreamit-department-tab ul li a {
     font-size: 16px;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
@@ -995,10 +995,10 @@ li.nav-item {
 .footer-recent-post ul li:before {
     left: 182px;
 }
-.style-two.funnelRivers-section-title:after {
+.style-two.dreamit-section-title:after {
     left: 234px;
 }
-.funnelRivers-department-bottom-content-inner {
+.dreamit-department-bottom-content-inner {
     margin-top: 30px;
 }
 .contact-form-box.style-three {
@@ -1013,24 +1013,24 @@ li.nav-item {
 .slider7 .slider-content h1 {
     font-size: 38px;
 }
-.style-five .funnelRivers-about-thumb-3 {
+.style-five .dreamit-about-thumb-3 {
     margin-left: -138px;
 }
 .slider7 .slider-button a {
     padding: 14px 30px;
     font-size: 16px;
 }
-.slider7 .funnelRivers-slider-thumb-2 img {
+.slider7 .dreamit-slider-thumb-2 img {
     width: 70%;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 32px;
 }
 .style-five .service-button a {
     margin-top: 0;
     margin-bottom: 30px;
 }
-.skill.funnelRivers-section-title h1 {
+.skill.dreamit-section-title h1 {
     font-size: 38px;
 }
 p.portfolio-text {
@@ -1073,16 +1073,16 @@ p.feature-text {
 .header-top-area {
     display: none;
 }
-.funnelRivers-slider-thumb-1 {
+.dreamit-slider-thumb-1 {
     display: none;
 }
-.funnelRivers-slider-thumb {
+.dreamit-slider-thumb {
     display: none;
 }
-.funnelRivers_nav_manu {
+.dreamit_nav_manu {
     display: none;
 } 
-.funnelRiverslogy-area {
+.dreamitlogy-area {
     padding: 238px 0px 168px;
 }
 .slider-content h1 {
@@ -1099,27 +1099,27 @@ p.feature-text {
 .style-four.rs-video {
     left: 79%;
 }
-.slider7 .funnelRivers-slider-thumb-2 img {
+.slider7 .dreamit-slider-thumb-2 img {
     margin: 0 0 0px 0;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 22px;
 }
 p.feature-text {
     padding: 13px 2px 40px;
 }
-.style-five .funnelRivers-about-thumb-3 {
+.style-five .dreamit-about-thumb-3 {
     margin-left: -10px;
 }
 .style-five .service-button a {
     margin-top: 0;
     margin-bottom: 30px;
 }
-.skill.funnelRivers-section-title h1 {
+.skill.dreamit-section-title h1 {
     font-size: 25px;
     line-height: .9;
 }
-.funnelRivers-skill-thumb.pl-5 {
+.dreamit-skill-thumb.pl-5 {
     padding-left: 0px !important;
 }
 p.portfolio-text {
@@ -1193,10 +1193,10 @@ p.portfolio-text {
 .slider-content p {
     font-size: 16px;
 }
-.funnelRivers-slider-thumb img {
+.dreamit-slider-thumb img {
     width: 100%;
 }
-.funnelRivers-slider-thumb {
+.dreamit-slider-thumb {
     bottom: -67px;
 }
 .owl-prev {
@@ -1218,10 +1218,10 @@ p.portfolio-text {
 .blog_page_title h4 {
     font-size: 20px;
 }
-.funnelRivers-slider-thumb-1 img {
+.dreamit-slider-thumb-1 img {
     display: none;
 }
-.style-two.upper6 .funnelRivers-department-tab ul li a {
+.style-two.upper6 .dreamit-department-tab ul li a {
     font-size: 16px;
 }
 .style-three.upper7 .portfolio_menu ul li {
@@ -1245,14 +1245,14 @@ p.portfolio-text {
 a.slider-button2 {
     margin-left: 0;
 }
-.funnelRivers-section-title h1 {
+.dreamit-section-title h1 {
     font-size: 26px;
 }
 .about-icon {
     float: inherit;
     text-align: center;
 }
-.funnelRivers-about-signature-thumb {
+.dreamit-about-signature-thumb {
     margin-right: 30px;
     margin-left: 10px;
 }
@@ -1292,13 +1292,13 @@ a.slider-button2 {
     padding: 14px 25px;
     font-size: 16px;
 }
-.funnelRivers-section-title2 h1 {
+.dreamit-section-title2 h1 {
     font-size: 27px;
 }
-.funnelRivers-section-title2.white.text-left.center {
+.dreamit-section-title2.white.text-left.center {
     text-align: center !important;
 }
-.funnelRivers-single-brand {
+.dreamit-single-brand {
     text-align: center;
 }
 .style-two .testi-icon {
@@ -1346,24 +1346,24 @@ a.slider-button2 {
 .portfolio_menu ul li {
     font-size: 17px;
 }
-.style-two .funnelRivers-counter-text h1 {
+.style-two .dreamit-counter-text h1 {
     font-size: 48px;
     margin-top: 40px;
 }
-.funnelRivers-counter-text span {
+.dreamit-counter-text span {
     font-size: 30px;
 }
-.style-two.funnelRivers-single-counter:before {
+.style-two.dreamit-single-counter:before {
     width: 150px;
     height: 150px;
     top: -48px;
 }
-.style-two .funnelRivers-single-counter-inner {
+.style-two .dreamit-single-counter-inner {
     margin: -58px 0 0;
     height: 150px;
     width: 150px;
 }
-.funnelRivers-counter-title h4 {
+.dreamit-counter-title h4 {
     font-size: 17px;
     margin: 0;
 }
@@ -1402,7 +1402,7 @@ div#footer-widget-address {
 .style-two .single_blog_content {
     padding: 21px 13px 30px 13px;
 }
-.style-two .funnelRivers_blog_meta a {
+.style-two .dreamit_blog_meta a {
     font-size: 14px;
 }
 .breatcumb-title h2 {
@@ -1424,10 +1424,10 @@ form#contact_form h4 {
     top: -212%;
     left: 60%;
 }
-.funnelRivers-about-thumb-3 img {
+.dreamit-about-thumb-3 img {
     width: 100%;
 }
-.funnelRivers-about-thumb-3 {
+.dreamit-about-thumb-3 {
     margin-left: 0;
 }
 .video-title h4 {
@@ -1439,7 +1439,7 @@ form#contact_form h4 {
 .style-three .testi-titile span {
     font-size: 12px;
 }
-.style-three .funnelRivers-service-title h2 {
+.style-three .dreamit-service-title h2 {
     font-size: 19px;
 }
 .service-page-title h1 a {
@@ -1485,7 +1485,7 @@ form#contact_form h4 {
 .style-two .post-categories a {
     font-size: 14px;
 }
-.style-two .funnelRivers_blog_meta a {
+.style-two .dreamit_blog_meta a {
     font-size: 14px;
 }
 .choose-us-title h4 {
@@ -1494,16 +1494,16 @@ form#contact_form h4 {
 .choose-us-title p {
     font-size: 14px;
 }
-.funnelRivers-section-title {
+.dreamit-section-title {
     text-align: center !important;
 }
-.style-four.funnelRivers-section-title:after {
+.style-four.dreamit-section-title:after {
     left: 100px;
 }
-.funnelRivers-department-bottom-content-inner ul li span {
+.dreamit-department-bottom-content-inner ul li span {
     font-size: 16px;
 }
-.funnelRivers-department-bottom-content-inner {
+.dreamit-department-bottom-content-inner {
     margin-top: 30px;
 }
 .style-three .counter-text h1 {
@@ -1530,7 +1530,7 @@ form#contact_form h4 {
 .prossess-ber-plugin span {
     font-size: 16px;
 }
-.style-two.upper6 .funnelRivers-department-bottom-content-inner ul li span {
+.style-two.upper6 .dreamit-department-bottom-content-inner ul li span {
     font-size: 16px;
 }
 .row.background-color1 {
