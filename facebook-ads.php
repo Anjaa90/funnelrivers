@@ -100,8 +100,10 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
+
 								<h4>Why Funnelriver</h4>
 								<p>we combine digital expertise and creative innovation to deliver tailored solutions that drive measurable success.</p>
+
 							</div>
 						</div>
 					</div>

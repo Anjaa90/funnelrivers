@@ -116,7 +116,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
 						<div class="service-details-box">
 							<div class="service-details-icon">
-							<i class="fa-solid fa-photo-film"></i>
+							<i class="fas fa-share-alt"></i>
 							</div>
 							<div class="service-details-title">
 								<h4>Social Media Content
@@ -129,7 +129,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
 						<div class="service-details-box">
 							<div class="service-details-icon">
-							<i class="fa-solid fa-video"></i>
+							<i class="fas fa-video"></i> 
 							</div>
 							<div class="service-details-title">
 								<h4>Video Content Writing
