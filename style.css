@@ -1,58 +1,58 @@
 /*===============================================
 
-Template Name: dreamit - IT Solutions & Services HTML5 Template
+Template Name: funnelRivers - IT Solutions & Services HTML5 Template
 Version: 0.1
  
 ================================================*/
 
 /*TABLE OF CONTENTS*/
 /*=====================
-01. dreamit	Main Menu Area Css
-02. dreamit Slider Area Css
-03. dreamit Shape Images Css
-04. dreamit Breatcome Area Css
-05. dreamit Feature Area Css
-06. dreamit Service Area Css
-07. dreamit Section TitleNAV
-08. dreamit About  Area  Css
-09. dreamit Counter Area  Css
-10. dreamit Feature Box Area  Css
-11. dreamit Team Area  Css
-12. dreamit Pricing Area  Css
-13. dreamit Portfolio Area  Css
-14. dreamit Testimonial Area  Css
-15. dreamit Call Do Action Area  Css
-16. dreamit Blog Area  Css
-17. dreamit Subscribe Area CSS
-18. dreamit Subscribe Area CSS
-19. dreamit Contact Now Area Css 
-20. dreamit Contact Form Area Css
-21. dreamit GOOGLE MAP AREA CSS
-22. dreamit Middle Footer CSS
-23. dreamit Footer Bottom Area Css 
-24. dreamit BLOG DETAILS AREA CSS
-25. dreamit Team Details Area Css
-26. dreamit Skill Area Css
-27. dreamit Error Page Area Css
-25. dreamit Team Details Area Css
+01. funnelRivers	Main Menu Area Css
+02. funnelRivers Slider Area Css
+03. funnelRivers Shape Images Css
+04. funnelRivers Breatcome Area Css
+05. funnelRivers Feature Area Css
+06. funnelRivers Service Area Css
+07. funnelRivers Section TitleNAV
+08. funnelRivers About  Area  Css
+09. funnelRivers Counter Area  Css
+10. funnelRivers Feature Box Area  Css
+11. funnelRivers Team Area  Css
+12. funnelRivers Pricing Area  Css
+13. funnelRivers Portfolio Area  Css
+14. funnelRivers Testimonial Area  Css
+15. funnelRivers Call Do Action Area  Css
+16. funnelRivers Blog Area  Css
+17. funnelRivers Subscribe Area CSS
+18. funnelRivers Subscribe Area CSS
+19. funnelRivers Contact Now Area Css 
+20. funnelRivers Contact Form Area Css
+21. funnelRivers GOOGLE MAP AREA CSS
+22. funnelRivers Middle Footer CSS
+23. funnelRivers Footer Bottom Area Css 
+24. funnelRivers BLOG DETAILS AREA CSS
+25. funnelRivers Team Details Area Css
+26. funnelRivers Skill Area Css
+27. funnelRivers Error Page Area Css
+25. funnelRivers Team Details Area Css
 =======================*/
 /* =============================================================================
    HTML5 CSS Reset Minified - Eric Meyer
    ========================================================================== */
 /*============================
- dreamit Main Menu Area Css
+ funnelRivers Main Menu Area Css
 ==============================*/
 html{
     scroll-behavior: smooth;
 }
-.dreamit_nav_manu {
+.funnelRivers_nav_manu {
     background: transparent;
     z-index: 444;
     position: relative;
     margin-bottom: -91px;
     border-bottom: 1px solid #807e94;
 }
-.upper1.dreamit_nav_manu {
+.upper1.funnelRivers_nav_manu {
     background: transparent;
     z-index: 444;
     position: relative;
@@ -60,23 +60,23 @@ html{
     border-bottom: 1px solid #807e94;
     padding: 0 0 0 42px;
 }
-/* dreamit Menu Css*/
+/* funnelRivers Menu Css*/
 .logo2 img {
     width: 45%;
 }
 .logo img {
     width: 70%;
 }
-.dreamit_menu ul {
+.funnelRivers_menu ul {
     list-style: none;
     display: inline-block;
     margin-left: 30px;
 }
-.dreamit_menu>ul>li {
+.funnelRivers_menu>ul>li {
    display: inline-block;
    position: relative;
 }
-.dreamit_menu > ul > li > a {
+.funnelRivers_menu > ul > li > a {
     display: block;
     margin: 30px 13px;
     -webkit-transition: .5s;
@@ -95,7 +95,7 @@ ul.nav_scroll li i {
     font-size: 15px;
     display: inline-block;
 }
-.dreamit_menu > ul > li > a:hover {
+.funnelRivers_menu > ul > li > a:hover {
     background-position: 0%;
 }
 .top-slider-icon {
@@ -122,7 +122,7 @@ ul.nav_scroll li i {
     z-index: 4;
     border: 0;
 }
-.sticky .dreamit_menu > ul > li > a {
+.sticky .funnelRivers_menu > ul > li > a {
     display: block;
     margin: 30px 13px;
     transition: .5s;
@@ -131,7 +131,7 @@ ul.nav_scroll li i {
     font-size: 16px;
     font-weight: 600;
 }
-.sticky.upper1.dreamit_nav_manu {
+.sticky.upper1.funnelRivers_nav_manu {
     z-index: 444;
     position: relative;
     margin-bottom: -91px;
@@ -160,7 +160,7 @@ ul.nav_scroll li i {
     margin: -72px 0px 0 0;
 }
 /* sub menu style */
-.dreamit_menu ul .sub-menu {
+.funnelRivers_menu ul .sub-menu {
     position: absolute;
     left: 0;
     top: 130%;
@@ -175,17 +175,17 @@ ul.nav_scroll li i {
     visibility: hidden;
     border-top: 2px solid #ED2C41;
 }
-.dreamit_menu ul li:hover>.sub-menu {
+.funnelRivers_menu ul li:hover>.sub-menu {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
      top: 100%;
      z-index: 9;
 }
-.dreamit_menu ul .sub-menu li {
+.funnelRivers_menu ul .sub-menu li {
      position: relative;
 }
-.dreamit_menu ul .sub-menu li a {
+.funnelRivers_menu ul .sub-menu li a {
     display: block;
     padding: 12px 20px;
     margin: 0;
@@ -200,32 +200,32 @@ ul.nav_scroll li i {
     color: #616161;
     border-bottom: 1px solid rgba(0, 0, 0, 0.10);
 }
-.dreamit_menu ul .sub-menu li:hover>a,
-.dreamit_menu ul .sub-menu .sub-menu li:hover>a,
-.dreamit_menu ul .sub-menu .sub-menu .sub-menu li:hover>a,
-.dreamit_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
+.funnelRivers_menu ul .sub-menu li:hover>a,
+.funnelRivers_menu ul .sub-menu .sub-menu li:hover>a,
+.funnelRivers_menu ul .sub-menu .sub-menu .sub-menu li:hover>a,
+.funnelRivers_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
     background:#ED2C41;
     color: #fff !important;
 }
 /* sub menu 2 */
-.dreamit_menu ul .sub-menu .sub-menu {
+.funnelRivers_menu ul .sub-menu .sub-menu {
     left: 100%;
     top: 130%;
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     visibility: hidden;
 }
-.dreamit_menu ul .sub-menu li:hover>.sub-menu {
+.funnelRivers_menu ul .sub-menu li:hover>.sub-menu {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
     top: 0%;
 }
 /* sub menu 3 */
-.dreamit_menu ul .sub-menu .sub-menu li {
+.funnelRivers_menu ul .sub-menu .sub-menu li {
      position: relative;
 }
-.dreamit_menu ul .sub-menu .sub-menu .sub-menu {
+.funnelRivers_menu ul .sub-menu .sub-menu .sub-menu {
     right: 100%;
     left: auto;
     top: 130%;
@@ -233,56 +233,56 @@ ul.nav_scroll li i {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     visibility: hidden;
 }
-.dreamit_menu ul .sub-menu .sub-menu li:hover>.sub-menu {
+.funnelRivers_menu ul .sub-menu .sub-menu li:hover>.sub-menu {
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
     top: 0%;
 }
 /* sub menu 4 */
-.dreamit_menu ul .sub-menu .sub-menu .sub-menu li {
+.funnelRivers_menu ul .sub-menu .sub-menu .sub-menu li {
      position: relative;
 }
-.dreamit_menu ul .sub-menu .sub-menu .sub-menu .sub-menu {
+.funnelRivers_menu ul .sub-menu .sub-menu .sub-menu .sub-menu {
 }
-.dreamit_menu ul .sub-menu .sub-menu .sub-menu li:hover>.sub-menu {
+.funnelRivers_menu ul .sub-menu .sub-menu .sub-menu li:hover>.sub-menu {
      opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible;
     top: 0%;
 }
-.dreamit_nav_manu.sticky a.dtbtn:hover {
+.funnelRivers_nav_manu.sticky a.dtbtn:hover {
     color: #fff !important;
 }
 .white .header-button .dtbtn {
     background: #423e6d;
 	border-color:#423e6d;
 }
-.dreamit_menu li a:hover:before{
+.funnelRivers_menu li a:hover:before{
 	width:101%;
 }
-.dreamit_nav_manu.sticky .logo_img {
+.funnelRivers_nav_manu.sticky .logo_img {
     display: none;
 }
 .main_sticky {
     display: none;
 }
-.dreamit_nav_manu.sticky .main_sticky {
+.funnelRivers_nav_manu.sticky .main_sticky {
     display: inherit;
 }
-.dreamit_nav_manu.sticky a.dtbtn {
+.funnelRivers_nav_manu.sticky a.dtbtn {
     color: #fff;
     background: #fc9615;
     border: 2px solid #fc9615;
 }
-.dreamit_nav_manu.sticky a.dtbtn:hover {
+.funnelRivers_nav_manu.sticky a.dtbtn:hover {
     color: #43baff;
 }
 .mobile-menu.mean-container {
 	overflow: hidden;
 }
 /*====================================================
---<	dreamit Header Top Menu Area Css -->
+--<	funnelRivers Header Top Menu Area Css -->
 ======================================================*/
 /*** 
 ====================================================================
@@ -482,7 +482,7 @@ span.flaticon-multiply i {
     margin: 20px -184px 0 0;
     z-index: 4;
 }
-.style-two .dreamit_menu ul {
+.style-two .funnelRivers_menu ul {
     list-style: none;
     display: inline-block;
     margin-left: 5px;
@@ -776,7 +776,7 @@ a.slider-button3 {
     background: #ED2C41;
     color: #fff;
 }
-.dreamit-slider-thumb {
+.funnelRivers-slider-thumb {
     position: absolute;
     right: -238px;
     bottom: -300px;
@@ -834,7 +834,7 @@ span.follow-us:before {
     position: relative;
     z-index: 1;
 }
-.dreamit-slider-thumb-1 {
+.funnelRivers-slider-thumb-1 {
     position: absolute;
     right: 13px;
     top: -232px;
@@ -904,7 +904,7 @@ span.follow-us:before {
     position: relative;
     z-index: 1;
 }
-.slider3 .dreamit-slider-thumb-1 {
+.slider3 .funnelRivers-slider-thumb-1 {
     position: absolute;
     right: 30px;
     top: -232px;
@@ -1154,7 +1154,7 @@ span.follow-us:before {
     font-weight: 700;
     text-transform: uppercase;
 }
-.slider7 .dreamit-slider-thumb-2 img {
+.slider7 .funnelRivers-slider-thumb-2 img {
     width: 100%;
     position: relative;
     margin: 0 0 0px 50px;
@@ -1519,15 +1519,15 @@ border-width: 1px;
 <!-- ============================================================== -->
 <!-- Start section title area Css -->
 <!-- ============================================================== -->*/
-.dreamit-section-title {
+.funnelRivers-section-title {
     margin-bottom: 35px;
 }
-.dreamit-section-title h1 {
+.funnelRivers-section-title h1 {
     font-size: 52px;
     font-weight: 700;
     line-height: 1;
 }
-.dreamit-section-title h5 {
+.funnelRivers-section-title h5 {
     color: #ED2C41;
     font-size: 20px;
     margin-bottom: 4px;
@@ -1536,7 +1536,7 @@ border-width: 1px;
     z-index: 1;
     display: inline-block;
 }
-.dreamit-section-title h5:before {
+.funnelRivers-section-title h5:before {
     position: absolute;
     z-index: 1;
     content: "";
@@ -1547,7 +1547,7 @@ border-width: 1px;
     right: -46px;
     top: 15px;
 }
-.dreamit-section-title:after {
+.funnelRivers-section-title:after {
     position: absolute;
     content: "";
     left: -5px;
@@ -1558,7 +1558,7 @@ border-width: 1px;
     display: inline-block;
     background-repeat: no-repeat;
 }
-.dreamit-section-title span {
+.funnelRivers-section-title span {
     color: #ED2C41;
 }
 span.color2 {
@@ -1570,14 +1570,14 @@ span.color1 {
 span.color3 {
     color: #EB401E;
 }
-.dreamit-section-title p {
+.funnelRivers-section-title p {
     margin: 15px 0 0;
 }
 .section-text {
     margin-top: 50px;
 }
 /*style two*/
-.style-two.dreamit-section-title h5:after {
+.style-two.funnelRivers-section-title h5:after {
     position: absolute;
     content: "";
     left: -47px;
@@ -1587,7 +1587,7 @@ span.color3 {
     height: 1px;
     display: inline-block;
 }
-.style-two.dreamit-section-title:after {
+.style-two.funnelRivers-section-title:after {
     position: absolute;
     content: "";
     left: 486px;
@@ -1599,7 +1599,7 @@ span.color3 {
     background-repeat: no-repeat;
 }
 /*style three*/
-.style-three.dreamit-section-title h5:after {
+.style-three.funnelRivers-section-title h5:after {
     position: absolute;
     content: "";
     left: -47px;
@@ -1609,7 +1609,7 @@ span.color3 {
     height: 1px;
     display: inline-block;
 }
-.style-three.dreamit-section-title:after {
+.style-three.funnelRivers-section-title:after {
     position: absolute;
     content: "";
     left: 486px;
@@ -1621,7 +1621,7 @@ span.color3 {
     background-repeat: no-repeat;
 }
 /*style four*/
-.style-four.dreamit-section-title h5 {
+.style-four.funnelRivers-section-title h5 {
     color: #ED2A22;
     font-size: 20px;
     margin-bottom: 4px;
@@ -1630,7 +1630,7 @@ span.color3 {
     z-index: 1;
     display: inline-block;
 }
-.style-four.dreamit-section-title:after {
+.style-four.funnelRivers-section-title:after {
     position: absolute;
     content: "";
     left: 0;
@@ -1645,30 +1645,30 @@ p.text-color {
     color: #b4bfc5;
 }
 /*style two*/
-.dreamit-section-title2 {
+.funnelRivers-section-title2 {
     margin-bottom: 35px;
 }
-.dreamit-section-title2 h1 {
+.funnelRivers-section-title2 h1 {
     font-size: 52px;
     font-weight: 700;
     line-height: 1;
     z-index: 1;
 }
-.dreamit-section-title2 h5 {
+.funnelRivers-section-title2 h5 {
     color: #ED2C41;
     font-size: 20px;
     margin-bottom: 4px;
     text-transform: uppercase;
     position: relative;
 }
-.dreamit-section-title2 span {
+.funnelRivers-section-title2 span {
     color: #ED2C41;
 }
-.dreamit-section-title2 p {
+.funnelRivers-section-title2 p {
     margin: 13px 0 0;
 }
 /*five*/
-.style-five.dreamit-section-title h5:after {
+.style-five.funnelRivers-section-title h5:after {
     position: absolute;
     content: "";
     left: -47px;
@@ -1678,7 +1678,7 @@ p.text-color {
     height: 1px;
     display: inline-block;
 }
-.style-five.dreamit-section-title:after {
+.style-five.funnelRivers-section-title:after {
     position: absolute;
     content: "";
     left: 522px;
@@ -1689,14 +1689,14 @@ p.text-color {
     display: inline-block;
     background-repeat: no-repeat;
 }
-/*dreamit section title*/
-.dreamit-section-title h5 {
+/*funnelRivers section title*/
+.funnelRivers-section-title h5 {
     position: relative;
     z-index: 1;
     color: #F14130;
     padding: 0 0 18px;
 }
-.dreamit-section-title h5:before {
+.funnelRivers-section-title h5:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -1709,26 +1709,26 @@ p.text-color {
     top: -6px;
     border-radius: 3px;
 }
-.dreamit-section-title h1 {
+.funnelRivers-section-title h1 {
     font-size: 50px;
     line-height: 1;
     color: #151423;
     text-transform: uppercase;
 }
-.dreamit-section-title.white h1 {
+.funnelRivers-section-title.white h1 {
     color:#fff;
 }
  p.feature-text {
     padding: 13px 272px 40px;
 }
 /*about style*/
-.style-two.dreamit-section-title h5 {
+.style-two.funnelRivers-section-title h5 {
     position: relative;
     z-index: 1;
     color: #F14130;
     padding: 0 0 18px 35px;
 }
-.style-two.dreamit-section-title h5:before {
+.style-two.funnelRivers-section-title h5:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -1745,13 +1745,13 @@ p.about-text {
     padding: 20px 0 26px;
 }
 /*skill style*/
-.skill.dreamit-section-title h5 {
+.skill.funnelRivers-section-title h5 {
     position: relative;
     z-index: 1;
     color: #fff;
     padding: 0 0 18px 35px;
 }
-.skill.dreamit-section-title h5:before {
+.skill.funnelRivers-section-title h5:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -1764,7 +1764,7 @@ p.about-text {
     top: -7px;
     border-radius: 3px;
 }
-.skill.dreamit-section-title h1 {
+.skill.funnelRivers-section-title h1 {
     font-size: 50px;
     line-height: 1;
     color: #fff;
@@ -1774,13 +1774,13 @@ p.skill-text {
     padding: 20px 0 0;
 }
 /*counter style*/
-.counter-1.dreamit-section-title h5 {
+.counter-1.funnelRivers-section-title h5 {
     position: relative;
     z-index: 1;
     color: #F13E2D;
     padding: 0 0 18px 35px;
 }
-.counter-1.dreamit-section-title h5:before {
+.counter-1.funnelRivers-section-title h5:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -1797,13 +1797,13 @@ p.counter-text1 {
     padding: 14px 0 0;
 }
 /*portfolio style*/
-.portfolio.dreamit-section-title h5 {
+.portfolio.funnelRivers-section-title h5 {
     position: relative;
     z-index: 1;
     color: #0D3DFE;
     padding: 0 0 18px;
 }
-.portfolio.dreamit-section-title h5:before {
+.portfolio.funnelRivers-section-title h5:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -1820,13 +1820,13 @@ p.portfolio-text {
     padding: 14px 241px 0px;
 }
 /*blog style*/
-.blog.dreamit-section-title h5 {
+.blog.funnelRivers-section-title h5 {
     position: relative;
     z-index: 1;
     color: #0F4AC7;
     padding: 0 0 18px 27px;
 }
-.blog.dreamit-section-title h5:before {
+.blog.funnelRivers-section-title h5:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -1850,7 +1850,7 @@ p.blog-text {
 ul#pills-tab {
     border-bottom: 3px solid #ED2A22;
 }
-.dreamit-department-tab ul li a {
+.funnelRivers-department-tab ul li a {
     display: inline-block;
     font-family: 'Rajdhani';
     font-size: 18px;
@@ -1871,34 +1871,34 @@ li.nav-item {
 .tab-content-text p {
     margin-bottom: 30px;
 }
-.dreamit-department-bottom-content-inner ul {
+.funnelRivers-department-bottom-content-inner ul {
     display: block;
     list-style: none;
 }
-.dreamit-department-bottom-content-inner ul li {
+.funnelRivers-department-bottom-content-inner ul li {
     display: block;
     padding: 0 0 13px;
 }
-.dreamit-department-bottom-content-inner ul li i {
+.funnelRivers-department-bottom-content-inner ul li i {
     display: inline-block;
     color: #ed2a22;
     padding: 0 10px 0px 0;
 }
-.dreamit-department-bottom-content-inner ul li span {
+.funnelRivers-department-bottom-content-inner ul li span {
     font-size: 17px;
     font-weight: 600;
     font-family: 'Rajdhani';
     color: #1c1c1c;
 }
-.dreamit-department-thumb img {
+.funnelRivers-department-thumb img {
     width: 100%;
 }
-.dreamit-department-tab ul li a:hover {
+.funnelRivers-department-tab ul li a:hover {
     color: #33354b;
 }
 /*style two*/
 .feture-area.style-two {
-    background: url(assets/images/resource/dreamit-4.html);
+    background: url(assets/images/resource/funnelRivers-4.html);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1915,14 +1915,14 @@ li.nav-item {
     background-position: center center;
     padding: 258px 0 100px;
 }
-.style-two.upper6 .dreamit-department-tab ul li a {
+.style-two.upper6 .funnelRivers-department-tab ul li a {
     display: inline-block;
     font-family: 'Rajdhani';
     font-size: 18px;
     font-weight: 600;
     color: #fff;
 }
-.style-two.upper6 .dreamit-department-bottom-content-inner ul li span {
+.style-two.upper6 .funnelRivers-department-bottom-content-inner ul li span {
     font-size: 17px;
     font-weight: 600;
     font-family: 'Rajdhani';
@@ -2121,7 +2121,7 @@ li.nav-item {
     margin-left: 0;
     margin-right: 0;
 }
-.dreamit-single-counter-box {
+.funnelRivers-single-counter-box {
     margin-bottom: 30px;
     text-align: center;
 }
@@ -2165,7 +2165,7 @@ li.nav-item {
     z-index: 1;
 }
 /*counter box*/
-.style-two .dreamit-single-counter-box {
+.style-two .funnelRivers-single-counter-box {
     margin-bottom: 30px;
     text-align: left;
     background: #e9204f;
@@ -2190,14 +2190,14 @@ li.nav-item {
     font-weight: 600;
     font-family: 'Rajdhani';
 }
-.style-two .dreamit-single-counter-box:hover {
+.style-two .funnelRivers-single-counter-box:hover {
     background: #2C2F34;
 }
-.style-two .dreamit-single-counter-box:hover .counter-icon i {
+.style-two .funnelRivers-single-counter-box:hover .counter-icon i {
     color: #e9204f;
 }
 /*box two*/
-.style-two .dreamit-single-counter-box2 {
+.style-two .funnelRivers-single-counter-box2 {
     margin-bottom: 30px;
     text-align: left;
     background: #2C2F34;
@@ -2229,10 +2229,10 @@ li.nav-item {
     font-weight: 600;
     font-family: 'Rajdhani';
 }
-.style-two .dreamit-single-counter-box2:hover .counter-icon2 i  {
+.style-two .funnelRivers-single-counter-box2:hover .counter-icon2 i  {
     color: #fff;
 }
-.style-two .dreamit-single-counter-box2:hover {
+.style-two .funnelRivers-single-counter-box2:hover {
     background: #e9204f;
 }
 /*counter shape*/
@@ -2281,7 +2281,7 @@ li.nav-item {
     background-size: cover;
     padding: 100px 0 70px;
 }
-.style-four .dreamit-single-counter-box {
+.style-four .funnelRivers-single-counter-box {
     margin-bottom: 30px;
     text-align: center;
     background: #fff;
@@ -2551,7 +2551,7 @@ transform: translateX(0);
     color: #ffbb00;
     border:none;
 }
-.dreamit-sinlge-service-box {
+.funnelRivers-sinlge-service-box {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -2560,7 +2560,7 @@ transform: translateX(0);
     box-shadow: 0px 0 6px rgb(26 46 85 / 10%);
     padding: 44px 32px 5px;
 }
-.dreamit-sinlge-service-box:before {
+.funnelRivers-sinlge-service-box:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -2571,20 +2571,20 @@ transform: translateX(0);
     bottom: 0;
     transition: .5s;
 }
-.dreamit-service-icon i {
+.funnelRivers-service-icon i {
     font-size: 60px;
     color: #ED2C41;
     display: inline-block;
     transition: .5s;
     margin: 0;
 }
-.dreamit-service-title h2 {
+.funnelRivers-service-title h2 {
     font-size: 24px;
     margin: 20px 0 8px;
     transition: .5s;
     line-height: 1;
 }
-.dreamit-service-title p{
+.funnelRivers-service-title p{
     transition: .5s;
 }
 .service-button a {
@@ -2613,7 +2613,7 @@ transform: translateX(0);
     border-radius: 100%;
     transition: .3s;
 }
-.dreamit-sinlge-service-box-1 {
+.funnelRivers-sinlge-service-box-1 {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -2622,7 +2622,7 @@ transform: translateX(0);
     box-shadow: 0px 0 6px rgb(26 46 85 / 10%);
     padding: 44px 32px 5px;
 }
-.dreamit-sinlge-service-box-1:before {
+.funnelRivers-sinlge-service-box-1:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -2633,23 +2633,23 @@ transform: translateX(0);
     bottom: 0;
     transition: .5s;
 }
-.dreamit-sinlge-service-box2 {
+.funnelRivers-sinlge-service-box2 {
     text-align: center;
     background: #f8fafb;
     box-shadow: 0px 0 6px rgb(26 46 85 / 10%);
     padding: 72px 20px 94px;
 }
 /*active*/
-.active .dreamit-service-icon i {
+.active .funnelRivers-service-icon i {
     color: #fff;
 }
-.active .dreamit-service-title h2 {
+.active .funnelRivers-service-title h2 {
     color: #fff;
 }
-.active .dreamit-service-title p{
+.active .funnelRivers-service-title p{
     color: #fff;
 }
-.active.dreamit-sinlge-service-box:before {
+.active.funnelRivers-sinlge-service-box:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -2664,20 +2664,20 @@ transform: translateX(0);
     background: #1a1829;
     color: #fff;
 }
-.dreamit-sinlge-service-box:hover:before {
+.funnelRivers-sinlge-service-box:hover:before {
     height: 100%;
     background: #ed2c41;
 }
-.dreamit-sinlge-service-box-1:hover:before {
+.funnelRivers-sinlge-service-box-1:hover:before {
     height: 100%;
     background: #ed2c41;
 }
-.dreamit-sinlge-service-box:hover .dreamit-service-icon i, .dreamit-sinlge-service-box:hover .dreamit-service-title h2,
-.dreamit-sinlge-service-box:hover .dreamit-service-title p{
+.funnelRivers-sinlge-service-box:hover .funnelRivers-service-icon i, .funnelRivers-sinlge-service-box:hover .funnelRivers-service-title h2,
+.funnelRivers-sinlge-service-box:hover .funnelRivers-service-title p{
     color: #fff;
 }
-.dreamit-sinlge-service-box-1:hover .dreamit-service-icon i, .dreamit-sinlge-service-box-1:hover .dreamit-service-title h2,
-.dreamit-sinlge-service-box-1:hover .dreamit-service-title p{
+.funnelRivers-sinlge-service-box-1:hover .funnelRivers-service-icon i, .funnelRivers-sinlge-service-box-1:hover .funnelRivers-service-title h2,
+.funnelRivers-sinlge-service-box-1:hover .funnelRivers-service-title p{
     color: #fff;
 }
 /*style two*/
@@ -2686,7 +2686,7 @@ transform: translateX(0);
     position: relative;
     margin-top: -17px;
 }
-.style-two .dreamit-sinlge-service-box {
+.style-two .funnelRivers-sinlge-service-box {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -2695,7 +2695,7 @@ transform: translateX(0);
     box-shadow: 0px 0 6px rgb(26 46 85 / 10%);
     padding: 44px 30px 5px;
 }
-.style-two .dreamit-sinlge-service-box-1 {
+.style-two .funnelRivers-sinlge-service-box-1 {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -2704,21 +2704,21 @@ transform: translateX(0);
     box-shadow: 0px 0 6px rgb(26 46 85 / 10%);
     padding: 44px 30px 5px;
 }
-.style-two .dreamit-sinlge-service-box.active {
-    background: url(assets/images/resource/dreamit-1.html);
+.style-two .funnelRivers-sinlge-service-box.active {
+    background: url(assets/images/resource/funnelRivers-1.html);
 }
-.style-two .active.dreamit-sinlge-service-box:before {
+.style-two .active.funnelRivers-sinlge-service-box:before {
     position: absolute;
     content: "";
     z-index: -1;
     width: 100%;
     height: 0%;
-    background: url(assets/images/resource/dreamit-1.html);
+    background: url(assets/images/resource/funnelRivers-1.html);
     left: 0;
     bottom: 0;
     transition: .5s;
 }
-.style-two .dreamit-icon2 i {
+.style-two .funnelRivers-icon2 i {
     position: relative;
     float: right;
     right: 0;
@@ -2732,16 +2732,16 @@ transform: translateX(0);
     color: #dd214e;
     transition: .5s;
 }
-.style-two .active .dreamit-icon2 i {
+.style-two .active .funnelRivers-icon2 i {
     background: #fff;
 }
-.style-two .dreamit-service-title h2 {
+.style-two .funnelRivers-service-title h2 {
     font-size: 24px;
     margin: 20px 0 14px;
     transition: .5s;
     line-height: 1;
 }
-.style-two .dreamit-sinlge-service-box2 {
+.style-two .funnelRivers-sinlge-service-box2 {
     text-align: center;
      background: #25272b;
     box-shadow: 0px 0 6px rgb(26 46 85 / 10%);
@@ -2766,22 +2766,22 @@ transform: translateX(0);
     top: -34px;
     width: 82%;
 }
-.style-two .active.dreamit-sinlge-service-box:hover:before {
+.style-two .active.funnelRivers-sinlge-service-box:hover:before {
     height: 100%;
-    background: url(assets/images/resource/dreamit-1.html);
+    background: url(assets/images/resource/funnelRivers-1.html);
 }
-.style-two .dreamit-sinlge-service-box:hover:before {
+.style-two .funnelRivers-sinlge-service-box:hover:before {
     height: 100%;
-    background: url(assets/images/resource/dreamit-3.html);
+    background: url(assets/images/resource/funnelRivers-3.html);
 }
-.style-two .dreamit-sinlge-service-box-1:hover:before {
+.style-two .funnelRivers-sinlge-service-box-1:hover:before {
     height: 100%;
-    background: url(assets/images/resource/dreamit-2.html);
+    background: url(assets/images/resource/funnelRivers-2.html);
 }
-.dreamit-sinlge-service-box:hover .dreamit-icon2 i {
+.funnelRivers-sinlge-service-box:hover .funnelRivers-icon2 i {
     background: #fff;
 }
-.dreamit-sinlge-service-box-1:hover .dreamit-icon2 i {
+.funnelRivers-sinlge-service-box-1:hover .funnelRivers-icon2 i {
     background: #fff;
 }
 /*style three*/
@@ -2791,7 +2791,7 @@ transform: translateX(0);
     background-size: cover;
     background-repeat: no-repeat;
 }
-.style-three .dreamit-sinlge-service-box {
+.style-three .funnelRivers-sinlge-service-box {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -2802,7 +2802,7 @@ transform: translateX(0);
     border-radius: 5px;
     margin-bottom: 30px;
 }
-.style-three .dreamit-sinlge-service-box:before {
+.style-three .funnelRivers-sinlge-service-box:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -2814,7 +2814,7 @@ transform: translateX(0);
     transition: .5s;
     border-radius: 5px;
 }
-.style-three .dreamit-sinlge-service-box:after {
+.style-three .funnelRivers-sinlge-service-box:after {
     position: absolute;
     content: "";
     z-index: -1;
@@ -2826,7 +2826,7 @@ transform: translateX(0);
     clip-path: polygon(0% 0%, 100% 100%, 100% 100%, 0% 100%);
     transition: 1s;
 }
-.style-three .dreamit-service-title h2 {
+.style-three .funnelRivers-service-title h2 {
     font-size: 24px;
     margin: 24px 0 38px;
     transition: .5s;
@@ -2834,7 +2834,7 @@ transform: translateX(0);
     z-index: 1;
     line-height: 1.3;
 }
-.style-three .dreamit-service-icon i {
+.style-three .funnelRivers-service-icon i {
     font-size: 52px;
     color: #ED2C41;
     display: inline-block;
@@ -2849,7 +2849,7 @@ transform: translateX(0);
     position: relative;
     z-index: 1;
 }
-.style-three .dreamit-service-icon i:after {
+.style-three .funnelRivers-service-icon i:after {
     position: absolute;
     content: "";
     left: 0;
@@ -2863,7 +2863,7 @@ transform: translateX(0);
     transform: scale(0);
     transition: 1s;
 }
-.style-three .dreamit-service-title h2:before {
+.style-three .funnelRivers-service-title h2:before {
     position: absolute;
     content: "";
     z-index: 1;
@@ -2891,26 +2891,26 @@ transform: translateX(0);
     color: #ed2a22;
     transition: .5s;
 }
-.style-three .dreamit-service-icon i::after {
+.style-three .funnelRivers-service-icon i::after {
     
 }
-.style-three .dreamit-sinlge-service-box:hover:after {
+.style-three .funnelRivers-sinlge-service-box:hover:after {
     height: 35%;
     width: 50%;
 }
-.style-three .dreamit-sinlge-service-box:hover:before {
+.style-three .funnelRivers-sinlge-service-box:hover:before {
     height: 100%;
     background: #ed2c41;
 }
-.style-three .dreamit-sinlge-service-box:hover .dreamit-service-icon i::after {
+.style-three .funnelRivers-sinlge-service-box:hover .funnelRivers-service-icon i::after {
     background: #f1554e;
     transform: scale(1);
 }
-.style-three .dreamit-sinlge-service-box:hover .dreamit-service-title h2:before {
+.style-three .funnelRivers-sinlge-service-box:hover .funnelRivers-service-title h2:before {
     background: #fff;
 }
-.style-three .dreamit-sinlge-service-box:hover .service-button2 a, 
-.style-three .dreamit-sinlge-service-box:hover .service-button2 span i {
+.style-three .funnelRivers-sinlge-service-box:hover .service-button2 a, 
+.style-three .funnelRivers-sinlge-service-box:hover .service-button2 span i {
     color: #fff;
 }
 /*style three upper5*/
@@ -2918,7 +2918,7 @@ transform: translateX(0);
     background: #212123;
     margin-top: -48px;
 }
-.style-three.upper5 .dreamit-service-icon i {
+.style-three.upper5 .funnelRivers-service-icon i {
     font-size: 52px;
     color: #ed381f;
     display: inline-block;
@@ -2933,7 +2933,7 @@ transform: translateX(0);
     position: relative;
     z-index: 1;
 }
-.style-three.upper5 .dreamit-service-title h2:before {
+.style-three.upper5 .funnelRivers-service-title h2:before {
     position: absolute;
     content: "";
     z-index: 1;
@@ -2944,11 +2944,11 @@ transform: translateX(0);
     height: 2px;
     transition: .5s;
 }
- .style-three.upper5 .dreamit-sinlge-service-box:hover .dreamit-service-icon i, 
-.style-three.upper5 .dreamit-sinlge-service-box:hover .service-button2 span i {
+ .style-three.upper5 .funnelRivers-sinlge-service-box:hover .funnelRivers-service-icon i, 
+.style-three.upper5 .funnelRivers-sinlge-service-box:hover .service-button2 span i {
     color: #fff;
 }
-.style-three.upper5 .dreamit-sinlge-service-box:hover:before {
+.style-three.upper5 .funnelRivers-sinlge-service-box:hover:before {
     height: 100%;
     background: linear-gradient(to right, #ed2b22 0%, #ed431d 100%);
 }
@@ -2956,7 +2956,7 @@ transform: translateX(0);
 .service-area.style-four {
    background: #fff;
 }
-.style-four .dreamit-sinlge-service-box {
+.style-four .funnelRivers-sinlge-service-box {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -2967,7 +2967,7 @@ transform: translateX(0);
     border-radius: 5px;
     margin-bottom: 30px;
 }
-.style-four .dreamit-sinlge-service-box:before {
+.style-four .funnelRivers-sinlge-service-box:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -2979,7 +2979,7 @@ transform: translateX(0);
     transition: .5s;
     border-radius: 5px;
 }
-.style-four .dreamit-sinlge-service-box:after {
+.style-four .funnelRivers-sinlge-service-box:after {
     position: absolute;
     content: "";
     z-index: -1;
@@ -2991,7 +2991,7 @@ transform: translateX(0);
     clip-path: polygon(0% 0%, 100% 100%, 100% 100%, 0% 100%);
     transition: 1s;
 }
-.style-four .dreamit-service-title h2 {
+.style-four .funnelRivers-service-title h2 {
     font-size: 26px;
     margin: 24px 0 38px;
     transition: .5s;
@@ -3000,7 +3000,7 @@ transform: translateX(0);
     line-height: 1.3;
     color: #151423;
 }
-.style-four .dreamit-service-icon i {
+.style-four .funnelRivers-service-icon i {
     font-size: 52px;
     color: #ED2C41;
     display: inline-block;
@@ -3015,7 +3015,7 @@ transform: translateX(0);
     position: relative;
     z-index: 1;
 }
-.style-four .dreamit-service-icon i:after {
+.style-four .funnelRivers-service-icon i:after {
     position: absolute;
     content: "";
     left: 0;
@@ -3029,7 +3029,7 @@ transform: translateX(0);
     transform: scale(0);
     transition: 1s;
 }
-.style-four .dreamit-service-title h2:before {
+.style-four .funnelRivers-service-title h2:before {
     position: absolute;
     content: "";
     z-index: 1;
@@ -3057,44 +3057,44 @@ transform: translateX(0);
     color: #1c1c1c;
     transition: .5s;
 }
-.style-four .dreamit-sinlge-service-box:hover:after {
+.style-four .funnelRivers-sinlge-service-box:hover:after {
     height: 35%;
     width: 50%;
 }
-.style-four .dreamit-sinlge-service-box:hover:before {
+.style-four .funnelRivers-sinlge-service-box:hover:before {
     height: 100%;
     background: linear-gradient(to top, #ed491c 0%,  #ed2523 100%);
 }
-.style-four .dreamit-sinlge-service-box:hover .dreamit-service-icon i::after {
+.style-four .funnelRivers-sinlge-service-box:hover .funnelRivers-service-icon i::after {
     background: #f1544e;
     transform: scale(1);
 }
-.style-four .dreamit-sinlge-service-box:hover .dreamit-service-title h2:before {
+.style-four .funnelRivers-sinlge-service-box:hover .funnelRivers-service-title h2:before {
     background: #fff;
 }
-.style-four .dreamit-sinlge-service-box:hover .service-button2 a, 
-.style-four .dreamit-sinlge-service-box:hover .service-button2 span i {
+.style-four .funnelRivers-sinlge-service-box:hover .service-button2 a, 
+.style-four .funnelRivers-sinlge-service-box:hover .service-button2 span i {
     color: #fff;
 }
 /*active box*/
-.style-four .active.dreamit-sinlge-service-box:before {
+.style-four .active.funnelRivers-sinlge-service-box:before {
     width: 100%;
     height: 100%;
 }
-.style-four .active.dreamit-sinlge-service-box:after {
+.style-four .active.funnelRivers-sinlge-service-box:after {
     height: 35%;
     width: 50%;
 }
-.style-four .active .dreamit-service-icon i:after {
+.style-four .active .funnelRivers-service-icon i:after {
     transform: scale(1);
 }
-.style-four .active .dreamit-service-icon i {
+.style-four .active .funnelRivers-service-icon i {
     color: #fff;
 }
-.style-four .active .dreamit-service-title h2 {
+.style-four .active .funnelRivers-service-title h2 {
     color: #fff;
 }
-.style-four .active .dreamit-service-title h2:before {
+.style-four .active .funnelRivers-service-title h2:before {
     background: #fff;
 }
 .style-four .active .service-button2 a {
@@ -3142,7 +3142,7 @@ transform: translateX(0);
     width: 100%;
 }
 /*box3*/
-.style-five .dreamit-sinlge-service-box3 {
+.style-five .funnelRivers-sinlge-service-box3 {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -3152,7 +3152,7 @@ transform: translateX(0);
     padding: 30px 29px 25px;
     margin-bottom: 30px;
 }
-.style-five .dreamit-sinlge-service-box3:before {
+.style-five .funnelRivers-sinlge-service-box3:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3165,7 +3165,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.dreamit-sinlge-service-box3:after {
+.funnelRivers-sinlge-service-box3:after {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3177,7 +3177,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.style-five .dreamit-service-icon i {
+.style-five .funnelRivers-service-icon i {
     font-size: 30px;
     color: #fff;
     display: inline-block;
@@ -3190,7 +3190,7 @@ transform: translateX(0);
     border-radius: 50%;
     text-align: center;
 }
-.style-five .dreamit-service-title1 h2 {
+.style-five .funnelRivers-service-title1 h2 {
     font-size: 22px;
     margin: 28px 0 12px;
     transition: .5s;
@@ -3201,7 +3201,7 @@ transform: translateX(0);
     background-size: 200% 100%;
     background-position: 100%;
 }
-.style-five .dreamit-icon1 i {
+.style-five .funnelRivers-icon1 i {
     position: absolute;
     z-index: 1;
     bottom: 14px;
@@ -3210,21 +3210,21 @@ transform: translateX(0);
     right: 14px;
     transition: .5s;
 }
-.style-five .dreamit-sinlge-service-box3:hover .dreamit-service-title1 h2 {
+.style-five .funnelRivers-sinlge-service-box3:hover .funnelRivers-service-title1 h2 {
     background-position: 0;
 }
 .service-button a:hover {
     background: #1a1829;
     color: #fff;
 }
-.style-five .dreamit-sinlge-service-box3:hover .dreamit-icon1 i {
+.style-five .funnelRivers-sinlge-service-box3:hover .funnelRivers-icon1 i {
     color: #fff;
 }
-.dreamit-sinlge-service-box3:hover:after {
+.funnelRivers-sinlge-service-box3:hover:after {
     height: 55px;
 }
 /*box4*/
-.style-five .dreamit-sinlge-service-box4 {
+.style-five .funnelRivers-sinlge-service-box4 {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -3234,7 +3234,7 @@ transform: translateX(0);
     padding: 30px 29px 25px;
     margin-bottom: 30px;
 }
-.style-five .dreamit-sinlge-service-box4:before {
+.style-five .funnelRivers-sinlge-service-box4:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3247,7 +3247,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.dreamit-sinlge-service-box4:after {
+.funnelRivers-sinlge-service-box4:after {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3259,7 +3259,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.style-five .dreamit-service-icon2 i {
+.style-five .funnelRivers-service-icon2 i {
     font-size: 30px;
     color: #fff;
     display: inline-block;
@@ -3272,7 +3272,7 @@ transform: translateX(0);
     border-radius: 50%;
     text-align: center;
 }
-.style-five .dreamit-service-title2 h2 {
+.style-five .funnelRivers-service-title2 h2 {
     font-size: 22px;
     margin: 28px 0 12px;
     transition: .5s;
@@ -3283,7 +3283,7 @@ transform: translateX(0);
     background-size: 200% 100%;
     background-position: 100%;
 }
-.style-five .dreamit-icon2 i {
+.style-five .funnelRivers-icon2 i {
     position: absolute;
     z-index: 1;
     bottom: 14px;
@@ -3292,17 +3292,17 @@ transform: translateX(0);
     right: 14px;
     transition: .5s;
 }
-.style-five .dreamit-sinlge-service-box4:hover .dreamit-service-title2 h2 {
+.style-five .funnelRivers-sinlge-service-box4:hover .funnelRivers-service-title2 h2 {
     background-position: 0;
 }
-.style-five .dreamit-sinlge-service-box4:hover .dreamit-icon2 i {
+.style-five .funnelRivers-sinlge-service-box4:hover .funnelRivers-icon2 i {
     color: #fff;
 }
-.dreamit-sinlge-service-box4:hover:after {
+.funnelRivers-sinlge-service-box4:hover:after {
     height: 55px;
 }
 /*box5*/
-.style-five .dreamit-sinlge-service-box5 {
+.style-five .funnelRivers-sinlge-service-box5 {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -3312,7 +3312,7 @@ transform: translateX(0);
     padding: 30px 29px 25px;
     margin-bottom: 30px;
 }
-.style-five .dreamit-sinlge-service-box5:before {
+.style-five .funnelRivers-sinlge-service-box5:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3325,7 +3325,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.dreamit-sinlge-service-box5:after {
+.funnelRivers-sinlge-service-box5:after {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3337,7 +3337,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.style-five .dreamit-service-icon3 i {
+.style-five .funnelRivers-service-icon3 i {
     font-size: 30px;
     color: #fff;
     display: inline-block;
@@ -3350,7 +3350,7 @@ transform: translateX(0);
     border-radius: 50%;
     text-align: center;
 }
-.style-five .dreamit-service-title3 h2 {
+.style-five .funnelRivers-service-title3 h2 {
     font-size: 22px;
     margin: 28px 0 12px;
     transition: .5s;
@@ -3361,7 +3361,7 @@ transform: translateX(0);
     background-size: 200% 100%;
     background-position: 100%;
 }
-.style-five .dreamit-icon3 i {
+.style-five .funnelRivers-icon3 i {
     position: absolute;
     z-index: 1;
     bottom: 14px;
@@ -3370,17 +3370,17 @@ transform: translateX(0);
     right: 14px;
     transition: .5s;
 }
-.style-five .dreamit-sinlge-service-box5:hover .dreamit-service-title3 h2 {
+.style-five .funnelRivers-sinlge-service-box5:hover .funnelRivers-service-title3 h2 {
     background-position: 0;
 }
-.style-five .dreamit-sinlge-service-box5:hover .dreamit-icon3 i {
+.style-five .funnelRivers-sinlge-service-box5:hover .funnelRivers-icon3 i {
     color: #fff;
 }
-.dreamit-sinlge-service-box5:hover:after {
+.funnelRivers-sinlge-service-box5:hover:after {
     height: 55px;
 }
 /*box5*/
-.style-five .dreamit-sinlge-service-box6 {
+.style-five .funnelRivers-sinlge-service-box6 {
     transition: .5s;
     position: relative;
     z-index: 1;
@@ -3390,7 +3390,7 @@ transform: translateX(0);
     padding: 30px 29px 25px;
     margin-bottom: 30px;
 }
-.style-five .dreamit-sinlge-service-box6:before {
+.style-five .funnelRivers-sinlge-service-box6:before {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3403,7 +3403,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.dreamit-sinlge-service-box6:after {
+.funnelRivers-sinlge-service-box6:after {
     position: absolute;
     content: "";
     z-index: -1;
@@ -3415,7 +3415,7 @@ transform: translateX(0);
     border-radius: 55px 0 0 0;
     transition: .5s;
 }
-.style-five .dreamit-service-icon4 i {
+.style-five .funnelRivers-service-icon4 i {
     font-size: 30px;
     color: #fff;
     display: inline-block;
@@ -3428,7 +3428,7 @@ transform: translateX(0);
     border-radius: 50%;
     text-align: center;
 }
-.style-five .dreamit-service-title4 h2 {
+.style-five .funnelRivers-service-title4 h2 {
     font-size: 22px;
     margin: 28px 0 12px;
     transition: .5s;
@@ -3439,7 +3439,7 @@ transform: translateX(0);
     background-size: 200% 100%;
     background-position: 100%;
 }
-.style-five .dreamit-icon4 i {
+.style-five .funnelRivers-icon4 i {
     position: absolute;
     z-index: 1;
     bottom: 14px;
@@ -3448,13 +3448,13 @@ transform: translateX(0);
     right: 14px;
     transition: .5s;
 }
-.style-five .dreamit-sinlge-service-box6:hover .dreamit-service-title4 h2 {
+.style-five .funnelRivers-sinlge-service-box6:hover .funnelRivers-service-title4 h2 {
     background-position: 0;
 }
-.style-five .dreamit-sinlge-service-box6:hover .dreamit-icon4 i {
+.style-five .funnelRivers-sinlge-service-box6:hover .funnelRivers-icon4 i {
     color: #fff;
 }
-.dreamit-sinlge-service-box6:hover:after {
+.funnelRivers-sinlge-service-box6:hover:after {
     height: 55px;
 }
 /*
@@ -3462,13 +3462,13 @@ transform: translateX(0);
 <!-- Start about area Css -->
 <!-- ============================================================== -->*/
 .about-area {
-    background: url(assets/images/about/dreamit-1.html);
+    background: url(assets/images/about/funnelRivers-1.html);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     padding: 90px 0 85px;
 }
-.dreamit-about-thumb img {
+.funnelRivers-about-thumb img {
     width: 100%;
 }
 .about-icon {
@@ -3480,12 +3480,12 @@ transform: translateX(0);
     color: #ED2C41;
     font-size: 18px;
 }
-.dreamit-about-thumb-box {
+.funnelRivers-about-thumb-box {
     margin-top: 17px;
     border-top: 1px solid #fde9ec;
     padding: 23px 0 0;
 }
-.dreamit-about-signature-thumb {
+.funnelRivers-about-signature-thumb {
     float: left;
     margin-right: 52px;
     margin-left: 20px;
@@ -3523,16 +3523,16 @@ transform: translateX(0);
     position: relative;
     margin-top: -170px;
 }
-.style-three .dreamit-about-thumb-3 {
+.style-three .funnelRivers-about-thumb-3 {
     position: relative;
     margin-left: -88px;
 }
-.style-three .dreamit-about-thumb-box {
+.style-three .funnelRivers-about-thumb-box {
     margin-top: 17px;
     border-top: 0;
     padding: 23px 0 0;
 }
-.style-three .dreamit-about-thumb-3 img {
+.style-three .funnelRivers-about-thumb-3 img {
     -webkit-filter: grayscale(100%);
     transition: .5s;
 }
@@ -3551,7 +3551,7 @@ transform: translateX(0);
     background: linear-gradient(to right, #ed2523 0%, #ed491c 100%);
     border-radius: 50%;
 }
-.style-three .dreamit-about-signature-thumb {
+.style-three .funnelRivers-about-signature-thumb {
     float: left;
     margin-right: 35px;
     margin-left: 0px;
@@ -3577,7 +3577,7 @@ transform: translateX(0);
 .style-three .about-name-title p {
     margin: -10px 0 0 45px;
 }
-.style-three .dreamit-about-thumb-3 img:hover {
+.style-three .funnelRivers-about-thumb-3 img:hover {
     -webkit-filter: grayscale(0);
 }
 /*style four*/
@@ -3631,7 +3631,7 @@ transform: translateX(0);
     position: relative;
     z-index: 1;
 }
-.style-five .dreamit-about-thumb-3 {
+.style-five .funnelRivers-about-thumb-3 {
     position: relative;
     margin-left: -275px;
     z-index: 1;
@@ -4001,13 +4001,13 @@ transform: translateX(0);
     transition:.5s;
 
 }
-.dreamit-single-case-study:hover .case-study-content:before {
+.funnelRivers-single-case-study:hover .case-study-content:before {
     background: #ffbb00;
 }
-.dreamit-single-case-study:hover .case-study-icon i {
+.funnelRivers-single-case-study:hover .case-study-icon i {
     color: #fff;
 }
-.dreamit-single-case-study:hover .case-study-content {
+.funnelRivers-single-case-study:hover .case-study-content {
     margin-top: -62px;
 }
 /*style two*/
@@ -4213,7 +4213,7 @@ transform: translateX(0);
     transition: .5s;
 }
 /*====================================================
---<	dreamit Portfolio Area Css -->
+--<	funnelRivers Portfolio Area Css -->
 ======================================================*/
 .portfolio_area {
     padding: 100px 0 90px;
@@ -5037,7 +5037,7 @@ li.current_menu_item:before {
     background-repeat: no-repeat;
     padding: 90px 0 60px;
 }
-.dreamit-single-brand {
+.funnelRivers-single-brand {
     padding: 21px 0;
     margin-bottom: 30px;
 }
@@ -5211,11 +5211,11 @@ li.current_menu_item:before {
     padding: 80px 0 0;
 }
 /*skill thumb*/
-.dreamit-single-counter{
+.funnelRivers-single-counter{
     position: relative;
     z-index: 1;
 }
-.dreamit-single-counter-inner {
+.funnelRivers-single-counter-inner {
     position: relative;
     z-index: 1;
     margin: 278px 0 0;
@@ -5228,7 +5228,7 @@ li.current_menu_item:before {
     left: 0;
     border-radius: 50%  50% 0;
 }
-.dreamit-single-counter:before {
+.funnelRivers-single-counter:before {
     position: absolute;
     content: "";
     width: 212px;
@@ -5239,14 +5239,14 @@ li.current_menu_item:before {
     top: 263px;
     z-index: -1;
 }
-.dreamit-counter-text h1 {
+.funnelRivers-counter-text h1 {
     font-size: 60px;
     color: #fff;
     display: inline-block;
     font-weight: 500;
     margin-top: 68px;
 }
-.dreamit-counter-text span {
+.funnelRivers-counter-text span {
     font-size: 39px;
     display: inline-block;
     color: #fff;
@@ -5254,7 +5254,7 @@ li.current_menu_item:before {
     position: relative;
     top: -18px;
 }
-.dreamit-counter-title h4 {
+.funnelRivers-counter-title h4 {
     font-size: 22px;
     font-weight: 500;
     color: #fff;
@@ -5367,7 +5367,7 @@ span.fill.my-class2 {
     border-radius: 5px;
 }
 /*counter style two*/
-.style-two .dreamit-single-counter-inner {
+.style-two .funnelRivers-single-counter-inner {
     position: absolute;
     z-index: 1;
     margin: 380px 0 0;
@@ -5380,7 +5380,7 @@ span.fill.my-class2 {
     left: 10px;
     border-radius: 50%  50% 50% 0;
 }
-.style-two.dreamit-single-counter:before {
+.style-two.funnelRivers-single-counter:before {
     position: absolute;
     content: "";
     width: 212px;
@@ -5391,7 +5391,7 @@ span.fill.my-class2 {
     top: 390px;
     z-index: -1;
 }
-.style-two .dreamit-counter-text h1 {
+.style-two .funnelRivers-counter-text h1 {
     font-size: 60px;
     color: #ed2c41;
     display: inline-block;
@@ -5475,7 +5475,7 @@ span.fill.my-class2 {
     margin-left: 14px;
 }
 /*button*/
-.dreamit-button a {
+.funnelRivers-button a {
     display: inline-block;
     font-size: 16px;
     color: #ffff;
@@ -5486,7 +5486,7 @@ span.fill.my-class2 {
     position: relative;
     z-index: 1;
 }
-.dreamit-button a:before {
+.funnelRivers-button a:before {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -5502,10 +5502,10 @@ span.fill.my-class2 {
     background-size: cover;
     background-position: center;
 }
-.dreamit-button a:hover: {
+.funnelRivers-button a:hover: {
     color: #e91f4f !important;
 }
-.dreamit-button a:hover::before {
+.funnelRivers-button a:hover::before {
     transform: scale(1, 1);
     opacity: 1;
     border: 1px solid #e91f4f;
@@ -5513,7 +5513,7 @@ span.fill.my-class2 {
     color: #e91f4f ;
 }
 /*button two*/
-.dreamit-button2 a {
+.funnelRivers-button2 a {
     display: inline-block;
     font-size: 16px;
     color: #ffff;
@@ -5523,7 +5523,7 @@ span.fill.my-class2 {
     position: relative;
     z-index: 1;
 }
-.dreamit-button2 a:before {
+.funnelRivers-button2 a:before {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -5539,10 +5539,10 @@ span.fill.my-class2 {
     background-size: cover;
     background-position: center;
 }
-.dreamit-button2 a:hover: {
+.funnelRivers-button2 a:hover: {
     color: #e91f4f !important;
 }
-.dreamit-button2 a:hover::before {
+.funnelRivers-button2 a:hover::before {
     transform: scale(1, 1);
     opacity: 1;
     border: 1px solid #e91f4f;
@@ -5607,11 +5607,11 @@ span.fill.my-class2 {
     background-repeat: no-repeat;
     padding: 0 0 133px;
 }
-.dreamit-testimonial-thumb img {
+.funnelRivers-testimonial-thumb img {
     position: relative;
     margin-left: -321px;
 }
-.dreamit-single-testimonial-box {
+.funnelRivers-single-testimonial-box {
     position: relative;
     padding: 100px 30px 50px;
 }
@@ -5647,17 +5647,17 @@ span.fill.my-class2 {
     background-attachment: scroll;
     padding: 114px 0 100px;
 }
-.style-two .dreamit-testimonial-thumb img {
+.style-two .funnelRivers-testimonial-thumb img {
     position: inherit;
     margin-left: -20px;
 }
-.style-two .dreamit-single-testimonial-box {
+.style-two .funnelRivers-single-testimonial-box {
     position: relative;
     padding: 60px 20px 50px 35px;
     background: #1c1e22;
     margin-bottom: 30px;
 }
-.style-two .dreamit-single-testimonial-box.white:before {
+.style-two .funnelRivers-single-testimonial-box.white:before {
     position: absolute;
     content: "";
     border-color: #1c1e22 transparent transparent #1c1e22;
@@ -5739,7 +5739,7 @@ span.fill.my-class2 {
 <!-- ============================================================== -->
 <!-- Start team area Css -->
 <!-- ============================================================== -->*/
-.dreamit-single-team-box {
+.funnelRivers-single-team-box {
     margin-bottom: 30px;
     text-align: center;
     background: #fff;
@@ -5834,10 +5834,10 @@ span.fill.my-class2 {
     background: #fff;
     color: #ed2a22;
 }
- .dreamit-single-team-box:hover .single-team-thumb img{
+ .funnelRivers-single-team-box:hover .single-team-thumb img{
     -webkit-filter: grayscale(0);
  }   
-.dreamit-single-team-box:hover .team-socail-icon {
+.funnelRivers-single-team-box:hover .team-socail-icon {
     opacity: 1;
     margin-top: -85px;
 }
@@ -5845,7 +5845,7 @@ span.fill.my-class2 {
 .team-area.upper1 {
     background: #212123;
 }
-.upper1 .dreamit-single-team-box {
+.upper1 .funnelRivers-single-team-box {
     margin-bottom: 30px;
     text-align: center;
     background: #212123;
@@ -5895,7 +5895,7 @@ span.fill.my-class2 {
 }
 
 /*style two*/
-.style-two .dreamit-single-team-box2 {
+.style-two .funnelRivers-single-team-box2 {
     margin-bottom: 30px;
     overflow: hidden;
     text-align: center;
@@ -5978,7 +5978,7 @@ span.fill.my-class2 {
 .team-icon span:hover {
     color: #fff;
 }
-.style-two .dreamit-single-team-box2:hover {
+.style-two .funnelRivers-single-team-box2:hover {
     box-shadow: 0px 0px 14px #ddd;
 }
 .style-two .team-share-social:hover .team-socail-icon{
@@ -5988,7 +5988,7 @@ span.fill.my-class2 {
 .style-two .team-share-social:hover .team-socail-icon{
     opacity: 1;
 }
-.dreamit-single-team-box2:hover .single-team-thumb img{
+.funnelRivers-single-team-box2:hover .single-team-thumb img{
     -webkit-filter: grayscale(0);
  } 
  /*style three*/
@@ -6007,7 +6007,7 @@ span.fill.my-class2 {
 .team-area.style-four {
     background: #FEF5F3;
 }
-.style-four .dreamit-single-team-box {
+.style-four .funnelRivers-single-team-box {
     margin-bottom: 30px;
     text-align: center;
     background: #fff;
@@ -6141,7 +6141,7 @@ a.gradient-color3 i:hover{
 .style-four .team-icon a:hover {
     color: inherit;
 }
-.style-four .dreamit-single-team-box:hover .team-socail-icon {
+.style-four .funnelRivers-single-team-box:hover .team-socail-icon {
     opacity: 1;
     margin-top: -97px;
 }
@@ -6356,7 +6356,7 @@ span.monthp {
     font-size: 16px;
     color: #ED2C41;
 }
-.dreamit_blog_meta a {
+.funnelRivers_blog_meta a {
     display: inline-block;
     font-size: 16px;
     color: #616161;
@@ -6364,14 +6364,14 @@ span.monthp {
     transition: .5s;
     float: right;
 }
-.dreamit_blog_meta a i {
+.funnelRivers_blog_meta a i {
     display: inline-block;
     font-size: 16px;
     margin-right: 4px;
     transition: .5s;
     color: #ED2C41;
 }
-.dreamit_blog_meta span {
+.funnelRivers_blog_meta span {
     color: #232434;
     font-style: normal;
     transition: .5s;
@@ -6443,7 +6443,7 @@ span.monthp {
     color: #bcc7cd;
     transition: .5s;
 }
-.style-two .dreamit_blog_meta a {
+.style-two .funnelRivers_blog_meta a {
     display: inline-block;
     font-size: 16px;
     color: #bcc7cd;
@@ -6666,7 +6666,7 @@ span.monthp {
     color: #b4bfc5;
     transition: .5s;
 }
-.style-four.upper2 .dreamit_blog_meta a {
+.style-four.upper2 .funnelRivers_blog_meta a {
     display: inline-block;
     font-size: 16px;
     color: #b4bfc5;
@@ -6952,7 +6952,7 @@ span.monthp {
     background-size: cover;
     background-position: center center;
 }
-.dreamit-logo {
+.funnelRivers-logo {
     margin-top: 10px;
 }
 .company-info-desc p {
@@ -7150,7 +7150,7 @@ h4.widget-title span {
     padding: 34px 50px  30px;
     border-radius: 8px;
 }
-form#dreamit-form h4 {
+form#funnelRivers-form h4 {
     font-size: 19px;
     font-weight: 600;
     padding: 0 0 19px;
@@ -7261,7 +7261,7 @@ form#dreamit-form h4 {
     font-size: 35px;
     line-height: 1;
 }
-.style-three form#dreamit-form {
+.style-three form#funnelRivers-form {
     padding: 35px 30px 48px;
     background: #fff;
     border-radius: 50px 0 5px 5px;
@@ -7355,7 +7355,7 @@ textarea:focus {
     border-radius: 5px;
 }
 /*style three upper8*/
-.style-three.upper8 form#dreamit-form {
+.style-three.upper8 form#funnelRivers-form {
     padding: 35px 30px 40px;
     background: #212123;
     border-radius: 50px 0 5px 5px;

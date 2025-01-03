@@ -3,8 +3,8 @@
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="widget-widgets-company-info white">
-					<div class="dreamit-logo">
-						<a class="logo_img" href="index.html" title="dreamit">
+					<div class="funnelRivers-logo">
+						<a class="logo_img" href="index.html" title="funnelRivers">
 							<img src="assets/images/logo.png" alt="" />
 						</a>
 					</div>
@@ -83,7 +83,7 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-						<p>Copyright © 2021. All rights reserved to <span>dreamit</span></p>
+						<p>Copyright © 2021. All rights reserved to <span>funnelRivers</span></p>
 					</div>
 				</div>
 			</div>
@@ -96,7 +96,7 @@
 	</div>
 </div>		
 <!--==================================================-->
-<!-- End dreamit Footer Middle Area -->
+<!-- End funnelRivers Footer Middle Area -->
 <!--==================================================-->
 
 <!--==================================================-->

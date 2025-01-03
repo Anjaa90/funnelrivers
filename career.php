@@ -1,6 +1,6 @@
 <?php include('includes/header.php');?>
 <!--==================================================-->
-<!-- End dreamit Main Menu Area -->
+<!-- End funnelRivers Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -48,7 +48,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start dreamit slider Area -->
+<!-- start funnelRivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -69,7 +69,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit slider Area -->
+<!-- End funnelRivers slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
@@ -81,13 +81,13 @@
 			<div class="col-lg-8 col-md-6 col-sm-12 col-xs-12">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="dreamit-single-blog-box">
-							<div class="dreamit-sigle-tmumb">
+						<div class="funnelRivers-single-blog-box">
+							<div class="funnelRivers-sigle-tmumb">
 								<img src="assets/images/resource/blog1.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">dreamit-Dagency</a>
+									<a href="#">funnelRivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -99,13 +99,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="dreamit-single-blog-box">
-							<div class="dreamit-sigle-tmumb">
+						<div class="funnelRivers-single-blog-box">
+							<div class="funnelRivers-sigle-tmumb">
 								<img src="assets/images/resource/blog2.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">dreamit-Dagency</a>
+									<a href="#">funnelRivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -117,13 +117,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="dreamit-single-blog-box">
-							<div class="dreamit-sigle-tmumb">
+						<div class="funnelRivers-single-blog-box">
+							<div class="funnelRivers-sigle-tmumb">
 								<img src="assets/images/resource/blog3.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">dreamit-Dagency</a>
+									<a href="#">funnelRivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -135,13 +135,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="dreamit-single-blog-box">
-							<div class="dreamit-sigle-tmumb">
+						<div class="funnelRivers-single-blog-box">
+							<div class="funnelRivers-sigle-tmumb">
 								<img src="assets/images/resource/blog1.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">dreamit-Dagency</a>
+									<a href="#">funnelRivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -153,13 +153,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="dreamit-single-blog-box">
-							<div class="dreamit-sigle-tmumb">
+						<div class="funnelRivers-single-blog-box">
+							<div class="funnelRivers-sigle-tmumb">
 								<img src="assets/images/resource/blog2.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">dreamit-Dagency</a>
+									<a href="#">funnelRivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -171,13 +171,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="dreamit-single-blog-box">
-							<div class="dreamit-sigle-tmumb">
+						<div class="funnelRivers-single-blog-box">
+							<div class="funnelRivers-sigle-tmumb">
 								<img src="assets/images/resource/blog1.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">dreamit-Dagency</a>
+									<a href="#">funnelRivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -239,7 +239,7 @@
 							<ul>
 								<li><a href="blog-details.html">Digital Agency</a></li>
 								<li><a href="blog-details.html">Marketing</a></li>
-								<li><a href="blog-details.html">dreamit</a></li>
+								<li><a href="blog-details.html">funnelRivers</a></li>
 							</ul>					
 						</div>
 					</div>	
@@ -451,7 +451,7 @@
 	</script>
 </body>
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/blog-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:39 GMT -->
+<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/blog-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:39 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

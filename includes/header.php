@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:35 GMT -->
+<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:35 GMT -->
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -53,23 +53,23 @@
 </head>
 <body>
 <!--==================================================-->
-<!-- Start dreamit Main Menu Area -->
+<!-- Start funnelRivers Main Menu Area -->
 <!--==================================================-->
-<div id="sticky-header" class="dreamit_nav_manu style-two">
+<div id="sticky-header" class="funnelRivers_nav_manu style-two">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-3">
 				<div class="logo">
-					<a class="logo_img" href="index.php" title="dreamit">
+					<a class="logo_img" href="index.php" title="funnelRivers">
 						<img src="assets\images\funnellogo.png" alt="" />
 					</a>
-					<a class="main_sticky" href="index.php" title="dreamit">
+					<a class="main_sticky" href="index.php" title="funnelRivers">
 						<img src="assets\images\funnellogo.png" alt="astute" />
 					</a>
 				</div>
 			</div>
 			<div class="col-lg-9">
-				<nav class="dreamit_menu text-left">
+				<nav class="funnelRivers_menu text-left">
 					<ul class="nav_scroll">
 						<li><a href="index.php">Home</a></li>
 							<!-- <ul class="sub-menu">
@@ -131,10 +131,10 @@
 		</div>
 	</div>
 </div>
-<!-- dreamit Mobile Menu Area -->
+<!-- funnelRivers Mobile Menu Area -->
 <div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
 	<div class="mobile-menu">
-		<nav class="dreamit_menu">
+		<nav class="funnelRivers_menu">
 			<ul class="nav_scroll">
 				<li><a href="#home">Home <span><i class="fas fa-angle-down"></i></span></a>
 					<!-- <ul class="sub-menu">
@@ -189,7 +189,7 @@
 </div>
 
 <!--==================================================-->
-<!-- End dreamit Main Menu Area -->
+<!-- End funnelRivers Main Menu Area -->
 <!--==================================================-->
 
 </header>

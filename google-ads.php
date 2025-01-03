@@ -3,7 +3,7 @@
 
 
 <!--==================================================-->
-<!-- End dreamit Main Menu Area -->
+<!-- End funnelRivers Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <!-- <div class="xs-sidebar-group info-group">
@@ -51,7 +51,7 @@
 	</div>
 </div> -->
 <!--==================================================-->
-<!-- start dreamit slider Area -->
+<!-- start funnelRivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -72,11 +72,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit slider Area -->
+<!-- End funnelRivers slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit Blog grid Area -->
+<!-- Start funnelRivers Blog grid Area -->
 <!--==================================================-->
 <div class="blog_area style-three">
 	<div class="container">
@@ -195,7 +195,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit Blog grid Area -->
+<!-- End funnelRivers Blog grid Area -->
 <!--==================================================-->
 
 
@@ -362,7 +362,7 @@
 	</script>
 </body>
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/blog-grid.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:39 GMT -->
+<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/blog-grid.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:39 GMT -->
 </html>
 
 
