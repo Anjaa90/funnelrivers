@@ -58,11 +58,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>SERVICES</h2>
+						<h2>SEO</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>SERVICES</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>SEO</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -80,11 +80,10 @@
 <div class="service-area">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-12 padding-left">
+			<div class="col-lg-12 col-md-6 col-sm-12 padding-left">
 				<div class="dreamit-section-title text-left">
-					<h5>SERVICES</h5>
-					<h1>WE SERVE THE PERFECT</h1>
-					<h1>PIXEL <span>IT SOLUTION</span></h1>					
+					<h5>SEO</h5>
+					<h1>WE SERVE THE PERFECT SEO <span>SOLUTION</span></h1>					
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
@@ -95,8 +94,8 @@
 								<i class="flaticon-growth"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>SEO Consultancy</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>Website Audit</h2>
+								<p>Comprehensive review of a website's current SEO performance, identifying areas of improvement.</p>
 							</div>
 						</div>
 					</div>
@@ -110,44 +109,44 @@
 								<i class="flaticon-clock"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>UI/UX Designing</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>SEO Reporting</h2>
+								<p>Providing regular reports on SEO performance, keyword rankings, and traffic analysis.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="dreamit-sinlge-service-box active">
+				<div class="dreamit-sinlge-service-box ">
 					<div class="dreamit-service-box-inner">
 						<div class="dreamit-service-content">
 							<div class="dreamit-service-icon">
 								<i class="flaticon-pen"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>App Development</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>Off-Page SEO</h2>
+								<p>Building backlinks from reputable sites to improve domain authority and rankings.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
-				<div class="dreamit-sinlge-service-box">
+				<div class="dreamit-sinlge-service-box-1">
 					<div class="dreamit-service-box-inner">
 						<div class="dreamit-service-content">
 							<div class="dreamit-service-icon">
 								<i class="flaticon-chat"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>Web Designing</h2>
-								<p>Collaboratively matrix missio criticals methods empow with process-cent</p>
+								<h2>Mobile Optimization</h2>
+								<p>Google prioritizes mobile-friendly websites (mobile-first indexing). Responsive design and fast mobile load times are essential.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
+			<!-- <div class="col-lg-3 col-md-6 col-sm-12 padding-left">
 				<div class="dreamit-sinlge-service-box-1">
 					<div class="dreamit-service-box-inner">
 						<div class="dreamit-service-content">
@@ -161,8 +160,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
+			</div> -->
+			<!-- <div class="col-lg-3 col-md-6 col-sm-12 padding-left">
 				<div class="dreamit-sinlge-service-box2">
 					<div class="dreamit-service-box-inner">
 						<div class="service-button">
@@ -170,7 +169,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>
@@ -186,9 +185,9 @@
 		<div class="row">
 			<div class="col-lg-12 col-sm-12">
 				<div class="dreamit-section-title style-three white text-center pb-3">
-					<h5>SERVICES</h5>
+					<h5>SEO</h5>
 					<h1>WE SERVE THE PERFECT</h1>
-					<h1>PIXEL <span>SOLUTIONS</span></h1>				
+					<h1> SEO <span>SOLUTIONS</span></h1>				
 				</div>
 			</div>
 		</div>
@@ -201,13 +200,13 @@
 								<i class="flaticon-brain-1"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>DIGITAL SEO CONSULTANCY</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>On-Page SEO</h2>
+								<p>Keyword usage, Meta descriptions and tags, URL structure, Internal linking, Image alt text, Mobile-friendliness and page speed.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -219,13 +218,13 @@
 								<i class="flaticon flaticon-code"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>APPS INTERFACE DESIGN</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>Off-Page SEO</h2>
+								<p>Building backlinks (links from other websites to yours), Social media signals, Brand mentions and reputation management.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -237,13 +236,13 @@
 								<i class="flaticon-pen"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>WEBSITE DEVELOPMENT</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>Technical SEO</h2>
+								<p>Site speed and performance, Mobile optimization, XML sitemap and robots.txt files, Structured data, Website security.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -255,13 +254,13 @@
 								<i class="flaticon-chat"></i>
 							</div>
 							<div class="dreamit-service-title">
-								<h2>UI DATABASE DESIGN</h2>
-								<p>Dramatically simplify to proof a data before high mindshare done.</p>
+								<h2>Content SEO</h2>
+								<p>Creating high-quality, informative, and relevant content, Incorporating targeted keywords naturally, Optimizing content for user intent.</p>
 							</div>
 						</div>
-						<div class="service-button2">
+						<!-- <div class="service-button2">
 							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -280,25 +279,22 @@
 		<div class="row">
 			<div class="col-lg-5 col-md-5 col-sm-12">
 				<div class="dreamit-section-title style-four text-left pb-3">
-					<h5>SERVICES</h5>
-					<h1>YOU CAN GET THE</h1>
+					<h5>SEO</h5>
+					<!-- <h1>YOU CAN GET THE</h1>
 					<h1>BEST ALL DESIGN</h1>	
-					<h1><span> SOLUTION</span></h1>
-					<p>Dramatically enable is a economically sound information deliverables is a completely impact resource-leveling the focussed leadership for a reals methodologies supported digital agency dreamit.</p>
+					<h1><span> SOLUTION</span></h1> -->
+					<h1>You Can Get the Best All-Design Solution with <span>SEO Services</span> by Funnel River</h1>
+					
+					
 				</div>
 			</div>
 			<div class="col-lg-7 col-md-6 col-sm-12">
 				<div class="dreamit-department-tab">
 					<ul class="nav nav-pills mb-60" id="pills-tab" role="tablist">
 						<li class="nav-item">
-							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FULL SATISFACTION</span></a>
+							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FUNNEL RIVERS</span></a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false"><span>EXPERT TEAM</span></a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false"><span>MISSION & VISION</span></a>
-						</li>	
+						
 					</ul>
 					<div class="tab-content" id="pills-tabContent">
 						<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
@@ -306,7 +302,7 @@
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
-											<p>We’ve combined a new kind of doctor’s experience that blends the highest level of the moment your health care with exceptional service. People can enroll membership by paying only an annual.</p>
+											<p>FunnelRiver delivers tailored SEO solutions with clear communication and continuous support to ensure customer satisfaction and long-term success.</p>
 										</div>
 									</div>
 									<div class="col-lg-6">
@@ -317,10 +313,10 @@
 									<div class="col-lg-6">
 										<div class="dreamit-department-bottom-content-inner">
 											<ul>
-												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
-												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
-												<li><i class="fas fa-check"></i><span>Quality users after Breed Applications.</span></li>
-												<li><i class="fas fa-check"></i><span>Market Positioning Expertise.</span></li>
+												<li><i class="fas fa-check"></i><span>Tailored SEO Solutions.</span></li>
+												<li><i class="fas fa-check"></i><span>Proven Results.</span></li>
+												<li><i class="fas fa-check"></i><span>Clear Communication.</span></li>
+												<li><i class="fas fa-check"></i><span>Ongoing Support.</span></li>
 											</ul>
 										</div>
 									</div>
