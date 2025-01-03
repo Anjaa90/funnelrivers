@@ -1,3 +1,4 @@
+<?php include('includes/header.php'); ?>
 <!DOCTYPE html>
 <html style="height:100%">
 <head>
@@ -11,3 +12,4 @@
 </h2>
 <p>The resource requested could not be found on this server!</p>
 </div></div></body></html>
+<?php include('includes/footer.php'); ?>
