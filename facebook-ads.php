@@ -55,11 +55,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>Facebook Page</h2>
+						<h2>Facebook Ads</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">service</a> <i class="fas fa-angle-double-right"></i></span> <span>CLOUD COMPUTING</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">Advertising</a> <i class="fas fa-angle-double-right"></i></span> <span>Facebook Ads</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -86,8 +86,10 @@
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">UI/UX GRAPHIC DESIGN</a></h1>
-									<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics. Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
+									<h1><a href="#">Funnelriver Facebook Ads Services
+									</a></h1>
+									<p>Facebook Ads (SMM) is a powerful tool for enhancing your brand’s online presence. At Funnelriver, we specialize in Facebook Ads that help you connect with your target audience and drive measurable results. Our approach is built on effective strategy, creative content, and continuous optimization to boost your brand visibility and conversions.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -98,8 +100,8 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>Why dreamit</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<h4>Why Funnelriver</h4>
+								<p>we combine digital expertise and creative innovation to deliver tailored solutions that drive measurable success.</p>
 							</div>
 						</div>
 					</div>
@@ -110,7 +112,7 @@
 							</div>
 							<div class="service-details-title">
 								<h4>24/7 SUPPORT</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<p>we deliver tailored solutions, and dedicated 24/7 support to keep your business thriving anytime, anywhere.</p>
 							</div>
 						</div>
 					</div>
@@ -122,22 +124,47 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-icon-box">
 							<div class="service-details-icon-title">
-								<h3>WE SERVE THE BEST WORK</h3>
-								<p>Dramatically monetize revolutionary collaboration and idea-sharing through accurate platforms the nectally syndicate high</p>
+								<h3>We Serve the Best Work in Facebook Ads!</h3>
+								<p>Custom strategies designed to fit your brand’s unique needs and objectives.
+								</p>
 							</div>
 						</div>
 						<div class="widget-service-details-icon">
-							<p><i class="fas fa-check"></i> <span>Rather than unique Idea.</span></p>
-							<p><i class="fas fa-check"></i> <span>Entums estibulum dignissim posuere</span></p>
-							<p><i class="fas fa-check"></i> <span>Quality users after Breed Applications.</span></p>
+							<p><i class="fas fa-check"></i> <span>Tailored Strategies</span></p>
+							<p><i class="fas fa-check"></i> <span>Targeted Ads</span></p>
+							<p><i class="fas fa-check"></i> <span>Data-Driven Results</span></p>
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12">
 						<div class="widget-details-text pt-25 pb-3">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities.</p>
+						<h4>Strategic Social Media Management
+						</h4>
+						<p>We align your brand goals with effective social media strategies, making sure your Facebook presence is impactful and consistent.
+						</p>
+							<p><i class="fas fa-check"></i> <b>Profile Management:</b>From setting up your page to regular updates, we ensure your Facebook profile represents your brand in the best light.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Engagement:</b>We create compelling posts that drive likes, shares, and comments, encouraging more interactions with your audience.</p>
+							
 						</div>
 						<div class="widget-details-text2">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures.That product Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics of fetures Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with of customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
+						<h4>Engaging Content Creation
+						</h4>
+						<p>We specialize in designing visually stunning graphics, videos, and posts that catch the eye and keep users engaged.
+						</p>
+							<p><i class="fas fa-check"></i> <b>Creative Campaigns:</b> We develop tailored campaigns with strong calls-to-action to drive results.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Compelling Copywriting:</b>Our expert copywriters create captivating captions and headlines that resonate with your audience.
+						</p>
+						</div>
+						<div class="widget-details-text3">
+						<h4>Community Building and Engagement
+						</h4>
+						<p>We build lasting relationships with your followers by maintaining active communication and fostering meaningful interactions.
+						</p>
+							<p><i class="fas fa-check"></i> <b>Prompt Responses</b>  We promptly engage with comments and messages, improving your brand’s customer service and user experience.
+
+							</p>
+							
 						</div>
 					</div>
 				</div>	
@@ -157,8 +184,8 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets/images/resource/details.png" alt="">		
-						<div class="widget-service-content text-center">
+						<img src="assets\images\googleAds\facebook-ads-370x500.png" alt="Facebook Ads">		
+						<!-- <div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>
 							</div>
@@ -173,7 +200,7 @@
 								<a href="#">LET’s START NOW</a>
 								<span><i class="fas fa-link"></i></span>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>	

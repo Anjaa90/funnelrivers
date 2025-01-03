@@ -1,8 +1,5 @@
 <?php include('includes/header.php');?>
 
-<<<<<<< HEAD
-<?php include('includes/header.php');?>
-=======
 
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -49,7 +46,6 @@
 		</div>
 	</div>
 </div>
->>>>>>> 9ee5d5486d5445b2592ac5fa1f92bf013f7cf318
 <!--==================================================-->
 <!-- start dreamit slider Area -->
 <!--==================================================-->
@@ -59,11 +55,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>CLOUD COMPUTING</h2>
+						<h2>Instagram Ads</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">service</a> <i class="fas fa-angle-double-right"></i></span> <span>CLOUD COMPUTING</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">Advertising</a> <i class="fas fa-angle-double-right"></i></span> <span>Instagram Ads</span></li>
 						</ul>
 					</div>	
 				</div>
@@ -90,8 +86,9 @@
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">UI/UX GRAPHIC DESIGN</a></h1>
-									<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics. Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
+									<h1><a href="#">Funnelriver Instagram Ads Services</a></h1>
+									<p>Funnelriver brings your brand to life with powerful Instagram Ads that drive engagement and conversions. Our team creates eye-catching video ads tailored to resonate with your target audience. Using YouTube’s advanced targeting tools, we ensure your ads reach the right viewers at the right moment, boosting your brand’s visibility and impact. We continuously track campaign performance, optimize based on data, and refine strategies to maximize your return on investment. With Funnelriver’s Instagram Ads, your business will experience enhanced brand awareness and measurable results. Let’s elevate your online presence and achieve your goals with the power of video advertising!
+									</p>
 								</div>
 							</div>
 						</div>
@@ -102,8 +99,9 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>Why dreamit</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<h4>Expert Content Creation</h4>
+								<p>High-quality, engaging content designed to resonate with your audience.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -113,8 +111,9 @@
 								<i class="flaticon-support-6"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>24/7 SUPPORT</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<h4>Performance Monitoring</h4>
+								<p>Regular analytics and optimization to improve results.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -126,23 +125,40 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-icon-box">
 							<div class="service-details-icon-title">
-								<h3>WE SERVE THE BEST WORK</h3>
+								<h3>We Serve the Best Work in Instagram Ads!
+								</h3>
 								<p>Dramatically monetize revolutionary collaboration and idea-sharing through accurate platforms the nectally syndicate high</p>
 							</div>
 						</div>
 						<div class="widget-service-details-icon">
-							<p><i class="fas fa-check"></i> <span>Rather than unique Idea.</span></p>
-							<p><i class="fas fa-check"></i> <span>Entums estibulum dignissim posuere</span></p>
-							<p><i class="fas fa-check"></i> <span>Quality users after Breed Applications.</span></p>
+							<p><i class="fas fa-check"></i> <span>Tailored Strategies </span></p>
+							<p><i class="fas fa-check"></i> <span>Targeted Ads</span></p>
+							<p><i class="fas fa-check"></i> <span>Data-Driven Results</span></p>
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12">
-						<div class="widget-details-text pt-25 pb-3">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities.</p>
-						</div>
-						<div class="widget-details-text2">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures.That product Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics of fetures Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with of customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
-						</div>
+					<div class="widget-details-text pt-25 pb-3">
+
+							<p><i class="fas fa-check"></i> <b>Custom Instagram Ad Campaigns</b> 
+							Developing tailored Instagram ad strategies to suit your brand’s goals and target audience.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Photo and Video Ads for Dynamic Content</b>
+							Designing high-quality photo and video ads to grab attention and drive engagement.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Instagram Stories Ads for Real-Time Engagement</b>
+							Running full-screen ads on Instagram Stories for a more engaging and interactive experience.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Carousel Ads to Showcase Multiple Products</b>
+							Creating carousel ads that allow users to swipe through a collection of images or videos.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Targeted Audience Segmentation</b>
+							Leveraging Instagram’s precise targeting tools to reach users based on demographics, interests, behaviors, and location.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Influencer Marketing Campaigns</b>
+							Partnering with Instagram influencers to promote your products or services to a larger audience.
+							</p>
+
+					</div>							
 					</div>
 				</div>	
 			</div>
@@ -161,8 +177,8 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets/images/resource/details.png" alt="">		
-						<div class="widget-service-content text-center">
+						<img src="assets\images\googleAds\instagram-ads-370x500.png" alt="Instagram Ads">		
+						<!-- <div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>
 							</div>
@@ -177,7 +193,7 @@
 								<a href="#">LET’s START NOW</a>
 								<span><i class="fas fa-link"></i></span>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>	
