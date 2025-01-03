@@ -1,7 +1,7 @@
 <?php include('includes/header.php');?>
 
 <!--==================================================-->
-<!-- End dreamit Main Menu Area -->
+<!-- End funnelRivers Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -49,7 +49,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start dreamit slider Area -->
+<!-- start funnelRivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -70,7 +70,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit slider Area -->
+<!-- End funnelRivers slider Area -->
 <!--==================================================-->
 
 
@@ -226,7 +226,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -244,7 +244,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -262,7 +262,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -280,7 +280,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -298,7 +298,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -316,7 +316,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">dreamit-Dagency <span></span></a>
+							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -378,7 +378,7 @@
 							<ul>
 								<li><a href="blog-details.html">Digital Agency</a></li>
 								<li><a href="blog-details.html">Marketing</a></li>
-								<li><a href="blog-details.html">dreamit</a></li>
+								<li><a href="blog-details.html">funnelRivers</a></li>
 							</ul>					
 						</div>
 					</div>	
@@ -619,7 +619,7 @@
 	</script>
 </body>
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/blog-2colum.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:40 GMT -->
+<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/blog-2colum.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:40 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

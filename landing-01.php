@@ -2,7 +2,7 @@
 <?php include('includes/header.php');?>
 
 
-<!-- Start dreamit Sidebar Cart Item -->
+<!-- Start funnelRivers Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
 	<div class="xs-overlay xs-bg-black"></div>
 	<div class="xs-sidebar-widget">
@@ -47,10 +47,10 @@
 		</div>
 	</div>
 </div>
-<!-- End dreamit Sidebar Cart Item -->
+<!-- End funnelRivers Sidebar Cart Item -->
 
 <!--==================================================-->
-<!-- Start dreamit slider Area -->
+<!-- Start funnelRivers slider Area -->
 <!--==================================================-->
 <div class="slider_list2 owl-carousel" id="home">
 	<div class="slider-area slider4 d-flex align-items-center">
@@ -58,7 +58,7 @@
 			<div class="row d-flex align-items-center">
 				<div class="col-lg-12 col-md-6 col-sm-12">
 					<div class="slider-content2">
-						<h4>WELCOME TO dreamit AGENCY</h4>
+						<h4>WELCOME TO funnelRivers AGENCY</h4>
 						<h1>Smart Web</h1>
 						<h1>Design <span class="color2">Agency</span></h1>
 						<div class="slider-button2">
@@ -160,17 +160,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit slider Area -->
+<!-- End funnelRivers slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit service Area -->
+<!-- Start funnelRivers service Area -->
 <!--==================================================-->
 <div class="service-area style-three upper5" id="service">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12">
-				<div class="dreamit-section-title style-four text-left white pb-3">
+				<div class="funnelRivers-section-title style-four text-left white pb-3">
 					<h5>SERVICES</h5>
 					<h1>WE SERVE THE PERFECT</h1>
 					<h1>PIXEL <span class="color1">SOLUTIONS</span></h1>				
@@ -184,13 +184,13 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-sinlge-service-box white">
-					<div class="dreamit-service-box-inner">
-						<div class="dreamit-service-content">
-							<div class="dreamit-service-icon">
+				<div class="funnelRivers-sinlge-service-box white">
+					<div class="funnelRivers-service-box-inner">
+						<div class="funnelRivers-service-content">
+							<div class="funnelRivers-service-icon">
 								<i class="flaticon-brain-1"></i>
 							</div>
-							<div class="dreamit-service-title">
+							<div class="funnelRivers-service-title">
 								<h2>DIGITAL SEO CONSULTANCY</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
@@ -202,13 +202,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-sinlge-service-box white">
-					<div class="dreamit-service-box-inner">
-						<div class="dreamit-service-content">
-							<div class="dreamit-service-icon">
+				<div class="funnelRivers-sinlge-service-box white">
+					<div class="funnelRivers-service-box-inner">
+						<div class="funnelRivers-service-content">
+							<div class="funnelRivers-service-icon">
 								<i class="flaticon flaticon-code"></i>
 							</div>
-							<div class="dreamit-service-title">
+							<div class="funnelRivers-service-title">
 								<h2>APPS INTERFACE DESIGN</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
@@ -220,13 +220,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-sinlge-service-box white">
-					<div class="dreamit-service-box-inner">
-						<div class="dreamit-service-content">
-							<div class="dreamit-service-icon">
+				<div class="funnelRivers-sinlge-service-box white">
+					<div class="funnelRivers-service-box-inner">
+						<div class="funnelRivers-service-content">
+							<div class="funnelRivers-service-icon">
 								<i class="flaticon-pen"></i>
 							</div>
-							<div class="dreamit-service-title">
+							<div class="funnelRivers-service-title">
 								<h2>WEBSITE DEVELOPMENT</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
@@ -238,13 +238,13 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-sinlge-service-box white">
-					<div class="dreamit-service-box-inner">
-						<div class="dreamit-service-content">
-							<div class="dreamit-service-icon">
+				<div class="funnelRivers-sinlge-service-box white">
+					<div class="funnelRivers-service-box-inner">
+						<div class="funnelRivers-service-content">
+							<div class="funnelRivers-service-icon">
 								<i class="flaticon-chat"></i>
 							</div>
-							<div class="dreamit-service-title">
+							<div class="funnelRivers-service-title">
 								<h2>UI DATABASE DESIGN</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
@@ -259,18 +259,18 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit service Area -->
+<!-- End funnelRivers service Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit about Area -->
+<!-- Start funnelRivers about Area -->
 <!--==================================================-->
 <div class="about-area style-three" id="about">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12">
-				<div class="dreamit-about-thumb-box">
-					<div class="dreamit-about-thumb-3">
+				<div class="funnelRivers-about-thumb-box">
+					<div class="funnelRivers-about-thumb-3">
 						<img src="assets/images/about/about1.png" alt="">
 					</div>
 				</div>
@@ -278,9 +278,9 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="row about-left">
 					<div class="col-lg-12">
-						<div class="dreamit-section-title style-four white">
+						<div class="funnelRivers-section-title style-four white">
 							<h5>About Us</h5>
-							<h1>dreamit IS THE BEST IT</h1>
+							<h1>funnelRivers IS THE BEST IT</h1>
 							<h1>AGENCY <span class="color2">IN WORLD</span></h1>
 							<p class="pt-text">Dramatically enable economically sound information for mission-critical deliverables. Completely impact resource-leveling systems vis-a-vis clie focused leadership for real methodologies supported.</p>
 						</div>
@@ -319,17 +319,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit about Area -->
+<!-- End funnelRivers about Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit video Area -->
+<!-- Start funnelRivers video Area -->
 <!--==================================================-->
 <div class="video-area style-three pt-100 pb-100" id="company">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="dreamit-section-title style-five white text-center">
+				<div class="funnelRivers-section-title style-five white text-center">
 					<h5>Video</h5>
 					<h1>EXPERIENCE US <span class="color2">LIVE</span></h1>
 				</div>
@@ -358,26 +358,26 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit video Area -->
+<!-- End funnelRivers video Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit feature Area -->
+<!-- Start funnelRivers feature Area -->
 <!--==================================================-->
 <div class="feture-area style-two upper6 pt-100 pb-100" id="company">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-5 col-md-5 col-sm-12">
-				<div class="dreamit-section-title style-four text-left white pb-3">
+				<div class="funnelRivers-section-title style-four text-left white pb-3">
 					<h5>SERVICES</h5>
 					<h1>YOU CAN GET THE</h1>
 					<h1>BEST ALL DESIGN</h1>	
 					<h1><span> SOLUTION</span></h1>
-					<p>Dramatically enable is a economically sound information deliverables is a completely impact resource-leveling the focussed leadership for a reals methodologies supported digital agency dreamit.</p>
+					<p>Dramatically enable is a economically sound information deliverables is a completely impact resource-leveling the focussed leadership for a reals methodologies supported digital agency funnelRivers.</p>
 				</div>
 			</div>
 			<div class="col-lg-7 col-md-6 col-sm-12">
-				<div class="dreamit-department-tab">
+				<div class="funnelRivers-department-tab">
 					<ul class="nav nav-pills mb-35" id="pills-tab" role="tablist">
 						<li class="nav-item">
 							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FULL SATISFACTION</span></a>
@@ -391,7 +391,7 @@
 					</ul>
 					<div class="tab-content" id="pills-tabContent">
 						<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-							<div class="dreamit-department-tab-box white">
+							<div class="funnelRivers-department-tab-box white">
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
@@ -399,12 +399,12 @@
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="dreamit-department-thumb">
+										<div class="funnelRivers-department-thumb">
 											<img src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="dreamit-department-bottom-content-inner white">
+										<div class="funnelRivers-department-bottom-content-inner white">
 											<ul>
 												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
 												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
@@ -417,7 +417,7 @@
 							</div>
 						</div>
 						<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-							<div class="dreamit-department-tab-box white">
+							<div class="funnelRivers-department-tab-box white">
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
@@ -425,12 +425,12 @@
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="dreamit-department-thumb">
+										<div class="funnelRivers-department-thumb">
 											<img src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="dreamit-department-bottom-content-inner">
+										<div class="funnelRivers-department-bottom-content-inner">
 											<ul>
 												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
 												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
@@ -443,7 +443,7 @@
 							</div>
 						</div>
 						<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-							<div class="dreamit-department-tab-box white">
+							<div class="funnelRivers-department-tab-box white">
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
@@ -451,12 +451,12 @@
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="dreamit-department-thumb">
+										<div class="funnelRivers-department-thumb">
 											<img src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="dreamit-department-bottom-content-inner">
+										<div class="funnelRivers-department-bottom-content-inner">
 											<ul>
 												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
 												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
@@ -475,17 +475,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit feature Area -->
+<!-- End funnelRivers feature Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit Portfolio Area -->
+<!-- Start funnelRivers Portfolio Area -->
 <!--==================================================-->
 <div class="portfolio_area style-three upper7" id="solution">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12">
-				<div class="dreamit-section-title text-left style-four white">
+				<div class="funnelRivers-section-title text-left style-four white">
 					<h5>PROJECTS</h5>
 					<h1>LATEST <span>PROJECTS</span></h1>
 				</div>
@@ -599,17 +599,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!--End dreamit Portfolio Area -->
+<!--End funnelRivers Portfolio Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit counter Area -->
+<!-- Start funnelRivers counter Area -->
 <!--==================================================-->
 <div class="counter-area style-three" id="contact">
 	<div class="container">
 		<div class="row counter-to">
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-counter-box">
+				<div class="funnelRivers-single-counter-box">
 					<div class="single-counter-box-inner">
 						<div class="counter-icon">
 							<i class="flaticon-code"></i>
@@ -624,7 +624,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-counter-box">
+				<div class="funnelRivers-single-counter-box">
 					<div class="single-counter-box-inner">
 						<div class="counter-icon">
 							<i class="flaticon-temporary-agency"></i>
@@ -640,7 +640,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-counter-box">
+				<div class="funnelRivers-single-counter-box">
 					<div class="single-counter-box-inner">
 						<div class="counter-icon">
 							<i class="flaticon-pen"></i>
@@ -656,7 +656,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-counter-box">
+				<div class="funnelRivers-single-counter-box">
 					<div class="single-counter-box-inner">
 						<div class="counter-icon">
 							<i class="fas fa-award"></i>
@@ -675,11 +675,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit counter Area -->
+<!-- End funnelRivers counter Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit faq Area -->
+<!-- Start funnelRivers faq Area -->
 <!--==================================================-->
 <div class="faq-area style-two upper8" id="contact">
 	<div class="container">
@@ -691,7 +691,7 @@
 				     	<h3>FEEL FREE TO CONTACT</h3>
 				     	<h3>WITH OUR IT AGENCY</h3>
 				     </div>	
-					<form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+					<form action="https://formspree.io/f/myyleorq" method="POST" id="funnelRivers-form">
 						<div class="row">
 							<div class="col-lg-12 col-sm-12">
 								<div class="from-box">
@@ -724,7 +724,7 @@
 			<div class="col-lg-7 col-md-8 col-sm-12">
 				<div class="row background-color1">
 					<div class="col-lg-12">
-						<div class="dreamit-section-title style-four white text-left">
+						<div class="funnelRivers-section-title style-four white text-left">
 							<h5 class="color2">FREEQUENTLY ASK QUESTION</h5>
 							<h1>HOW CAN WE <span class="color2">HELP?</span></h1>
 							<p class="text-color">Dramatically utilize user-centric users through business action items. Progressively.</p>
@@ -758,17 +758,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit faq Area-->
+<!-- End funnelRivers faq Area-->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit team Area -->
+<!-- Start funnelRivers team Area -->
 <!--==================================================-->
 <div class="team-area upper1 pt-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="dreamit-section-title style-two white text-center">
+				<div class="funnelRivers-section-title style-two white text-center">
 					<h5>OUR TEAM</h5>
 					<h1>MEET THE EXPERT <span>TEAM</span></h1>
 				</div>
@@ -776,7 +776,7 @@
 		</div>
 		<div class="row team-bottom">
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-team-box">
+				<div class="funnelRivers-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team1.jpg" alt="">
 						<div class="team-socail-icon">
@@ -802,7 +802,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-team-box">
+				<div class="funnelRivers-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team2.jpg" alt="">
 						<div class="team-socail-icon">
@@ -828,7 +828,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-team-box">
+				<div class="funnelRivers-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team3.jpg" alt="">
 						<div class="team-socail-icon">
@@ -854,7 +854,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12">
-				<div class="dreamit-single-team-box">
+				<div class="funnelRivers-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team4.jpg" alt="">
 						<div class="team-socail-icon">
@@ -883,19 +883,19 @@
 	</div>
 </div>
 <!--==================================================-->
-<!--End dreamit team Area -->
+<!--End funnelRivers team Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit Blog Area -->
+<!-- Start funnelRivers Blog Area -->
 <!--==================================================-->
 <div class="blog_area style-four upper2" id="blog">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 6 col-sm-12">
-				<div class="dreamit-section-title style-two white text-center">
+				<div class="funnelRivers-section-title style-two white text-center">
 					<h5>LATEST BLOG</h5>
-					<h1>dreamit LATEST <span>NEWS FEED</span></h1>
+					<h1>funnelRivers LATEST <span>NEWS FEED</span></h1>
 				</div>
 			</div>
 		</div>
@@ -909,7 +909,7 @@
 						<div class="post-categories">
 							<a href="#"><span><i class="far fa-calendar-alt"></i></span>July 10,2022</a>
 						</div>
-						<div class="dreamit_blog_meta">
+						<div class="funnelRivers_blog_meta">
 							<a href="#"><i class="far fa-user-circle"></i> By Posted </a>
 						</div>
 						<div class="blog_page_title">
@@ -930,7 +930,7 @@
 						<div class="post-categories">
 							<a href="#"><span><i class="far fa-calendar-alt"></i></span>July 10,2022</a>
 						</div>
-						<div class="dreamit_blog_meta">
+						<div class="funnelRivers_blog_meta">
 							<a href="#"><i class="far fa-user-circle"></i> By Jhon</a>
 						</div>
 						<div class="blog_page_title">
@@ -951,11 +951,11 @@
 						<div class="post-categories">
 							<a href="#"><span><i class="far fa-calendar-alt"></i></span>July 10,2022</a>
 						</div>
-						<div class="dreamit_blog_meta">
+						<div class="funnelRivers_blog_meta">
 							<a href="#"><i class="far fa-user-circle"></i> By Jhon</a>
 						</div>
 						<div class="blog_page_title">
-							<h4><a href="blog-details.html">dreamit Secrete Business Ideas Next Levels</a></h4>
+							<h4><a href="blog-details.html">funnelRivers Secrete Business Ideas Next Levels</a></h4>
 						</div>
 						<div class="blog_button">
 							<a href="#"><i class="flaticon flaticon-right-arrow"></i></a>
@@ -967,11 +967,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit Blog Area -->
+<!-- End funnelRivers Blog Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit subscribe Area -->
+<!-- Start funnelRivers subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area style-five">
 	<div class="container">
@@ -986,7 +986,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact_form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
+					<form id="contact_form" action="https://html.funnelRiverssolution.net/funnelRivers/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -999,13 +999,13 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit subscribe Area -->
+<!-- End funnelRivers subscribe Area -->
 <!--==================================================-->
 
 
 </div>		
 <!--==================================================-->
-<!-- End dreamit Footer Middle Area -->
+<!-- End funnelRivers Footer Middle Area -->
 <!--==================================================-->
 
 <!--==================================================-->
@@ -1170,7 +1170,7 @@
     </script>
 </body>
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/landing-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:35 GMT -->
+<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/landing-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:35 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

@@ -1,7 +1,7 @@
 
 <?php include('includes/header.php');?>
 <!--==================================================-->
-<!-- End dreamit Main Menu Area -->
+<!-- End funnelRivers Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -49,7 +49,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start dreamit slider Area -->
+<!-- start funnelRivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -70,11 +70,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit slider Area -->
+<!-- End funnelRivers slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit service Area -->
+<!-- Start funnelRivers service Area -->
 <!--==================================================-->
 <div class="service-area" id="blog">
 	<div class="container">		
@@ -82,8 +82,8 @@
 			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
-						<div class="dreamit-single-service-box">
-							<div class="dreamit-sigle-tmumb">
+						<div class="funnelRivers-single-service-box">
+							<div class="funnelRivers-sigle-tmumb">
 								<img src="assets/images/resource/img-1.jpg" alt="">
 							</div>
 							<div class="em-service-content">
@@ -101,9 +101,14 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
+<<<<<<< HEAD
 								<h4>Expert Content Creation</h4>
 								<p>High-quality, engaging content designed to resonate with your audience.
 								</p>
+=======
+								<h4>Why funnelRivers</h4>
+								<p>Phosfluorescently pontificates fully researched it.</p>
+>>>>>>> 9e066d889de6f93d9d0168f56df262643ede3462
 							</div>
 						</div>
 					</div>
@@ -206,11 +211,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit service Area -->
+<!-- End funnelRivers service Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit subscribe Area -->
+<!-- Start funnelRivers subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area">
 	<div class="container">
@@ -225,7 +230,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact_form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
+					<form id="contact_form" action="https://html.funnelRiverssolution.net/funnelRivers/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -238,7 +243,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit subscribe Area -->
+<!-- End funnelRivers subscribe Area -->
 <!--==================================================-->
 
 
@@ -404,7 +409,7 @@
     </script>
 </body>
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/digital-marketing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:41 GMT -->
+<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/digital-marketing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:41 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

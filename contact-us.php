@@ -3,7 +3,7 @@
 
 
 <!--==================================================-->
-<!-- start dreamit slider Area -->
+<!-- start funnelRivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -24,20 +24,24 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit slider Area -->
+<!-- End funnelRivers slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit contact us Area -->
+<!-- Start funnelRivers contact us Area -->
 <!--==================================================-->
 <div class="contact-us-area style-two pt-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="dreamit-section-title style-two text-center">
+				<div class="funnelRivers-section-title style-two text-center">
 					<h5>CONTACT US</h5>
 					<h1>GET IN TOUCH ANY TIME</h1>
+<<<<<<< HEAD
 					<h1>WITH <span>Funnelriver</span></h1>
+=======
+					<h1>WITH <span>funnelRivers</span></h1>
+>>>>>>> 9e066d889de6f93d9d0168f56df262643ede3462
 				</div>
 			</div>
 		</div>
@@ -51,7 +55,11 @@
 							</div>
 							<div class="contact-us-title">
 								<h2>Office Address</h2>
+<<<<<<< HEAD
 								<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
+=======
+								<p>Digital funnelRivers Network & IT 20 Eastbourne the Terrace Cen London W2</p>
+>>>>>>> 9e066d889de6f93d9d0168f56df262643ede3462
 							</div>
 						</div>
 					</div>
@@ -85,7 +93,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 					    <div class="contact-form-box style-two">	
-							<form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+							<form action="https://formspree.io/f/myyleorq" method="POST" id="funnelRivers-form">
 								<h4>For any inquiries relating to my Retail and Leadership Programs</h4>
 								<div class="row">
 									<div class="col-lg-6 col-md-6 col-sm-12">
@@ -148,11 +156,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit contact us Area -->
+<!-- End funnelRivers contact us Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit map Area -->
+<!-- Start funnelRivers map Area -->
 <!--==================================================-->
 <div class="map-area pt-100">
     <div class="container-fluid">
@@ -164,53 +172,53 @@
 
 
 <!--==================================================-->
-<!--End dreamit map Area -->
+<!--End funnelRivers map Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit brand Area -->
+<!-- Start funnelRivers brand Area -->
 <!--==================================================-->
 <!-- <div class="brand-area style-three">
 	<div class="container">
 		<div class="row">
 			<div class="brand-list owl-carousel">
 				<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
+				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>				
 			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
+				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand5.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
+				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand3.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
+				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand1.png" alt="">
 					</div>
 				</div>
 			</div> 
 			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
+				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand2.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
+				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
 						<img src="assets/images/resource/brand4.png" alt="">
 					</div>
@@ -221,11 +229,11 @@
 	</div>
 </div> -->
 <!--==================================================-->
-<!--End dreamit brand Area -->
+<!--End funnelRivers brand Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start dreamit subscribe Area -->
+<!-- Start funnelRivers subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area">
 	<div class="container">
@@ -240,7 +248,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact-form" action="https://html.dreamitsolution.net/dreamit/digital-agency/mail.php" method="POST">
+					<form id="contact-form" action="https://html.funnelRiverssolution.net/funnelRivers/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -253,7 +261,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End dreamit subscribe Area -->
+<!-- End funnelRivers subscribe Area -->
 <!--==================================================-->
 
 
@@ -420,7 +428,7 @@
     </script>
 </body>
 
-<!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
+<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:36 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>
