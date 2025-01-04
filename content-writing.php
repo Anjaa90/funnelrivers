@@ -18,7 +18,7 @@
 				<div class="sidebar-info-contents">
 					<div class="content-inner">
 						<div class="nav-logo">
-							<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+							<a href="index.html"><img loading="lazy" src="assets/images/logo.png" alt="" /></a>
 						</div>
 						<div class="content-box">
 							<h2>About Us</h2>
@@ -83,7 +83,7 @@
 					<div class="col-lg-12 col-sm-12">
 						<div class="dreamit-single-service-box">
 							<div class="dreamit-sigle-tmumb">
-								<img src="assets/images/resource/img-1.jpg" alt="">
+								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
 							</div>
 							
 						</div>
@@ -195,7 +195,7 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets\images\Creations\content-writing-1-image-370x500.png" alt="content-writing">		
+						<img loading="lazy" src="assets\images\Creations\content-writing-1-image-370x500.png" alt="content-writing">		
 						<!-- <div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>
@@ -253,7 +253,7 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/pt1.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/pt1.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<div class="single-portfolio-content-inner">
 									<span>Branding</span>
@@ -268,7 +268,7 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/pt2.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/pt2.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<div class="single-portfolio-content-inner">
 									<span>Photography</span>
@@ -283,7 +283,7 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/pt3.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/pt3.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<div class="single-portfolio-content-inner">
 									<span>Graphic</span>
@@ -298,7 +298,7 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/pt4.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/pt4.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<div class="single-portfolio-content-inner">
 									<span>Video</span>
@@ -313,7 +313,7 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/pt5.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/pt5.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<div class="single-portfolio-content-inner">
 									<span>Photography</span>
@@ -328,7 +328,7 @@
 				<div class="single_portfolio">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/pt6.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/pt6.jpg" alt="" />
 							<div class="single_portfolio_content">
 								<div class="single-portfolio-content-inner">
 									<span>Graphics</span>

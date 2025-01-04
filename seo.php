@@ -19,7 +19,7 @@
 				<div class="sidebar-info-contents">
 					<div class="content-inner">
 						<div class="nav-logo">
-							<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+							<a href="index.html"><img loading="lazy" src="assets/images/logo.png" alt="" /></a>
 						</div>
 						<div class="content-box">
 							<h2>About Us</h2>
@@ -307,7 +307,7 @@
 									</div>
 									<div class="col-lg-6">
 										<div class="dreamit-department-thumb">
-											<img src="assets/images/resource/feature1.png" alt="">
+											<img loading="lazy" src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
@@ -333,7 +333,7 @@
 									</div>
 									<div class="col-lg-6">
 										<div class="dreamit-department-thumb">
-											<img src="assets/images/resource/feature1.png" alt="">
+											<img loading="lazy" src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">
@@ -359,7 +359,7 @@
 									</div>
 									<div class="col-lg-6">
 										<div class="dreamit-department-thumb">
-											<img src="assets/images/resource/feature1.png" alt="">
+											<img loading="lazy" src="assets/images/resource/feature1.png" alt="">
 										</div>
 									</div>
 									<div class="col-lg-6">

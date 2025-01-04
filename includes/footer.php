@@ -5,7 +5,7 @@
 				<div class="widget-widgets-company-info white">
 					<div class="dreamit-logo">
 						<a class="logo_img" href="index.php" title="dreamit">
-							<img src="assets/images/logo.png" alt="" />
+							<img loading="lazy" src="assets/images/logo.png" alt="" />
 						</a>
 					</div>
 					<div class="company-info-desc">

@@ -54,10 +54,10 @@
 			<div class="col-lg-3">
 				<div class="logo">
 					<a class="logo_img" href="index.php" title="dreamit">
-						<img src="assets\images\funnellogo.png" alt="" />
+						<img loading="lazy" src="assets\images\funnellogo.png" alt="" />
 					</a>
 					<a class="main_sticky" href="index.php" title="dreamit">
-						<img src="assets\images\funnellogo.png" alt="astute" />
+						<img loading="lazy" src="assets\images\funnellogo.png" alt="astute" />
 					</a>
 				</div>
 			</div>

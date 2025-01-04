@@ -18,7 +18,7 @@
 				<div class="sidebar-info-contents">
 					<div class="content-inner">
 						<div class="nav-logo">
-							<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+							<a href="index.html"><img loading="lazy" src="assets/images/logo.png" alt="" /></a>
 						</div>
 						<div class="content-box">
 							<h2>About Us</h2>
@@ -84,7 +84,7 @@
 					<div class="col-lg-12 col-sm-12">
 						<div class="dreamit-single-service-box">
 							<div class="dreamit-sigle-tmumb">
-								<img src="assets/images/resource/img-1.jpg" alt="">
+								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
@@ -122,7 +122,7 @@
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-thumb">
-							<img src="assets/images/resource/img-2.png" alt="">
+							<img loading="lazy" src="assets/images/resource/img-2.png" alt="">
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
@@ -184,7 +184,7 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets\images\Creations\resume-making-1-image-370x500.png" alt="Resume making">		
+						<img loading="lazy" src="assets\images\Creations\resume-making-1-image-370x500.png" alt="Resume making">		
 						<!-- <div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>
@@ -222,7 +222,7 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog style-three">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog1.jpg" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -240,7 +240,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog style-three">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog2.jpg" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog2.jpg" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -258,7 +258,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog style-three">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog3.jpg" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog3.jpg" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -276,7 +276,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog style-three">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog1.jpg" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -294,7 +294,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog style-three">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog2.jpg" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog2.jpg" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -312,7 +312,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog style-three">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog1.jpg" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog1.jpg" alt="" /></a>
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
@@ -349,7 +349,7 @@
 						<div class="popular-post-box">
 							<div class="popular-post-box-inner d-flex">
 								<div class="popular-post-thumb">
-									<a href="blog-details.html"><img src="assets/images/resource/bl1.jpg" alt=""></a>
+									<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/bl1.jpg" alt=""></a>
 								</div>
 								<div class="popular-post-content">
 									<a href="blog-details.html">Top 15 Secrete Business Ideas Next</a>
@@ -360,7 +360,7 @@
 						<div class="popular-post-box">
 							<div class="popular-post-box-inner d-flex">
 								<div class="popular-post-thumb">
-									<a href="blog-details.html"><img src="assets/images/resource/bl2.jpg" alt=""></a>
+									<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/bl2.jpg" alt=""></a>
 								</div>
 								<div class="popular-post-content">
 									<a href="blog-details.html">Premium Supply Chains is Network turnkey</a>

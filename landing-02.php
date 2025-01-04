@@ -17,7 +17,7 @@
 				<div class="sidebar-info-contents">
 					<div class="content-inner">
 						<div class="nav-logo">
-							<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+							<a href="index.html"><img loading="lazy" src="assets/images/logo.png" alt="" /></a>
 						</div>
 						<div class="content-box">
 							<h2>About Us</h2>
@@ -71,35 +71,35 @@
 				</div>
 				<div class="slider-shape">
 				 	<div class="slider-shape-inner4 bounce-animate3">
-				 		<img src="assets/images/slider/shape.png" alt="">
+				 		<img loading="lazy" src="assets/images/slider/shape.png" alt="">
 				 	</div>
 				 	<div class="slider-shape-inner5 bounce-animate">
-				 		<img src="assets/images/slider/shape9.png" alt="">
+				 		<img loading="lazy" src="assets/images/slider/shape9.png" alt="">
 				 	</div>
 				 </div>
 			 </div>
 			 <div class="col-lg-5 col-md-6 col-sm-12">
 			 	<div class="dreamit-slider-thumb-2">
-			 		<img src="assets/images/slider/img-1.png" alt="">
+			 		<img loading="lazy" src="assets/images/slider/img-1.png" alt="">
 			 	</div>
 			 	<div class="circles-thumb">
 			 		<div class="circle-shape-thumb">
-				 		<img src="assets/images/slider/round1.png" alt="">
+				 		<img loading="lazy" src="assets/images/slider/round1.png" alt="">
 				 	</div>
 			 	</div>
 			 </div>
 			 <div class="slider-shape">
 			 	<div class="slider-shape-inner1 bounce-animate2">
-			 		<img src="assets/images/slider/shape1.png" alt="">
+			 		<img loading="lazy" src="assets/images/slider/shape1.png" alt="">
 			 	</div>
 			 	<div class="slider-shape-inner2 bounce-animate4">
-			 		<img src="assets/images/slider/shape2.png" alt="">
+			 		<img loading="lazy" src="assets/images/slider/shape2.png" alt="">
 			 	</div>
 			 	<div class="slider-shape-inner3 bounce-animate">
-			 		<img src="assets/images/slider/shape5.png" alt="">
+			 		<img loading="lazy" src="assets/images/slider/shape5.png" alt="">
 			 	</div>
 			 	<div class="slider-shape-inner6 bounce-animate">
-			 		<img src="assets/images/slider/round2.png" alt="">
+			 		<img loading="lazy" src="assets/images/slider/round2.png" alt="">
 			 	</div>
 			 </div>
 		</div>
@@ -162,12 +162,12 @@
 	</div>
 	<div class="feature-shape-thumb">
 		<div class="feature-shape-img bounce-animate4">
-			<img src="assets/images/resource/feature-shape.png" alt="">
+			<img loading="lazy" src="assets/images/resource/feature-shape.png" alt="">
 		</div>
 	</div>
 	<div class="feature-shape-thumb2">
 		<div class="feature-shape-img bounce-animate4">
-			<img src="assets/images/resource/feature-shape-2.png" alt="">
+			<img loading="lazy" src="assets/images/resource/feature-shape-2.png" alt="">
 		</div>
 	</div>
 </div>
@@ -184,17 +184,17 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="dreamit-about-thumb-box">
 					<div class="dreamit-about-thumb-3">
-						<img src="assets/images/about/about2.png" alt="">
+						<img loading="lazy" src="assets/images/about/about2.png" alt="">
 					</div>
 				</div>
 				<div class="about-shape-thumb">
 					<div class="about-shape-img bounce-animate4">
-						<img src="assets/images/resource/blog-shape1.png" alt="">
+						<img loading="lazy" src="assets/images/resource/blog-shape1.png" alt="">
 					</div>
 				</div>
 				<div class="about-shape-thumb">
 					<div class="about-shape-img2 bounce-animate4">
-						<img src="assets/images/about/shape2.png" alt="">
+						<img loading="lazy" src="assets/images/about/shape2.png" alt="">
 					</div>
 				</div>
 			</div>		
@@ -270,42 +270,42 @@
 				<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb1">
-						<img src="assets/images/resource/brn1.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brn1.png" alt="">
 					</div>
 				</div>
 			</div>				
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb1">
-						<img src="assets/images/resource/brn2.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brn2.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb1">
-						<img src="assets/images/resource/brn3.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brn3.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb1">
-						<img src="assets/images/resource/brn4.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brn4.png" alt="">
 					</div>
 				</div>
 			</div> 
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb1">
-						<img src="assets/images/resource/brn5.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brn5.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb1">
-						<img src="assets/images/resource/brn3.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brn3.png" alt="">
 					</div>
 				</div>
 			</div>
@@ -553,15 +553,15 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="dreamit-skill-thumb pl-5">
-					<img src="assets/images/resource/skill-2.png" alt="">
+					<img loading="lazy" src="assets/images/resource/skill-2.png" alt="">
 				</div>
 			</div>
 			<div class="skill-shape">
 				<div class="skill-shape-inner-2 bounce-animate5">
-					<img src="assets/images/slider/shape9.png" alt="">
+					<img loading="lazy" src="assets/images/slider/shape9.png" alt="">
 				</div>
 				<div class="skill-shape-inner-3 bounce-animate4">
-					<img src="assets/images/resource/ball.png" alt="">
+					<img loading="lazy" src="assets/images/resource/ball.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -662,7 +662,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-1.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/port-1.jpg" alt="" />
 						</div>
 						<div class="single_portfolio_content">
 							<div class="single-portfolio-content-inner">
@@ -680,7 +680,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-2.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/port-2.jpg" alt="" />
 						</div>
 						<div class="single_portfolio_content-2">
 							<div class="single-portfolio-content-inner-2">
@@ -698,7 +698,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-3.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/port-3.jpg" alt="" />
 						</div>
 						<div class="single_portfolio_content-3">
 							<div class="single-portfolio-content-inner-3">
@@ -716,7 +716,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-4.jpg" alt="" />
+							<img loading="lazy" src="assets/images/resource/port-4.jpg" alt="" />
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
@@ -760,7 +760,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img src="assets/images/resource/team2.jpg" alt="">
+						<img loading="lazy" src="assets/images/resource/team2.jpg" alt="">
 						<div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -786,7 +786,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img src="assets/images/resource/team3.jpg" alt="">
+						<img loading="lazy" src="assets/images/resource/team3.jpg" alt="">
 						<div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -812,7 +812,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img src="assets/images/resource/team4.jpg" alt="">
+						<img loading="lazy" src="assets/images/resource/team4.jpg" alt="">
 						<div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -865,7 +865,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog-1.png" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog-1.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content-1">
 						<div class="post-categories">
@@ -884,7 +884,7 @@
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="single_blog">
 					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets/images/resource/blog-2.png" alt="" /></a>
+						<a href="blog-details.html"><img loading="lazy" src="assets/images/resource/blog-2.png" alt="" /></a>
 					</div>
 					<div class="single_blog_content-2">
 						<div class="post-categories">
@@ -915,7 +915,7 @@
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="subscribe-single-thumb">
-					<img src="assets/images/resource/contact-image.png" alt="">
+					<img loading="lazy" src="assets/images/resource/contact-image.png" alt="">
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -955,12 +955,12 @@
 				</div>
 				<div class="contact-shape-thumb1">
 					<div class="contact-shape-images bounce-animate5">
-						<img src="assets/images/resource/blog-shape.png" alt="">
+						<img loading="lazy" src="assets/images/resource/blog-shape.png" alt="">
 					</div>
 				</div>
 				<div class="contact-shape-thumb">
 					<div class="contact-shape-images-2 bounce-animate4">
-						<img src="assets/images/resource/contact-shape1.png" alt="">
+						<img loading="lazy" src="assets/images/resource/contact-shape1.png" alt="">
 					</div>
 				</div>
 			</div>

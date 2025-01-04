@@ -43,7 +43,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img src="assets/images/resource/team1.jpg" alt="">
+						<img loading="lazy" src="assets/images/resource/team1.jpg" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -70,7 +70,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img src="assets/images/resource/team2.jpg" alt="">
+						<img loading="lazy" src="assets/images/resource/team2.jpg" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -96,7 +96,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img src="assets/images/resource/team3.jpg" alt="">
+						<img loading="lazy" src="assets/images/resource/team3.jpg" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -122,7 +122,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img src="assets/images/resource/team4.jpg" alt="">
+						<img loading="lazy" src="assets/images/resource/team4.jpg" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -162,42 +162,42 @@
 				<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>				
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand5.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand5.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand3.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand3.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand1.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand1.png" alt="">
 					</div>
 				</div>
 			</div> 
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand2.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand2.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="dreamit-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>
