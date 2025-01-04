@@ -1,15 +1,15 @@
 <div class="footer-middle"> 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-4 col-md-6 col-sm-12">
+			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="widget-widgets-company-info white">
 					<div class="dreamit-logo">
-						<a class="logo_img" href="index.html" title="dreamit">
+						<a class="logo_img" href="index.php" title="dreamit">
 							<img src="assets/images/logo.png" alt="" />
 						</a>
 					</div>
 					<div class="company-info-desc">
-						<p>Holisticly reintermediate intuitive factured products after ethical to rables. Monotonectally.</p>
+						<p>At Funnel River, we specialize in delivering top-notch digital marketing solutions to help businesses grow. Whether it's SEO, PPC, content marketing, or social media strategies, our team ensures your brand reaches its full potential online.</p>
 					</div>
 					<div class="company_icon">
 						<a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -19,31 +19,30 @@
 					</div>
 				</div>					
 			</div>
-			<div class="col-lg-2 col-md-6 col-sm-12">
+			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="widget widget-nav-menu">
-					<h4 class="widget-title"><span>R</span>ESOURCE</h4>
+					<h4 class="widget-title"><span>O</span>UR SERVICES</h4>
 					<div class="menu-quick-link-content">
 						<ul class="menu">
-							<li><a href="#">Open Source</a></li>
-							<li><a href="#">Documentation</a></li>
-							<li><a href="#">User Studio</a></li>
-							<li><a href="#">Manage Report</a></li>
-							<li><a href="#">Live Seassion</a></li>
+							<li><a href="#">Search Engine Optimization (SEO)</a></li>
+							<li><a href="#">Social Media Optimization (SMO)</a></li>
+							<li><a href="#">Content Writing</a></li>
+							<li><a href="#">Web Design & Development</a></li>
+							<li><a href="#">Market Automation</a></li>
 						</ul>
 					</div>
 				</div>
 			</div>	
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="widget-footer-title">
-					<h4 class="widget-title"><span>U</span>SEFUL LINKS</h4>
+					<h4 class="widget-title"><span>Q</span>UICK LINKS</h4>
 				</div>
 				<div class="footer-recent-post">
 					<ul class="menu">
-						<li><a href="#">Open Source</a></li>
-						<li><a href="#">Documentation</a></li>
-						<li><a href="#">User Studio</a></li>
-						<li><a href="#">Manage Report</a></li>
-						<li><a href="#">Live Seassion</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="contact-us.php">Contact Us</a></li>
+						
 					</ul>
 				</div>
 			</div>
@@ -56,7 +55,7 @@
 						</div>
 						<div class="footer-socail-info">
 							<p>
-								<span>(+001) 123-456-7890</span>
+								<span>+91-9923707569</span>
 							</p>
 						</div>
 					</div>
@@ -65,7 +64,7 @@
 							<i class="icon flaticon-email"></i>
 						</div>
 						<div class="footer-socail-info">
-							<p>info@example.com</p>
+							<p>dipti@funnelrivers.com</p>
 						</div>
 					</div>
 					<div class="footer-inner">
@@ -73,7 +72,7 @@
 							<i class="icon flaticon-placeholder-1"></i>
 						</div>
 						<div class="footer-socail-info2">
-							<p>515 Carriage Court, Coachella, CA, 92236 USA</p>
+							<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
 						</div>
 					</div>
 				</div>	
@@ -83,7 +82,7 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-						<p>Copyright © 2021. All rights reserved to <span>dreamit</span></p>
+						<p>Copyright © 2025. All rights reserved to <span>Funnelriver</span></p>
 					</div>
 				</div>
 			</div>

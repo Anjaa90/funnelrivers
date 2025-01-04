@@ -385,62 +385,6 @@
 <!-- End dreamit feature Area -->
 <!--==================================================-->
 
-<!--==================================================-->
-<!-- Start dreamit brand Area -->
-<!--==================================================-->
-<div class="brand-area style-four">
-	<div class="container">
-		<div class="row">
-			<div class="brand-list owl-carousel">
-				<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
-					</div>
-				</div>
-			</div>				
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand5.png" alt="">
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand3.png" alt="">
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand1.png" alt="">
-					</div>
-				</div>
-			</div> 
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand2.png" alt="">
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-12 col-md-12">
-				<div class="dreamit-single-brand">
-					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
-					</div>
-				</div>
-			</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--==================================================-->
-<!--End dreamit brand Area -->
-<!--==================================================-->
 
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->

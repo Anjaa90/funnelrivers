@@ -37,7 +37,7 @@
 				<div class="funnelRivers-section-title style-two text-center">
 					<h5>CONTACT US</h5>
 					<h1>GET IN TOUCH ANY TIME</h1>
-					<h1>WITH <span>Funnelriver</span></h1>
+					<h1>WITH <span>FUNNELRIVRR</span></h1>
 				</div>
 			</div>
 		</div>
@@ -154,6 +154,7 @@
 <!--==================================================-->
 <!-- Start funnelRivers map Area -->
 <!--==================================================-->
+<div class="container pb-5">
 <div class="map-area pt-100">
     <div class="container-fluid">
         <div class="row">
@@ -161,6 +162,8 @@
         </div>
     </div>
 </div>
+</div>
+
 
 
 <!--==================================================-->
