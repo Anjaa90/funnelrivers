@@ -637,7 +637,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-2.jpg" alt="" />
+							<img src="assets\images\resource\Funnel Reverse_Email marketing specialist.png" alt="Email Marketing Specialist" />
 						</div>
 						<div class="single_portfolio_content-2">
 							<div class="single-portfolio-content-inner-2">
@@ -655,7 +655,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-3.jpg" alt="" />
+							<img src="assets\images\resource\Funnel Reverse_Startegic Fusion.png" alt="Strategic Fusion" />
 						</div>
 						<div class="single_portfolio_content-3">
 							<div class="single-portfolio-content-inner-3">
@@ -673,7 +673,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-4.jpg" alt="" />
+							<img src="assets\images\resource\Funnel Reverse_ Data driven precision.png" alt="Data-Driven Precision" />
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
@@ -691,7 +691,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-4.jpg" alt="" />
+							<img src="assets\images\resource\Funnel Reverse_ Creative Narrative.png" alt="Creative Narratives" />
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
@@ -709,7 +709,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-4.jpg" alt="" />
+							<img src="assets\images\resource\Funnel Reverse_ client Centric Collebration.png" alt="Client-Centric Collaboration" />
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">

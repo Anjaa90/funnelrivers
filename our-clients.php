@@ -83,7 +83,7 @@
 							<h3>Startups</h3>
 						</div>
 						<div class="team-text">
-							<p>Supporting startups with brand development, digital marketing strategies, and website creation.</p>
+							<p>Supporting startups with brand development, digital marketing strategies, and website creation. <br><br><br><br></p>
 						</div>
 					</div>
 					<!-- <div class="team-icon">
@@ -109,7 +109,7 @@
 							<h3>E-Commerce Brands</h3>
 						</div>
 						<div class="team-text">
-							<p>Empowering e-commerce businesses with advanced website solutions, product catalog integration, and digital marketing strategies.</p>
+							<p>Empowering e-commerce businesses with advanced website solutions, product catalog integration, and digital marketing strategies. <br><br><br></p>
 						</div>
 					</div>
 					<!-- <div class="team-icon">
