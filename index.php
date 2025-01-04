@@ -41,11 +41,11 @@
 			 	</div>
 			 </div>
 			 <div class="slider-shape">
-			 	<div class="slider-shape-inner1 bounce-animate2">
+			 	<!-- <div class="slider-shape-inner1 bounce-animate2">
 			 		<img src="assets/images/slider/shape1.png" alt="">
 			 	</div>
 			 	<div class="slider-shape-inner2 bounce-animate4">
-			 		<img src="assets/images/slider/shape2.png" alt="">
+			 		<img src="assets/images/slider/shape2.png" alt=""> -->
 			 	</div>
 			 	<div class="slider-shape-inner3 bounce-animate">
 			 		<img src="assets/images/slider/shape5.png" alt="">
@@ -79,7 +79,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="feature-single-box">
 					<div class="feature-icon">
-						<i class="flaticon-snow-globe"></i>
+					<i class="fas fa-bullhorn" style="font-size:32px;"></i>
 					</div>
 					<div class="feature-title">
 						<h3>Social Media Ads That Convert</h3>
@@ -92,7 +92,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="feature-single-box">
 					<div class="feature-icon2">
-						<i class="flaticon-money-4"></i>
+					<i class="fas fa-rocket" style="font-size:32px;"></i>
 					</div>
 					<div class="feature-title-2">
 						<h3>Unlock Your Brand's Potential</h3>
@@ -104,7 +104,7 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="feature-single-box">
 					<div class="feature-icon3">
-						<i class="flaticon-light-bulb"></i>
+						<i class="fas fa-paint-brush" style="font-size:32px;"></i>
 					</div>
 					<div class="feature-title-3">
 						<h3>Crafting Your Digital Identity</h3>
@@ -166,40 +166,40 @@
 					<div class="col-lg-6">
 						<div class="about-single-icon-box1">
 							<div class="about-icon1">
-								<i class="flaticon-light-bulb"></i>
+								<i class="fas fa-users"></i>
 							</div>
 							<div class="about-title1">
-								<h4>Awesome Service</h4>
+								<h4>Social Media Expertise</h4>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-single-icon-box2">
 							<div class="about-icon2">
-								<i class="flaticon-support-3"></i>
+							<i class="fas fa-chart-bar"></i>
 							</div>
 							<div class="about-title2">
-								<h4>24/7 Free Support</h4>
+								<h4>Data-Driven <br>Results</h4>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-single-icon-box3">
 							<div class="about-icon3">
-								<i class="flaticon-hand-shake"></i>
+								<i class="fas fa-search"></i> 
 							</div>
 							<div class="about-title3">
-								<h4>IT Busines Deals</h4>
+								<h4>Expert SEO & <br>PPC</h4>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="about-single-icon-box4">
 							<div class="about-icon4">
-								<i class="flaticon-time-3"></i>
+								<i class="fas fa-laptop-code"></i> 
 							</div>
 							<div class="about-title4">
-								<h4>Sales Increment</h4>
+								<h4>SEO-Optimized Websites</h4>
 							</div>
 						</div>
 					</div>
@@ -298,7 +298,7 @@
 						<div class="dreamit-service-box-inner">
 							<div class="dreamit-service-content">
 								<div class="dreamit-service-icon">
-									<i class="flaticon-file"></i>
+								<i class="fas fa-lightbulb"></i>
 								</div>
 								<div class="dreamit-service-title1">
 									<h2>Search Engine Optimization</h2>
@@ -334,7 +334,7 @@
 						<div class="dreamit-service-box-inner">
 							<div class="dreamit-service-content">
 								<div class="dreamit-service-icon3">
-									<i class="flaticon-money-4"></i>
+								<i class="fas fa-robot"></i> 
 								</div>
 								<div class="dreamit-service-title3">
 									<h2>Marketing
@@ -353,11 +353,11 @@
 						<div class="dreamit-service-box-inner">
 							<div class="dreamit-service-content">
 								<div class="dreamit-service-icon4">
-									<i class="flaticon-pen"></i>
+								<i class="fas fa-envelope"></i>
 								</div>
 								<div class="dreamit-service-title4">
 									<h2>Email Marketing</h2>
-									<p>Enthusiastically brand is a positioning scenarios with team driven best</p>
+									<p>Enthusiastically brand is a positioning scenarios with team driven best</p><br>
 								</div>
 							</div>
 							<div class="dreamit-icon4">
@@ -619,7 +619,7 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img src="assets/images/resource/port-1.jpg" alt="" />
+							<img src="assets\images\resource\All-in-One Mastery.png" alt="" />
 						</div>
 						<div class="single_portfolio_content">
 							<div class="single-portfolio-content-inner">
@@ -738,7 +738,7 @@
 <!--==================================================-->
 <!-- Start dreamit team Area -->
 <!--==================================================-->
-<div class="team-area style-four pt-100 pb-70">
+<!-- <div class="team-area style-four pt-100 pb-70">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -754,12 +754,12 @@
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team2.jpg" alt="">
-						<!-- <div class="team-socail-icon">
+						<div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
 							<a href="#"><i class="fab fa-twitter"></i></a>
 							<a href="#"><i class="fab fa-pinterest-p"></i></a>
-						</div> -->
+						</div>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -769,23 +769,23 @@
 							<p>"I wanted to take a moment to express our gratitude for the incredible digital marketing strategies you provided for Human Troop Ventures. Your insights and efforts have made a tangible impact on our marketing efforts. We are truly satisfied with the results."</p>
 						</div>
 					</div>
-					<!-- <div class="team-icon1">
+					<div class="team-icon1">
 						<a class="gradient-color1" href="#"><i class="icon flaticon-email"></i> <span class="email">Email</span></a>
 						<a class="gradient-color2" href="#"><i class="flaticon-phone-call"></i></a>
 						<a class="gradient-color3" href="#"><i class="flaticon-share"></i></a>
-					</div> -->
+					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team3.jpg" alt="">
-						<!-- <div class="team-socail-icon">
+						<div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
 							<a href="#"><i class="fab fa-twitter"></i></a>
 							<a href="#"><i class="fab fa-pinterest-p"></i></a>
-						</div> -->
+						</div>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -795,23 +795,23 @@
 							<p>"Your product review article forJadgetexpert24.com exceeded myexpectations. Your attention to detailand writing skills are exceptional. Thank you so much for top-notchcontent.”</p>
 						</div>
 					</div>
-					<!-- <div class="team-icon1">
+					<div class="team-icon1">
 						<a class="gradient-color1" href="#"><i class="icon flaticon-email"></i> <span class="email">Email</span></a>
 						<a class="gradient-color2" href="#"><i class="flaticon-phone-call"></i></a>
 						<a class="gradient-color3" href="#"><i class="flaticon-share"></i></a>
-					</div> -->
+					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img src="assets/images/resource/team4.jpg" alt="">
-						<!-- <div class="team-socail-icon">
+						<div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
 							<a href="#"><i class="fab fa-twitter"></i></a>
 							<a href="#"><i class="fab fa-pinterest-p"></i></a>
-						</div> -->
+						</div>
 					</div>
 					<div class="team-content">
 						<div class="team-title">
@@ -821,16 +821,16 @@
 							<p>“Looks great! Always admire your work thank you so much! .”</p>
 						</div>
 					</div>
-					<!-- <div class="team-icon1">
+					<div class="team-icon1">
 						<a class="gradient-color1" href="#"><i class="icon flaticon-email"></i> <span class="email">Email</span></a>
 						<a class="gradient-color2" href="#"><i class="flaticon-phone-call"></i></a>
 						<a class="gradient-color3" href="#"><i class="flaticon-share"></i></a>
-					</div> -->
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!--End dreamit team Area -->
 <!--==================================================-->
@@ -908,7 +908,7 @@
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="subscribe-single-thumb">
-					<img src="assets/images/resource/contact-image.png" alt="">
+					<img src="assets/images/resource/contact-image-w.png" alt="contact">
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">

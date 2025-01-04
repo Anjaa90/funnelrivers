@@ -112,12 +112,12 @@
 						</li>
 						<li><a href="contact-us.php">Contact Us</a></li>
 					</ul>
-					<div class="header-button">
+					<div class="header-button" style="padding-right:20px">
 						<i class="flaticon-phone-call"></i>		
 					</div>	
-					<div class="slider-button-text">
+					<div class="slider-button-text" >
 						<p>Call Now!</p>
-						<h2>+91-9923-707-569</h2>
+						<h2>+91-9923707569</h2>
 					</div>		
 				</nav>							
 			</div>
