@@ -1,4 +1,5 @@
-<header>
+
+<?php include("config.php"); ?>
 <!DOCTYPE HTML>
 <html lang="en-US">
 
@@ -6,8 +7,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>FunnelRivers</title>
-	<meta name="description" content="">
+	<title>
+        <?php echo $title ?>
+    </title>
+	<meta name="description" content="<?php echo $description ?> " />
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" sizes="56x56" href="assets\images\fav-icon\funnelicon.png">
@@ -54,10 +58,10 @@
 			<div class="col-lg-3">
 				<div class="logo">
 					<a class="logo_img" href="index.php" title="dreamit">
-						<img loading="lazy" src="assets\images\funnellogo.png" alt="" />
+						<img src="assets\images\funnellogo.png" alt="" />
 					</a>
 					<a class="main_sticky" href="index.php" title="dreamit">
-						<img loading="lazy" src="assets\images\funnellogo.png" alt="astute" />
+						<img src="assets\images\funnellogo.png" alt="astute" />
 					</a>
 				</div>
 			</div>
@@ -180,9 +184,3 @@
 		</nav>
 	</div>
 </div>
-
-<!--==================================================-->
-<!-- End dreamit Main Menu Area -->
-<!--==================================================-->
-
-</header>
