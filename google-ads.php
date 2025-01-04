@@ -74,129 +74,139 @@
 <!--==================================================-->
 <!-- End funnelRivers slider Area -->
 <!--==================================================-->
+<!--==================================================-->
+<!-- Start funnelRivers service Area -->
+<!--==================================================-->
+<div class="service-area" id="blog">
+	<div class="container">		
+		<div class="row">	
+			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
+				<div class="row">
+					<div class="col-lg-12 col-sm-12">
+						<div class="funnelRivers-single-service-box">
+							<div class="funnelRivers-sigle-tmumb">
+								<img src="assets/images/resource/img-1.jpg" alt="">
+							</div>
+							<div class="em-service-content">
+								<div class="service-page-title">
+									<h1><a href="#">Funnelriver Google Ads Services</a></h1>
+									<p>At Funnelriver, we specialize in creating high-performance Google Ads campaigns tailored to your business goals. Our expert team ensures that your ads reach the right audience, driving qualified traffic and increasing conversions. With continuous optimization and detailed performance tracking, we deliver measurable results that maximize your ROI and boost your online presence.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
+						<div class="service-details-box">
+							<div class="service-details-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="service-details-title">
+								<h4>Expert Content Creation</h4>
+								<p>High-quality, engaging content designed to resonate with your audience.
 
-<!--==================================================-->
-<!-- Start funnelRivers Blog grid Area -->
-<!--==================================================-->
-<div class="blog_area style-three">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-1-208x300.png" alt="" /></a>
+							</div>
+						</div>
 					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<p>Custom Google Ads Strategy</p>
+					<div class="col-lg-6 col-md-6 col-sm-12 srvce-upper pt-20 pb-50">
+						<div class="service-details-box">
+							<div class="service-details-icon">
+								<i class="flaticon-support-6"></i>
+							</div>
+							<div class="service-details-title">
+								<h4>Performance Monitoring</h4>
+								<p>Regular analytics and optimization to improve results.
+								</p>
+							</div>
 						</div>
-						<!-- <div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div> -->
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Optimizing campaigns for the most effective keywords and ad placements.</a></h4>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12">
+						<div class="service-details-thumb">
+							<img src="assets/images/resource/img-2.png" alt="">
 						</div>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-12">
+						<div class="service-details-icon-box">
+							<div class="service-details-icon-title">
+								<h3>We Serve the Best Work in Google Ads!
+								</h3>
+								<p>Dramatically monetize revolutionary collaboration and idea-sharing through accurate platforms the nectally syndicate high</p>
+							</div>
+						</div>
+						<div class="widget-service-details-icon">
+							<p><i class="fas fa-check"></i> <span>Tailored Strategies </span></p>
+							<p><i class="fas fa-check"></i> <span>Targeted Ads</span></p>
+							<p><i class="fas fa-check"></i> <span>Data-Driven Results</span></p>
+						</div>
+					</div>
+					<div class="col-lg-12 col-sm-12">
+					<div class="widget-details-text pt-25 pb-3">
+    					<p><i class="fas fa-check"></i> <b>Custom Google Ads Strategy</b> 
+    					Optimizing campaigns for the most effective keywords and ad placements.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Search Campaigns for Targeted Reach</b>
+    					Crafting compelling ad copy to increase click-through rates (CTR) and conversions.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Display Network Campaigns</b>
+    					Targeting specific websites, demographics, and interests to broaden brand exposure.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Remarketing Campaigns</b>
+    					Re-engaging users who have previously visited your website with personalized ads.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>Shopping Ads for E-Commerce</b>
+    					Setting up Google Shopping ads to showcase your products directly in search results.
+    					</p>
+    					<p><i class="fas fa-check"></i> <b>YouTube Ads for Enhanced Visibility</b>
+    					Creating video ads on YouTube to capture attention with compelling visuals and messaging.
+    					</p>
+					</div>
+											
+					</div>
+				</div>	
+			</div>
+			<div class=" col-lg-4 col-md-6 col-sm-12 col-sm-12">
+				<div class="widget-service-box">
+					<h4>ALL SERVICES</h4>
+					<div class="widget-service-menu">
+						<ul>
+							<li><a href="google-ads.php">Google Ads<i class="fas fa-angle-right"></i></a></li>	
+							<li><a href="facebook-ads.php">Facebook Ads <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="youtube-ads.php">YouTube Ads<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="X-twitter-ads.php">X-Twitter Ads <i class="fas fa-angle-right"></i></a></li>
+							<li><a href="instagram-ads.php">Instagram Ads <i class="fas fa-angle-right"></i></a></li>
+						</ul>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-208x300.png" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<p>Search Campaigns for Targeted Reach</p>
-						</div>
-						<!-- <div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
+				<div class="widget-service-thumb-box">
+					<div class="wedget-service-thumb">
+						<img src="assets\images\googleAds\google-ads-1-208x300.png" alt="Instagram Ads">		
+						<!-- <div class="widget-service-content text-center">
+							<div class="widget-text">
+								<p>Contact Us Now</p>
+							</div>
+							<div class="widget-title2">
+								<h3>If Need Help</h3>
+							</div>
+							<div class="widget-contact-title">
+								<h2>557-3452-234</h2>
+								<p>Or got to contact form</p>
+							</div>
+							<div class="widget-button">
+								<a href="#">LET’s START NOW</a>
+								<span><i class="fas fa-link"></i></span>
+							</div>
 						</div> -->
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Crafting compelling ad copy to increase click-through rates (CTR) and conversions.</a></h4>
-						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-1-208x300.png" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<p>Display Network Campaigns</p>
-						</div>
-						<!-- <div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div> -->
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Targeting specific websites, demographics, and interests to broaden brand exposure.</a></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-208x300.png" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<p>Remarketing Campaigns</p>
-						</div>
-						<!-- <div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div> -->
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Re-engaging users who have previously visited your website with personalized ads.</a></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-1-208x300.png" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<p>Shopping Ads for E-Commerce</p>
-						</div>
-						<!-- <div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div> -->
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Setting up Google Shopping ads to showcase your products directly in search results.
-							</a></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="single_blog">
-					<div class="single_blog_thumb">
-						<a href="blog-details.html"><img src="assets\images\googleAds\google-ads-208x300.png" alt="" /></a>
-					</div>
-					<div class="single_blog_content">
-						<div class="datatech_blog_meta">
-							<p>YouTube Ads for Enhanced Visibility</p>
-						</div>
-						<!-- <div class="post-categories">
-							<a href="blog-details.html">September 20, 2021</a>
-						</div> -->
-						<div class="blog_page_title">
-							<h4><a href="blog-details.html">Creating video ads on YouTube to capture attention with compelling visuals and messaging.
-							</a></h4>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>		
+			</div>	
+		</div>
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers Blog grid Area -->
+<!-- End funnelRivers service Area -->
 <!--==================================================-->
+<!--==================================================-->
+
 
 
 
