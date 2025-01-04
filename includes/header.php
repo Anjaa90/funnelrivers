@@ -1,4 +1,5 @@
-<header>
+
+<?php include("config.php"); ?>
 <!DOCTYPE HTML>
 <html lang="en-US">
 
@@ -6,8 +7,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title><?php $title ;?></title>
-	<meta name="description" content="">
+	<title>
+        <?php echo $title ?>
+    </title>
+	<meta name="description" content="<?php echo $description ?> " />
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" sizes="56x56" href="assets\images\fav-icon\funnelicon.png">
@@ -54,10 +58,10 @@
 			<div class="col-lg-3">
 				<div class="logo">
 					<a class="logo_img" href="index.php" title="dreamit">
-						<img loading="lazy" src="assets\images\funnellogo.png" alt="" />
+						<img src="assets\images\funnellogo.png" alt="" />
 					</a>
 					<a class="main_sticky" href="index.php" title="dreamit">
-						<img loading="lazy" src="assets\images\funnellogo.png" alt="astute" />
+						<img src="assets\images\funnellogo.png" alt="astute" />
 					</a>
 				</div>
 			</div>
@@ -125,7 +129,7 @@
 	</div>
 </div>
 <!-- dreamit Mobile Menu Area -->
-<!-- <div class="mobile-menu-area d-sm-block d-md-block d-lg-none "> -->
+<div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
 	<div class="mobile-menu">
 		<nav class="dreamit_menu">
 			<ul class="nav_scroll">
@@ -180,9 +184,3 @@
 		</nav>
 	</div>
 </div>
-
-<!--==================================================-->
-<!-- End dreamit Main Menu Area -->
-<!--==================================================-->
-
-</header>
