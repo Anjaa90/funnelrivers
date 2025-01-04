@@ -125,7 +125,7 @@
 	</div>
 </div>
 <!-- dreamit Mobile Menu Area -->
-<div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
+<!-- <div class="mobile-menu-area d-sm-block d-md-block d-lg-none "> -->
 	<div class="mobile-menu">
 		<nav class="dreamit_menu">
 			<ul class="nav_scroll">
