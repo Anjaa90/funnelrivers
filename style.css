@@ -3674,7 +3674,7 @@ transform: translateX(0);
     margin-right: 12px;
 }
 .about-icon1 i {
-    font-size: 32px;
+    font-size: 32px !important;
     width: 56px;
     height: 56px;
     line-height: 56px;
@@ -7920,6 +7920,7 @@ p.text-pt {
       background-color: #222;
       color: #fff; 
   }
+
 @keyframes ripple {
   0%, 35% {
     -webkit-transform: scale(0);
