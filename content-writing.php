@@ -95,7 +95,7 @@
 							</div>
 							<div class="service-details-title">
 								<h4>Tailored Content Strategy</h4>
-								<p>Developing a custom content strategy based on your brand’s goals and target audience.
+								<p>Developing a custom content strategy based on your brand’s goals and target audience. <br><br>
 								</p>
 							</div>
 						</div>
@@ -134,7 +134,7 @@
 							<div class="service-details-title">
 								<h4>Video Content Writing
 								</h4>
-								<p>Producing creative and engaging videos for marketing campaigns, social media, and websites.
+								<p>Producing creative and engaging videos for marketing campaigns, social media, and websites. <br><br>
 								</p>
 							</div>
 						</div>
@@ -160,8 +160,7 @@
 							<div class="service-details-title">
 								<h4>SEO-Optimized Content
 								</h4>
-								<p>Writing content that’s optimized for search engines to drive organic traffic and improve rankings.
-
+								<p>Writing content that’s optimized for search engines to drive organic traffic and improve rankings. <br><br>
 								</p>
 							</div>
 						</div>
