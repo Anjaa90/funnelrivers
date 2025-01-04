@@ -24,11 +24,11 @@
 					<h4 class="widget-title"><span>O</span>UR SERVICES</h4>
 					<div class="menu-quick-link-content">
 						<ul class="menu">
-							<li><a href="#">Search Engine Optimization (SEO)</a></li>
-							<li><a href="#">Social Media Optimization (SMO)</a></li>
-							<li><a href="#">Content Writing</a></li>
-							<li><a href="#">Web Design & Development</a></li>
-							<li><a href="#">Market Automation</a></li>
+							<li><a href="seo.php">Search Engine Optimization (SEO)</a></li>
+							<li><a href="smo.php">Social Media Optimization (SMO)</a></li>
+							<li><a href="content-writing.php">Content Writing</a></li>
+							<li><a href="web-development.php">Web Design & Development</a></li>
+							<li><a href="marketing-automation.php">Market Automation</a></li>
 						</ul>
 					</div>
 				</div>
