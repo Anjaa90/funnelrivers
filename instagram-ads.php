@@ -16,7 +16,7 @@
 				<div class="sidebar-info-contents">
 					<div class="content-inner">
 						<div class="nav-logo">
-							<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+							<a href="index.html"><img loading="lazy" src="assets/images/logo.png" alt="" /></a>
 						</div>
 						<div class="content-box">
 							<h2>About Us</h2>
@@ -82,7 +82,7 @@
 					<div class="col-lg-12 col-sm-12">
 						<div class="funnelRivers-single-service-box">
 							<div class="funnelRivers-sigle-tmumb">
-								<img src="assets/images/resource/img-1.jpg" alt="">
+								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
@@ -119,7 +119,7 @@
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-thumb">
-							<img src="assets/images/resource/img-2.png" alt="">
+							<img loading="lazy" src="assets/images/resource/img-2.png" alt="">
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
@@ -177,7 +177,7 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img src="assets\images\googleAds\instagram-ads-370x500.png" alt="Instagram Ads">		
+						<img loading="lazy" src="assets\images\googleAds\instagram-ads-370x500.png" alt="Instagram Ads">		
 						<!-- <div class="widget-service-content text-center">
 							<div class="widget-text">
 								<p>Contact Us Now</p>

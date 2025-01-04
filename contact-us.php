@@ -182,42 +182,42 @@
 				<div class="col-lg-12 col-md-12">
 				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>				
 			<div class="col-lg-12 col-md-12">
 				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand5.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand5.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand3.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand3.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand1.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand1.png" alt="">
 					</div>
 				</div>
 			</div> 
 			<div class="col-lg-12 col-md-12">
 				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand2.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand2.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
 				<div class="funnelRivers-single-brand">
 					<div class="brand-thumb">
-						<img src="assets/images/resource/brand4.png" alt="">
+						<img loading="lazy" src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>

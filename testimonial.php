@@ -70,7 +70,7 @@
 					<div class="funnelRivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi5.png" alt="">
+								<img loading="lazy" src="assets/images/resource/testi5.png" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>Mhatre Optics</h2>
@@ -91,7 +91,7 @@
 					<div class="funnelRivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi4.png" alt="">
+								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>HumanTroop Ventures</h2>
@@ -112,7 +112,7 @@
 					<div class="funnelRivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi5.png" alt="">
+								<img loading="lazy" src="assets/images/resource/testi5.png" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>Gayatri</h2>
@@ -133,7 +133,7 @@
 					<div class="funnelRivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi4.png" alt="">
+								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>SD enterprises</h2>
@@ -154,7 +154,7 @@
 					<div class="funnelRivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img src="assets/images/resource/testi4.png" alt="">
+								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>Ankush Ikhar</h2>
