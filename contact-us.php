@@ -158,7 +158,9 @@
 <div class="map-area pt-100">
     <div class="container-fluid">
         <div class="row">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771741.526258081!2d73.07914554168787!3d19.05668777128565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e401d8b9fb5f%3A0x15ed9eb92e5998c8!2sC%2FO%20KTown%2C%20Sai%20Nagar%20Society%2C%20Plot%20No-26%2C%20Sector%204%2C%20Kalamboli%2C%20Panvel%2C%20Navi%20Mumbai%2C%20Maharashtra%20410218!5e0!3m2!1sen!2sin!4v1642048971000!5m2!1sen!2sin&markers=19.05668777128565,73.07914554168787" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771741.526258081!2d73.07914554168787!3d19.05668777128565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e401d8b9fb5f%3A0x15ed9eb92e5998c8!2sC%2FO%20KTown%2C%20Sai%20Nagar%20Society%2C%20Plot%20No-26%2C%20Sector%204%2C%20Kalamboli%2C%20Panvel%2C%20Navi%20Mumbai%2C%20Maharashtra%20410218!5e0!3m2!1sen!2sin!4v1642048971000!5m2!1sen!2sin&markers=19.05668777128565,73.07914554168787" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
+				<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.787872381109!2d73.0924267359253!3d19.02906685747554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e9db0fd1c219%3A0x12eb2ca6e392dd11!2sSai%20Nagar%2C%20Kalamboli%2C%20Panvel%2C%20Navi%20Mumbai%2C%20Maharashtra%20410218!5e0!3m2!1sen!2sin!4v1735983687299!5m2!1sen!2sin" width="1920" height="500"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.7906553823177!2d73.09478227520412!3d19.02894428216594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e93913b9e3d1%3A0x5dc664a9155f9c0e!2sFunnelRivers!5e0!3m2!1sen!2sin!4v1735984008984!5m2!1sen!2sin" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
 </div>
