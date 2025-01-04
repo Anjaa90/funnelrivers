@@ -112,7 +112,7 @@
 						</li>
 						<li><a href="contact-us.php">Contact Us</a></li>
 					</ul>
-					<div class="header-button" style="padding-right:20px">
+					<div class="header-button" style="padding-right:10px">
 						<i class="flaticon-phone-call"></i>		
 					</div>	
 					<div class="slider-button-text" >
