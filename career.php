@@ -1,11 +1,11 @@
 <?php include('includes/header.php');?>
 <!--==================================================-->
-<!-- End funnelRivers Main Menu Area -->
+<!-- End funnelriverss Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 
 <!--==================================================-->
-<!-- start funnelRivers slider Area -->
+<!-- start funnelriverss slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -26,7 +26,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers slider Area -->
+<!-- End funnelriverss slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->

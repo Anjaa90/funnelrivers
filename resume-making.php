@@ -1,7 +1,7 @@
 <?php include('includes/header.php');?>
 
 <!--==================================================-->
-<!-- End funnelRivers Main Menu Area -->
+<!-- End funnelriverss Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -49,7 +49,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start funnelRivers slider Area -->
+<!-- start funnelriverss slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -70,11 +70,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers slider Area -->
+<!-- End funnelriverss slider Area -->
 <!--==================================================-->
 
 
-<!-- Start Funnelriver service Area -->
+<!-- Start funnelrivers service Area -->
 <!--==================================================-->
 <div class="service-area" id="blog">
 	<div class="container">		
@@ -88,9 +88,9 @@
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">Funnelriver Resume Making Services
+									<h1><a href="#">funnelrivers Resume Making Services
 									</a></h1>
-									<p>Funnelriver provides professional resume-making services to help you stand out in today’s competitive job market. We craft personalized resumes that highlight your skills, experience, and achievements in a compelling way. Our expert writers ensure your resume is optimized for both human recruiters and applicant tracking systems (ATS).
+									<p>funnelrivers provides professional resume-making services to help you stand out in today’s competitive job market. We craft personalized resumes that highlight your skills, experience, and achievements in a compelling way. Our expert writers ensure your resume is optimized for both human recruiters and applicant tracking systems (ATS).
 									</p>
 								</div>
 							</div>
@@ -141,7 +141,7 @@
 					</div>
 					<div class="col-lg-12 col-sm-12">
 					<div class="widget-details-text pt-25 pb-3">
-						<h4> Resume Making Services by Funnel River</h4>
+						<h4> Resume Making Services by funnelrivers</h4>
 						<br>
     					<p><i class="fas fa-check"></i> <b>Professional Resume Design</b>
     					Creating clean, modern, and ATS-friendly resumes that highlight your skills and achievements.
@@ -226,7 +226,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
+							<a href="blog-details.html">funnelriverss-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -244,7 +244,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
+							<a href="blog-details.html">funnelriverss-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -262,7 +262,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
+							<a href="blog-details.html">funnelriverss-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -280,7 +280,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
+							<a href="blog-details.html">funnelriverss-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -298,7 +298,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
+							<a href="blog-details.html">funnelriverss-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -316,7 +316,7 @@
 					</div>
 					<div class="single_blog_content">
 						<div class="datatech_blog_meta">
-							<a href="blog-details.html">funnelRivers-Dagency <span></span></a>
+							<a href="blog-details.html">funnelriverss-Dagency <span></span></a>
 						</div>
 						<div class="post-categories">
 							<a href="blog-details.html">September 20, 2021</a>
@@ -378,7 +378,7 @@
 							<ul>
 								<li><a href="blog-details.html">Digital Agency</a></li>
 								<li><a href="blog-details.html">Marketing</a></li>
-								<li><a href="blog-details.html">funnelRivers</a></li>
+								<li><a href="blog-details.html">funnelriverss</a></li>
 							</ul>					
 						</div>
 					</div>	
@@ -619,7 +619,7 @@
 	</script>
 </body>
 
-<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/blog-2colum.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:40 GMT -->
+<!-- Mirrored from html.funnelriversssolution.net/funnelriverss/digital-agency/blog-2colum.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:40 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

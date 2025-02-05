@@ -21,7 +21,7 @@
 	
 
 <!--==================================================-->
-<!-- Start funnelRivers video Area -->
+<!-- Start funnelriverss video Area -->
 <!--==================================================-->
 <div class="video-area">
 	<div class="container">
@@ -48,7 +48,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers video Area -->
+<!-- End funnelriverss video Area -->
 <!--==================================================-->
 
 <!--==================================================-->
@@ -58,7 +58,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-sm-12">
-				<div class="funnelRivers-section-title style-two text-center pb-40">
+				<div class="funnelriverss-section-title style-two text-center pb-40">
 					<h5>TESTIMONIAL</h5>
 					<h1>CLIENT <span>TESTIMONIAL</span></h1>
 				</div>
@@ -67,7 +67,7 @@
 		<div class="row">
 			<div class="testimonial-list owl-carousel">
 				<div class="col-lg-12 col-sm-12">
-					<div class="funnelRivers-single-testimonial-box">
+					<div class="funnelriverss-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
 								<img loading="lazy" src="assets/images/resource/testi5.png" alt="">
@@ -88,7 +88,7 @@
 					</div>
 				</div>
 				<div class="col-lg-12 col-sm-12">
-					<div class="funnelRivers-single-testimonial-box">
+					<div class="funnelriverss-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
 								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
@@ -109,7 +109,7 @@
 					</div>
 				</div>
 				<div class="col-lg-12 col-sm-12">
-					<div class="funnelRivers-single-testimonial-box">
+					<div class="funnelriverss-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
 								<img loading="lazy" src="assets/images/resource/testi5.png" alt="">
@@ -118,7 +118,7 @@
 								<h2>Gayatri</h2>
 								<span>19. December, 2024</span>
 							</div>
-							<div class="testimonial-text"><p>"Just a quick note to say web absolutely loved the video you created for SD Enterprises. Great job! Your creativity really shone through. Well done FunnelRivers! "</p></div>
+							<div class="testimonial-text"><p>"Just a quick note to say web absolutely loved the video you created for SD Enterprises. Great job! Your creativity really shone through. Well done funnelriverss! "</p></div>
 							<div class="testimonial-star">
 								<i class="fa fa-star active"></i>
 								<i class="fa fa-star active"></i>
@@ -130,7 +130,7 @@
 					</div>
 				</div>
 				<div class="col-lg-12 col-sm-12">
-					<div class="funnelRivers-single-testimonial-box">
+					<div class="funnelriverss-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
 								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
@@ -139,7 +139,7 @@
 								<h2>SD enterprises</h2>
 								<span>5 March, 2024</span>
 							</div>
-							<div class="testimonial-text"><p>"Just a quick note to say web absolutely loved the video you created for SD Enterprises. Great job! Your creativity really shone through. Well done FunnelRivers! "</p></div>
+							<div class="testimonial-text"><p>"Just a quick note to say web absolutely loved the video you created. Great job! Your creativity really shone through. Well done funnelriverss! "</p></div>
 							<div class="testimonial-star">
 								<i class="fa fa-star active"></i>
 								<i class="fa fa-star active"></i>
@@ -151,7 +151,7 @@
 					</div>
 				</div>
 				<div class="col-lg-12 col-sm-12">
-					<div class="funnelRivers-single-testimonial-box">
+					<div class="funnelriverss-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
 								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
