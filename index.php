@@ -908,7 +908,7 @@
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="subscribe-single-thumb">
-					<img loading="lazy" src="assets/images/resource/contact-image-w.png" alt="contact">
+					<img loading="lazy" src="assets\images\resource\Contact-image-w.png" alt="contact">
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">

@@ -7,6 +7,8 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<!--google verification -->
+	<meta name="google-site-verification" content="YwIqIdyB9QWMZ9ZDEUTHm2WR8EbKjMqO-kQ4GJ_ahnk">
 	<title>
         <?php echo $title ?>
     </title>
