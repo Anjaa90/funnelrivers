@@ -1,7 +1,7 @@
 
 <?php include('includes/header.php');?>
 <!--==================================================-->
-<!-- End funnelriverss Main Menu Area -->
+<!-- End funnelrivers Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -49,7 +49,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start funnelriverss slider Area -->
+<!-- start funnelrivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -70,11 +70,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelriverss slider Area -->
+<!-- End funnelrivers slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelriverss service Area -->
+<!-- Start funnelrivers service Area -->
 <!--==================================================-->
 <div class="service-area" id="blog">
 	<div class="container">		
@@ -82,8 +82,8 @@
 			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
-						<div class="funnelriverss-single-service-box">
-							<div class="funnelriverss-sigle-tmumb">
+						<div class="funnelrivers-single-service-box">
+							<div class="funnelrivers-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
 							</div>
 							<div class="em-service-content">
@@ -202,11 +202,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelriverss service Area -->
+<!-- End funnelrivers service Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelriverss subscribe Area -->
+<!-- Start funnelrivers subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area">
 	<div class="container">
@@ -221,7 +221,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact_form" action="https://html.funnelriversssolution.net/funnelriverss/digital-agency/mail.php" method="POST">
+					<form id="contact_form" action="https://html.funnelriverssolution.net/funnelrivers/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -234,7 +234,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelriverss subscribe Area -->
+<!-- End funnelrivers subscribe Area -->
 <!--==================================================-->
 
 
@@ -401,7 +401,7 @@
     </script>
 </body>
 
-<!-- Mirrored from html.funnelriversssolution.net/funnelriverss/digital-agency/content-writing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:41 GMT -->
+<!-- Mirrored from html.funnelriverssolution.net/funnelrivers/digital-agency/content-writing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:41 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

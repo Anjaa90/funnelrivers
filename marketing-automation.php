@@ -2,7 +2,7 @@
 
 <div class="breatcumb-area" style="text-align: center; padding: 50px; background-color: #f4f4f4;padding-top:10%;">
     <h1 style="font-size: 36px; color: #ffffff;">SOMETHING IS HAPPENING!</h1>
-    <h2 style="font-size: 28px; color: #e74c3c;">funnelriverss</h2>
+    <h2 style="font-size: 28px; color: #e74c3c;">funnelrivers</h2>
     <p style="font-size: 18px; color: #ffffff;">We're working hard to bring you a fantastic experience. Stay tuned!</p>
 
     <!-- Countdown Timer Placeholder -->
@@ -27,7 +27,7 @@
         <h3 style="font-size: 22px; color: #333;">Contact Us</h3>
         <p style="font-size: 16px; color: #555;"><strong>Phone:</strong> +91-9923-707-569</p>
         <p style="font-size: 16px; color: #555;"><strong>Address:</strong> C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
-        <p style="font-size: 16px; color: #555;"><strong>Email:</strong> <a href="mailto:dipti@funnelriverss.com" style="color: #e74c3c;">dipti@funnelriverss.com</a></p>
+        <p style="font-size: 16px; color: #555;"><strong>Email:</strong> <a href="mailto:dipti@funnelrivers.com" style="color: #e74c3c;">dipti@funnelrivers.com</a></p>
     </div>
     </div>
 

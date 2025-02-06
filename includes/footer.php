@@ -1,3 +1,4 @@
+
 <div class="footer-middle"> 
 	<div class="container">
 		<div class="row">
@@ -64,7 +65,7 @@
 							<i class="icon flaticon-email"></i>
 						</div>
 						<div class="footer-socail-info">
-							<p>dipti@funnelriverss.com</p>
+							<p>dipti@funnelrivers.com</p>
 						</div>
 					</div>
 					<div class="footer-inner">

@@ -8,9 +8,9 @@
 			<div class="col-lg-7 col-md-6 col-sm-12">
 				<div class="slider-content text-left pt-110">
 					
-					<h1>Elevate Your Brand With funnelriverss</h1>
+					<h1>Elevate Your Brand With funnelrivers</h1>
 					
-					<p>Power up your brand with funnelriverss strategic campaigns, data-driven decisions, social media mastery, SEO supremacy, compelling content, and seamless conversion optimization. Unlock success effortlessly.</p>
+					<p>Power up your brand with funnelrivers strategic campaigns, data-driven decisions, social media mastery, SEO supremacy, compelling content, and seamless conversion optimization. Unlock success effortlessly.</p>
 					<div class="slider-button">
 						<a href="#">LEARN MORE <i class="flaticon-right-arrow"></i></a>
 					</div>
@@ -71,7 +71,7 @@
 				<div class="dreamit-section-title text-center">
 					<h5>Features</h5>
 					<h1>funnelrivers Awsome Features</h1>
-					<p class="feature-text">Maximize your reach and drive results with our expertly crafted social media ad campaigns. Let funnelriverss transform your advertising strategy into a compelling narrative that captivates your audience and converts leads.</p>
+					<p class="feature-text">Maximize your reach and drive results with our expertly crafted social media ad campaigns. Let funnelrivers transform your advertising strategy into a compelling narrative that captivates your audience and converts leads.</p>
 				</div>
 			</div>
 		</div>
@@ -83,7 +83,7 @@
 					</div>
 					<div class="feature-title">
 						<h3>Social Media Ads That Convert</h3>
-						<p>Maximize your reach and drive results with our expertly crafted social media ad campaigns. Let funnelriverss transform your advertising strategy into a compelling narrative that captivates your audience and converts leads.</p>
+						<p>Maximize your reach and drive results with our expertly crafted social media ad campaigns. Let funnelrivers transform your advertising strategy into a compelling narrative that captivates your audience and converts leads.</p>
 						<!-- button Explore More -->
 					</div>
 				</div>
@@ -96,7 +96,7 @@
 					</div>
 					<div class="feature-title-2">
 						<h3>Unlock Your Brand's Potential</h3>
-						<p>Discover the power of comprehensive marketing solutions at funnelriverss. From SEO and SMO to specialized real estate marketing, we elevate your brand’s online presence, ensuring unparalleled visibility and engagement.</p>
+						<p>Discover the power of comprehensive marketing solutions at funnelrivers. From SEO and SMO to specialized real estate marketing, we elevate your brand’s online presence, ensuring unparalleled visibility and engagement.</p>
 						<!-- button Explore More -->
 					</div>
 				</div>
@@ -108,7 +108,7 @@
 					</div>
 					<div class="feature-title-3">
 						<h3>Crafting Your Digital Identity</h3>
-						<p>In the Creation tab, funnelriverss brings your vision to life. From content writing and web development to stunning graphics and compelling videos, we tailor your digital identity with precision and creativity.</p>
+						<p>In the Creation tab, funnelrivers brings your vision to life. From content writing and web development to stunning graphics and compelling videos, we tailor your digital identity with precision and creativity.</p>
 						<!-- button Explore More -->
 					</div>
 				</div>
@@ -160,7 +160,7 @@
 							<h5>About Us</h5>
 							<h1>Excellence through </h1>
 							<h1>Quality-Driven Training</h1>
-							<p class="about-text">At funnelriverss, we specialize in delivering tailored digital marketing solutions that drive results. Combining creativity with cutting-edge digital strategies, we help businesses boost their online visibility, attract the right audience, and achieve measurable growth.</p>
+							<p class="about-text">At funnelrivers, we specialize in delivering tailored digital marketing solutions that drive results. Combining creativity with cutting-edge digital strategies, we help businesses boost their online visibility, attract the right audience, and achieve measurable growth.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -610,7 +610,7 @@
 					<h5>Uniqueness</h5>
 					<h1>What Makes Us Unique
 					</h1>
-					<p class="portfolio-text">At funnelriverss, we don’t just follow the trends; we set them. Our unique approach blends digital innovation, strategic thinking, and creative expertise to deliver results that exceed expectations.</p>
+					<p class="portfolio-text">At funnelrivers, we don’t just follow the trends; we set them. Our unique approach blends digital innovation, strategic thinking, and creative expertise to deliver results that exceed expectations.</p>
 				</div>
 			</div>
 		</div>
@@ -745,7 +745,7 @@
 				<div class="dreamit-section-title text-center pb-40">
 					<h5>Happy Clients</h5>
 					<h1>Our Happy Clients</h1>
-					<p class="portfolio-text">At funnelriverss, our clients' satisfaction and success are at the heart of everything we do.</p>
+					<p class="portfolio-text">At funnelrivers, our clients' satisfaction and success are at the heart of everything we do.</p>
 				</div>
 			</div>
 		</div>
