@@ -47,7 +47,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start funnelRivers slider Area -->
+<!-- start funnelriverss slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -68,11 +68,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers slider Area -->
+<!-- End funnelriverss slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers service Area -->
+<!-- Start funnelriverss service Area -->
 <!--==================================================-->
 <div class="service-area" id="blog">
 	<div class="container">		
@@ -80,15 +80,15 @@
 			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
-						<div class="funnelRivers-single-service-box">
-							<div class="funnelRivers-sigle-tmumb">
+						<div class="funnelriverss-single-service-box">
+							<div class="funnelriverss-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">Funnelriver Facebook Ads Services
+									<h1><a href="#">funnelrivers Facebook Ads Services
 									</a></h1>
-									<p>Facebook Ads (SMM) is a powerful tool for enhancing your brand’s online presence. At Funnelriver, we specialize in Facebook Ads that help you connect with your target audience and drive measurable results. Our approach is built on effective strategy, creative content, and continuous optimization to boost your brand visibility and conversions.
+									<p>Facebook Ads (SMM) is a powerful tool for enhancing your brand’s online presence. At funnelrivers, we specialize in Facebook Ads that help you connect with your target audience and drive measurable results. Our approach is built on effective strategy, creative content, and continuous optimization to boost your brand visibility and conversions.
 									</p>
 								</div>
 							</div>
@@ -101,7 +101,7 @@
 							</div>
 							<div class="service-details-title">
 
-								<h4>Why Funnelriver</h4>
+								<h4>Why funnelrivers</h4>
 								<p>we combine digital expertise and creative innovation to deliver tailored solutions that drive measurable success.</p>
 
 							</div>
@@ -210,11 +210,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers service Area -->
+<!-- End funnelriverss service Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelRivers subscribe Area -->
+<!-- Start funnelriverss subscribe Area -->
 <!--==================================================-->
 <div class="subscribe-area">
 	<div class="container">
@@ -229,7 +229,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 			    <div class="contact-form-box">	
-					<form id="contact_form" action="https://html.funnelRiverssolution.net/funnelRivers/digital-agency/mail.php" method="POST">
+					<form id="contact_form" action="https://html.funnelriversssolution.net/funnelriverss/digital-agency/mail.php" method="POST">
 						<div class="from-box">
 							<input type="text" placeholder="Enter E-Mail Address">
 							<button>Subscribe</button>
@@ -242,7 +242,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelRivers subscribe Area -->
+<!-- End funnelriverss subscribe Area -->
 <!--==================================================-->
 
 
@@ -409,7 +409,7 @@
     </script>
 </body>
 
-<!-- Mirrored from html.funnelRiverssolution.net/funnelRivers/digital-agency/cloud-computing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:41 GMT -->
+<!-- Mirrored from html.funnelriversssolution.net/funnelriverss/digital-agency/cloud-computing.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:41 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>

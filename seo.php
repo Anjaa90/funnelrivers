@@ -283,7 +283,7 @@
 					<!-- <h1>YOU CAN GET THE</h1>
 					<h1>BEST ALL DESIGN</h1>	
 					<h1><span> SOLUTION</span></h1> -->
-					<h1>You Can Get the Best All-Design Solution with <span>SEO Services</span> by Funnel River</h1>
+					<h1>You Can Get the Best All-Design Solution with <span>SEO Services</span> by funnelrivers</h1>
 					
 					
 				</div>
@@ -292,7 +292,7 @@
 				<div class="dreamit-department-tab">
 					<ul class="nav nav-pills mb-60" id="pills-tab" role="tablist">
 						<li class="nav-item">
-							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FUNNEL RIVERS</span></a>
+							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>funnelriversS</span></a>
 						</li>
 						
 					</ul>
@@ -302,7 +302,7 @@
 								<div class="row">
 									<div class="col-lg-12">
 										<div class="tab-content-text">
-											<p>FunnelRiver delivers tailored SEO solutions with clear communication and continuous support to ensure customer satisfaction and long-term success.</p>
+											<p>funnelrivers delivers tailored SEO solutions with clear communication and continuous support to ensure customer satisfaction and long-term success.</p>
 										</div>
 									</div>
 									<div class="col-lg-6">

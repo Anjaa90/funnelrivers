@@ -9,7 +9,7 @@
 						</a>
 					</div>
 					<div class="company-info-desc">
-						<p>At Funnel River, we specialize in delivering top-notch digital marketing solutions to help businesses grow. Whether it's SEO, PPC, content marketing, or social media strategies, our team ensures your brand reaches its full potential online.</p>
+						<p>At funnelrivers, we specialize in delivering top-notch digital marketing solutions to help businesses grow. Whether it's SEO, PPC, content marketing, or social media strategies, our team ensures your brand reaches its full potential online.</p>
 					</div>
 					<div class="company_icon">
 						<a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -42,7 +42,7 @@
 						<li><a href="index.php">Home</a></li>
 						<li><a href="#">About</a></li>
 						<li><a href="contact-us.php">Contact Us</a></li>
-						
+						<li><a href="#">Blogs</a></li>
 					</ul>
 				</div>
 			</div>
@@ -64,7 +64,7 @@
 							<i class="icon flaticon-email"></i>
 						</div>
 						<div class="footer-socail-info">
-							<p>dipti@funnelrivers.com</p>
+							<p>dipti@funnelriverss.com</p>
 						</div>
 					</div>
 					<div class="footer-inner">
@@ -82,13 +82,14 @@
 			<div class="col-lg-6 col-md-6">
 				<div class="footer-bottom-content">
 					<div class="footer-bottom-content-copy">
-						<p>Copyright © 2025. All rights reserved to <span>Funnelriver</span></p>
+						<p>Copyright © 2025. All rights reserved to <span>funnelrivers</span></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-6">
 				<div class="footer-bottom-menu">
-					<p>Terms & Condition . Services . Careers</p>
+					<p>Terms & Condition | Privacy Policy</p>
+					
 				</div>
 			</div>
 		</div>
