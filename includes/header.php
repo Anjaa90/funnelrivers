@@ -54,7 +54,37 @@
 <!--==================================================-->
 <!-- Start dreamit Main Menu Area -->
 <!--==================================================-->
-<div id="sticky-header" class="dreamit_nav_manu style-two">
+<style>
+	/* .n1{
+    margin-left: 60px !important;
+    margin-right: 60px !important;
+    
+}
+@media (min-width: 1000px) and (max-width: 1400px) {
+	.n1{
+    margin-left: -0px !important;
+    margin-right: -0px !important;
+    
+}
+
+.header-button{
+	display:none;
+}
+.slider-button-text{
+	display:none;
+}
+} */
+
+@media (min-width: 769px) and (max-width: 1200px) {
+
+.row{
+	margin-left: -50px !important;
+    margin-right: -60px !important;
+}
+}
+
+</style>
+<div id="sticky-header" class="dreamit_nav_manu style-two ">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-3">
@@ -68,37 +98,21 @@
 				</div>
 			</div>
 			<div class="col-lg-9">
-				<nav class="dreamit_menu text-left">
+				<nav class="dreamit_menu ">
 					<ul class="nav_scroll">
 						<li><a href="index.php">Home</a></li>
-							<!-- <ul class="sub-menu">
-								<li><a href="index.html">Digital Agency 01</a></li>
-								<li><a href="index-2.html">Digital Agency 02</a></li>
-								<li><a href="index-3.html">Digital Agency 03</a></li>
-								<li><a href="index-4.html">Digital Agency 04</a></li>
-								<li><a href="index-5.html">Digital Agency 05</a></li>
-								<li><a href="index-6.html">Digital Agency 06</a></li>
-								<li><a href="landing-01.html">Landing Page 01</a></li>
-								<li><a href="landing-02.html">Landing Page 02</a></li>
-							</ul> -->
+							
 						</li>
 						<li><a href="#">About Us <span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 								<li><a href="testimonial.php">Testimonial</a></li>
 								<li><a href="our-clients.php">Our Clients</a></li>
 								<li><a href="career.php">Careers</a></li>
-								<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
+						
 								 <li><a href="#">Blogs</a></li>
 							</ul>
 						</li>
-						<!-- <li><a href="#">Solution <span><i class="fas fa-angle-down"></i></span></a>
-							<ul class="sub-menu">
-								<li><a href="crm-solution.php">CRM Solution</a></li>
-								<li><a href="hrms-solution.php">HRMS Solution</a></li> 
-								<li><a href="lms.php">LMS</a></li>
-								<li><a href="project-management.php">Project Management Tool</a></li>
-							</ul>   
-						</li> -->
+						
 						<li><a href="#Services">Marketing <span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 								<li><a href="seo.php">SEO</a></li>
@@ -106,7 +120,6 @@
 								<li><a href="marketing-automation.php">Marketing Automation</a></li>
 							</ul>   
 						</li>
-						<!-- <li><a href="#Solution.html"></a></li>-->
 						<li><a href="#blog">Advertising<span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 								<li><a href="google-ads.php">Google Ads</a></li>
@@ -122,18 +135,27 @@
 								<li><a href="web-development.php">Website Development</a></li>
 								<li><a href="graphic-videos.php">Graphic & Videos</a></li>
 								<li><a href="resume-making.php">Resume Making</a></li>
-								<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
+								
+							</ul>
+						</li>
+						<li><a href="#">Services and Solution<span><i class="fas fa-angle-down"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="crm.php">CRM Solution</a></li>
+								<li><a href="hrms.php">HRMS Solution</a></li>
+								<li><a href="lms.php">LMS</a></li>
+								<li><a href="pmt.php">Project management tool </a></li>
 							</ul>
 						</li>
 						<li><a href="contact-us.php">Contact Us</a></li>
 					</ul>
-					<div class="header-button" style="padding-right:10px">
-						<i class="flaticon-phone-call"></i>		
+
+					<!-- <div class="header-button">
+						<i class="flaticon-phone-call"><a href="contact-us.php"></a></i>		
 					</div>	
 					<div class="slider-button-text" >
 						<p>Call Now!</p>
 						<h2>+91-9923707569</h2>
-					</div>		
+					</div>		 -->
 				</nav>							
 			</div>
 		</div>
@@ -144,7 +166,7 @@
 	<div class="mobile-menu">
 		<nav class="dreamit_menu">
 			<ul class="nav_scroll">
-				<li><a href="#home">Home <span><i class="fas fa-angle-down"></i></span></a>
+				<li><a href="index.php">Home <span></span></a>
 					<!-- <ul class="sub-menu">
 						<li><a href="index.html">Digital Agency 01</a></li>
 						<li><a href="index-2.html">Digital Agency 02</a></li>
@@ -156,12 +178,12 @@
 						<li><a href="landing-02.html">Landing Page 02</a></li>
 					</ul> -->
 				</li>
-				<li><a href="#Company">About Us <span><i class="fas fa-angle-down"></i></span></a>
+				<li><a href="#About">About Us <span><i class="fas fa-angle-down"></i></span></a>
 					<ul class="sub-menu">
 						<li><a href="about.php">Testimonial</a></li>
 						<li><a href="team-member.php">Our Clients</a></li>
 						<li><a href="contact-us.php">Careers</a></li>
-						<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
+
 					</ul>
 				</li>
 				<li><a href="#Services.php">Marketing <span><i class="fas fa-angle-down"></i></span></a>
@@ -189,6 +211,14 @@
 						<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
 					</ul>
 				</li>
+				<li><a href="#">Services and Solution<span><i class="fas fa-angle-down"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="testimonial.php">CRM Solution</a></li>
+								<li><a href="our-clients.php">HRMS Solution</a></li>
+								<li><a href="career.php">LMS</a></li>
+								<li><a href="#">Project management tool </a></li>
+							</ul>
+						</li> 
 				<li><a href="contact-us.php">Contact Us</a></li>
 					
 			</ul>
