@@ -88,8 +88,17 @@
 								<li><a href="our-clients.php">Our Clients</a></li>
 								<li><a href="career.php">Careers</a></li>
 								<!-- <li><a href="portfolio.html">Portfolio</a></li> -->
+								 <li><a href="#">Blogs</a></li>
 							</ul>
 						</li>
+						<!-- <li><a href="#">Solution <span><i class="fas fa-angle-down"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="crm-solution.php">CRM Solution</a></li>
+								<li><a href="hrms-solution.php">HRMS Solution</a></li> 
+								<li><a href="lms.php">LMS</a></li>
+								<li><a href="project-management.php">Project Management Tool</a></li>
+							</ul>   
+						</li> -->
 						<li><a href="#Services">Marketing <span><i class="fas fa-angle-down"></i></span></a>
 							<ul class="sub-menu">
 								<li><a href="seo.php">SEO</a></li>

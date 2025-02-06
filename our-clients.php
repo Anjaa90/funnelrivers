@@ -43,7 +43,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img loading="lazy" src="assets/images/resource/team1.jpg" alt="">
+						<img loading="lazy" src="https://vruhienviro.com/wp-content/uploads/2024/12/cropped-cropped-VRUHI-ENVIRO-LOGO-1-246x174.png" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -70,7 +70,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img loading="lazy" src="assets/images/resource/team2.jpg" alt="">
+						<img loading="lazy" src="https://vruhisvillafarm.com/wp-content/uploads/2024/11/cropped-cropped-Vruhi_s_Villa-removebg-preview-1-162x97.png" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -96,7 +96,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img loading="lazy" src="assets/images/resource/team3.jpg" alt="">
+						<img loading="lazy" src="assets\images\resource\our-clients1.png" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>
@@ -122,7 +122,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
-						<img loading="lazy" src="assets/images/resource/team4.jpg" alt="">
+						<img loading="lazy" src="https://earringa.com/wp-content/uploads/2024/06/cropped-Earringa-Logo-registered-1-99x99.png" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
 							<a href="#"><i class="fab fa-instagram"></i></a>

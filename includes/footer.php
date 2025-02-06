@@ -42,7 +42,7 @@
 						<li><a href="index.php">Home</a></li>
 						<li><a href="#">About</a></li>
 						<li><a href="contact-us.php">Contact Us</a></li>
-						
+						<li><a href="#">Blogs</a></li>
 					</ul>
 				</div>
 			</div>
@@ -88,7 +88,8 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="footer-bottom-menu">
-					<p>Terms & Condition . Services . Careers</p>
+					<p>Terms & Condition | Privacy Policy</p>
+					
 				</div>
 			</div>
 		</div>
