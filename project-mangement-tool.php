@@ -10,13 +10,13 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>HRMS Solution</h2>
+						<h2>Project Management Tool</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
 							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a
 										href="#">Solution</a> <i class="fas fa-angle-double-right"></i></span>
-								<span>HRMS Solution</span>
+								<span>Project Management Tool</span>
 							</li>
 						</ul>
 					</div>
@@ -45,12 +45,20 @@
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">FunnelRivers HRMS Solutions
+									<h1><a href="#">Funnelriver Project Management Services
+
 										</a></h1>
-									<p>FunnelRivers enhances your HR operations with advanced HRMS solutions that
-										streamline processes, boost employee engagement, and increase productivity. Our
-										tailored strategies automate tasks, optimize performance, and ensure measurable
-										results, helping you achieve HR excellence.
+									<p>Funnelriver ensures seamless execution of projects with expert Project Management
+										strategies that drive efficiency and success. Our team implements structured
+										workflows tailored to meet your business objectives. Using advanced project
+										management tools, we ensure timely execution, resource optimization, and
+										continuous progress tracking. We refine strategies based on data insights to
+										maximize productivity and ROI. With Funnelriver’s Project Management expertise,
+										your business benefits from streamlined operations, enhanced collaboration, and
+										measurable results. Let’s elevate your project execution and achieve your goals
+										with strategic project management!
+
+
 									</p>
 								</div>
 							</div>
@@ -62,9 +70,11 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>Expert HR Strategy
+								<h4>Strategic Planning
+
 								</h4>
-								<p>Customized HR strategies to improve employee management and satisfaction.
+								<p>Comprehensive project roadmaps for clear direction and goal alignment.
+
 								</p>
 							</div>
 						</div>
@@ -75,9 +85,12 @@
 								<i class="flaticon-support-6"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>Performance Monitoring</h4>
-								<p>Analytics and optimization to continuously improve HR outcomes.
-								</p><br>
+								<h4>Performance Tracking
+
+								</h4>
+								<p>Regular monitoring and data-driven optimizations for continuous improvement.
+
+								</p>
 							</div>
 						</div>
 					</div>
@@ -89,66 +102,65 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-icon-box">
 							<div class="service-details-icon-title">
-								<h3>We Deliver the Best HRMS Solutions!
+								<h3>We Deliver the Best Project Management Services!
+
 								</h3>
-								<p>Exceptional HRMS services with tailored strategies and targeted solutions.
+								<p>We ensure efficient project execution with tailored strategies and proven
+									methodologies.
+
 								</p>
 							</div>
 						</div>
 						<div class="widget-service-details-icon">
-							<p><i class="fas fa-check"></i> <span>Tailored HR Strategies </span></p>
-							<p><i class="fas fa-check"></i> <span>Employee Data Management
+							<p><i class="fas fa-check"></i> <span>Agile Methodologies
 								</span></p>
-							<p><i class="fas fa-check"></i> <span>Automated HR Processes
+							<p><i class="fas fa-check"></i> <span>Risk Assessment & Mitigation
+
+
+								</span></p>
+							<p><i class="fas fa-check"></i> <span>Performance Tracking
+
+
 								</span></p>
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12">
 						<div class="widget-details-text pt-25 pb-3">
-							<p><i class="fas fa-check"></i> <b>Employee Self-Service Portal
-
+							<p><i class="fas fa-check"></i> <b>Agile Methodologies
 								</b>
-								Empower employees with a self-service portal to manage time-off requests, benefits, and
-								personal information.
+								Flexible and iterative approaches to adapt to project requirements efficiently.
 							</p>
-							<p><i class="fas fa-check"></i> <b>Payroll & Compliance
-
+							<p><i class="fas fa-check"></i> <b>Task & Resource Management
 								</b>
-								Automate payroll processing and ensure compliance with tax and regulatory standards.
+								Optimal allocation and tracking of tasks for maximum efficiency.
 							</p>
-							<p><i class="fas fa-check"></i> <b>Performance Management
-
+							<p><i class="fas fa-check"></i> <b>Risk Assessment & Mitigation
 								</b>
-								Implement real-time feedback, goal tracking, and performance analytics to foster
-								employee development.
-
+								Identifying potential risks and implementing proactive solutions.
 							</p>
-							<p><i class="fas fa-check"></i> <b>Employee Engagement Tools
-
+							<p><i class="fas fa-check"></i> <b>Collaboration & Communication
 								</b>
-								Enhance employee engagement with personalized communication, recognition programs, and
-								performance management tools.
-
+								Enhancing teamwork with seamless coordination and clear communication channels.
 							</p>
-							<p><i class="fas fa-check"></i> <b>Scalable HR Solutions
-
+							<p><i class="fas fa-check"></i> <b>Project Lifecycle Management
 								</b>
-								Adapt and grow with flexible HRMS solutions that scale with your business needs.
+								Overseeing the entire project journey from initiation to completion.
 							</p>
-							<p><i class="fas fa-check"></i> <b>Mobile HRMS
-
-
+							<p><i class="fas fa-check"></i> <b>Technology-Driven Solutions
 								</b>
-								Access HRMS features anytime, anywhere with a mobile-friendly platform, ensuring
-								efficient management on the go.
+								Leveraging modern project management tools for automation and efficiency.
 							</p>
+							<p><i class="fas fa-check"></i> <b>Data-Driven Decision Making
+								</b>
+								Utilizing analytics to refine strategies and optimize outcomes.
+							</p>
+
 						</div>
 						<div>
-							<p><b>Upgrade Your Business with FunnelRivers HRMS Today!
-								</b>
+							<p>Funnelriver’s Project Management services, businesses can ensure effective execution,
+								operational excellence, and successful project outcomes.
 							</p>
-							<p>Streamline operations and drive growth with our comprehensive HRMS solutions. <b>Contact
-									us now to get started!</b>
+							<p><b>Contact us now to get started </b>
 							</p>
 						</div>
 

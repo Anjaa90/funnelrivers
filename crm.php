@@ -1,4 +1,4 @@
-<?php include('includes/header.php');?>   
+<?php include('includes/header.php'); ?>
 
 
 <!--==================================================-->
@@ -14,9 +14,11 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-						<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">services and solution</a> <i class="fas fa-angle-double-right"></i></span> <span>CRM Solution</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a
+										href="#">Solution</a> <i class="fas fa-angle-double-right"></i></span> <span>CRM
+									Solution</span></li>
 						</ul>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</div>
@@ -31,8 +33,8 @@
 <!-- Start funnelriverss service Area -->
 <!--==================================================-->
 <div class="service-area" id="blog">
-	<div class="container">		
-		<div class="row">	
+	<div class="container">
+		<div class="row">
 			<div class="col-lg-8 col-md-6 col-sm-12 col-sm-12">
 				<div class="row">
 					<div class="col-lg-12 col-sm-12">
@@ -42,9 +44,19 @@
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">funnelrivers Website Development Services
-									</a></h1>
-									<p>funnelrivers brings your brand to life with powerful Website Development that drive engagement and conversions. Our team creates eye-catching video ads tailored to resonate with your target audience. Using YouTube’s advanced targeting tools, we ensure your ads reach the right viewers at the right moment, boosting your brand’s visibility and impact. We continuously track campaign performance, optimize based on data, and refine strategies to maximize your return on investment. With funnelrivers’s Website Development, your business will experience enhanced brand awareness and measurable results. Let’s elevate your online presence and achieve your goals with the power of video advertising!
+									<h1><a href="#">FunnelRivers CRM Solutions
+										</a></h1>
+									<p>FunnelRivers transforms your customer relationship management with powerful CRM
+										solutions that drive engagement, streamline sales processes, and boost
+										conversions. Our team delivers tailored CRM strategies designed to resonate with
+										your target audience. With advanced tools and automation, we ensure you’re
+										connecting with the right leads at the right time, improving customer
+										relationships and driving business growth. We continuously track CRM
+										performance, optimize based on data, and refine strategies to maximize your
+										return on investment. With FunnelRivers CRM, your business will experience
+										enhanced customer retention and measurable results. Let’s elevate your CRM and
+										achieve your business goals!
+
 									</p>
 								</div>
 							</div>
@@ -56,8 +68,10 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>Expert Content Creation</h4>
-								<p>High-quality, engaging content designed to resonate with your audience.
+								<h4>Expert CRM Strategy
+								</h4>
+								<p>High-quality, customized CRM strategies designed to nurture relationships and boost
+									conversions.
 								</p>
 							</div>
 						</div>
@@ -69,8 +83,8 @@
 							</div>
 							<div class="service-details-title">
 								<h4>Performance Monitoring</h4>
-								<p> Regular analytics and optimization to improve results.
-								</p>
+								<p>Regular analytics and optimization to continuously improve your CRM results.
+								</p><br>
 							</div>
 						</div>
 					</div>
@@ -82,77 +96,73 @@
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-icon-box">
 							<div class="service-details-icon-title">
-								<h3>We Serve the Best Work in Website Development!
+								<h3>We Deliver the Best CRM Solutions!
 								</h3>
-								<p>We deliver exceptional website development with tailored strategies, targeted solutions.</p>
+								<p>We provide exceptional CRM services with tailored strategies and targeted solutions.
+								</p>
 							</div>
 						</div>
 						<div class="widget-service-details-icon">
-							<p><i class="fas fa-check"></i> <span>Tailored Strategies</span></p>
+							<p><i class="fas fa-check"></i> <span>Tailored CRM Strategies</span></p>
 							<p><i class="fas fa-check"></i> <span>Targeted Ads</span></p>
 							<p><i class="fas fa-check"></i> <span>Data-Driven Results </span></p>
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12">
-					<div class="widget-details-text pt-25 pb-3">
-    					<p><i class="fas fa-check"></i> <b>Custom Web Design and Development</b> 
-    					Crafting visually appealing, responsive websites tailored to your brand’s needs for all devices.
-    					</p>
-    					<p><i class="fas fa-check"></i> <b>E-Commerce Website Solutions</b>
-    					Building secure, user-friendly e-commerce sites with payment integration and smooth checkout.
-    					</p>
-    					<p><i class="fas fa-check"></i> <b>Content Management Systems (CMS)</b> 
-    					Developing CMS-based websites for easy content management with platforms like WordPress.
-    					</p>
-    					<p><i class="fas fa-check"></i> <b>SEO-Optimized Web Development</b>
-    					Creating SEO-friendly websites with fast load times and mobile responsiveness for better search rankings.
-    					</p>
-    					<p><i class="fas fa-check"></i> <b>Web Application Development</b>
-    					Developing custom web apps for enhanced functionality, automation, and user engagement.
-    					</p>
-    					<p><i class="fas fa-check"></i> <b>UI/UX Design</b>
-    					Designing intuitive and user-centered websites for a seamless and engaging user experience.
-    					</p>
-					</div>
+						<div class="widget-details-text pt-25 pb-3">
+							<p><i class="fas fa-check"></i> <b>Automated Sales & Marketing
+								</b>
+								Automate follow-ups, reminders, and sales processes for better efficiency.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Data-Driven Results
+								</b>
+								Leverage data analytics to improve customer acquisition and retention.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Lead Management
+								</b>
+								Capture, nurture, and convert leads with efficient tracking and management.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Customer Engagement
+								</b>
+								Personalize communication and build strong, long-lasting relationships.
+							</p>
+							<p><i class="fas fa-check"></i> <b>Multi-Channel Integration
+								</b>
+								Integrate CRM with email, SMS, social media, and other communication platforms for a
+								seamless marketing experience.
+							</p>
+						</div>
+						<div>
+							<p><b>Upgrade Your Business with FunnelRivers CRM Today!</b>
+							</p>
+							<p>Streamline operations and drive growth with our comprehensive CRM solutions. <b>Contact
+									us now to get started!</b>
+							</p>
+						</div>
 
 					</div>
-				</div>	
+				</div>
 			</div>
 			<div class=" col-lg-4 col-md-6 col-sm-12 col-sm-12">
 				<div class="widget-service-box">
-					<h4>ALL Creations</h4>
+					<h4>ALL Solution</h4>
 					<div class="widget-service-menu">
 						<ul>
-							<li><a href="content-writing.php">Content Writing <i class="fas fa-angle-right"></i></a></li>	
-							<li><a href="web-development.php">Website Development<i class="fas fa-angle-right"></i></a></li>
-							<li><a href="graphic-videos.php">Graphics and Videos<i class="fas fa-angle-right"></i></a></li>
-							<li><a href="resume-making.php">Resume Making <i class="fas fa-angle-right"></i></a></li>
-							
+							<li><a href="crm.php">CRM Solutions<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="hrms.php">HRMS Solutions<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="lms.php">LMS<i class="fas fa-angle-right"></i></a></li>
+							<li><a href="project-mangement-tool.php">Project Management Tool<i
+										class="fas fa-angle-right"></i></a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img loading="lazy" src="assets\images\Creations\website-development-1-image-370x500.png" alt="">		
-						<!-- <div class="widget-service-content text-center">
-							<div class="widget-text">
-								<p>Contact Us Now</p>
-							</div>
-							<div class="widget-title2">
-								<h3>If Need Help</h3>
-							</div>
-							<div class="widget-contact-title">
-								<h2>557-3452-234</h2>
-								<p>Or got to contact form</p>
-							</div>
-							<div class="widget-button">
-								<a href="#">LET’s START NOW</a>
-								<span><i class="fas fa-link"></i></span>
-							</div>
-						</div> -->
+						<img loading="lazy" src="assets\images\Creations\website-development-1-image-370x500.png"
+							alt="">
 					</div>
 				</div>
-			</div>	
+			</div>
 		</div>
 	</div>
 </div>
