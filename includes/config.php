@@ -82,7 +82,7 @@ switch ($menuactive) {
         break;
 
     case "contact-us.php":
-        $title = 'Contact Us | funnelriverss | Start Your Digital Business Today';
+        $title = 'Contact Us | funnelrivers | Start Your Digital Business Today';
         $description = 'Get in touch with funnelrivers for expert digital marketing, web development, and more. Reach out today and start your journey to success.';
         break;
 

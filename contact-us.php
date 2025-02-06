@@ -3,7 +3,7 @@
 
 
 <!--==================================================-->
-<!-- start funnelriverss slider Area -->
+<!-- start funnelrivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -24,17 +24,17 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelriverss slider Area -->
+<!-- End funnelrivers slider Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelriverss contact us Area -->
+<!-- Start funnelrivers contact us Area -->
 <!--==================================================-->
 <div class="contact-us-area style-two pt-100">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="funnelriverss-section-title style-two text-center">
+				<div class="funnelrivers-section-title style-two text-center">
 					<h5>CONTACT US</h5>
 					<h1>GET IN TOUCH ANY TIME</h1>
 					<h1>WITH <span>FUNNELRIVE     R</span></h1>
@@ -85,7 +85,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 					    <div class="contact-form-box style-two">	
-							<form action="https://formspree.io/f/myyleorq" method="POST" id="funnelriverss-form">
+							<form action="https://formspree.io/f/myyleorq" method="POST" id="funnelrivers-form">
 								<h4>For any inquiries relating to my Retail and Leadership Programs</h4>
 								<div class="row">
 									<div class="col-lg-6 col-md-6 col-sm-12">
@@ -148,11 +148,11 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelriverss contact us Area -->
+<!-- End funnelrivers contact us Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelriverss map Area -->
+<!-- Start funnelrivers map Area -->
 <!--==================================================-->
 <div class="container pb-5">
 <div class="map-area pt-100">
@@ -160,7 +160,7 @@
         <div class="row">
             <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771741.526258081!2d73.07914554168787!3d19.05668777128565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e401d8b9fb5f%3A0x15ed9eb92e5998c8!2sC%2FO%20KTown%2C%20Sai%20Nagar%20Society%2C%20Plot%20No-26%2C%20Sector%204%2C%20Kalamboli%2C%20Panvel%2C%20Navi%20Mumbai%2C%20Maharashtra%20410218!5e0!3m2!1sen!2sin!4v1642048971000!5m2!1sen!2sin&markers=19.05668777128565,73.07914554168787" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
 				<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.787872381109!2d73.0924267359253!3d19.02906685747554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e9db0fd1c219%3A0x12eb2ca6e392dd11!2sSai%20Nagar%2C%20Kalamboli%2C%20Panvel%2C%20Navi%20Mumbai%2C%20Maharashtra%20410218!5e0!3m2!1sen!2sin!4v1735983687299!5m2!1sen!2sin" width="1920" height="500"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.7906553823177!2d73.09478227520412!3d19.02894428216594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e93913b9e3d1%3A0x5dc664a9155f9c0e!2sfunnelriverss!5e0!3m2!1sen!2sin!4v1735984008984!5m2!1sen!2sin" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.7906553823177!2d73.09478227520412!3d19.02894428216594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e93913b9e3d1%3A0x5dc664a9155f9c0e!2sfunnelrivers!5e0!3m2!1sen!2sin!4v1735984008984!5m2!1sen!2sin" width="1920" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
 </div>
@@ -169,53 +169,53 @@
 
 
 <!--==================================================-->
-<!--End funnelriverss map Area -->
+<!--End funnelrivers map Area -->
 <!--==================================================-->
 
 <!--==================================================-->
-<!-- Start funnelriverss brand Area -->
+<!-- Start funnelrivers brand Area -->
 <!--==================================================-->
 <!-- <div class="brand-area style-three">
 	<div class="container">
 		<div class="row">
 			<div class="brand-list owl-carousel">
 				<div class="col-lg-12 col-md-12">
-				<div class="funnelriverss-single-brand">
+				<div class="funnelrivers-single-brand">
 					<div class="brand-thumb">
 						<img loading="lazy" src="assets/images/resource/brand4.png" alt="">
 					</div>
 				</div>
 			</div>				
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelriverss-single-brand">
+				<div class="funnelrivers-single-brand">
 					<div class="brand-thumb">
 						<img loading="lazy" src="assets/images/resource/brand5.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelriverss-single-brand">
+				<div class="funnelrivers-single-brand">
 					<div class="brand-thumb">
 						<img loading="lazy" src="assets/images/resource/brand3.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelriverss-single-brand">
+				<div class="funnelrivers-single-brand">
 					<div class="brand-thumb">
 						<img loading="lazy" src="assets/images/resource/brand1.png" alt="">
 					</div>
 				</div>
 			</div> 
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelriverss-single-brand">
+				<div class="funnelrivers-single-brand">
 					<div class="brand-thumb">
 						<img loading="lazy" src="assets/images/resource/brand2.png" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12">
-				<div class="funnelriverss-single-brand">
+				<div class="funnelrivers-single-brand">
 					<div class="brand-thumb">
 						<img loading="lazy" src="assets/images/resource/brand4.png" alt="">
 					</div>
@@ -226,7 +226,7 @@
 	</div>
 </div> -->
 <!--==================================================-->
-<!--End funnelriverss brand Area -->
+<!--End funnelrivers brand Area -->
 <!--==================================================-->
 
 

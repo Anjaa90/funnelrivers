@@ -3,7 +3,7 @@
 
 
 <!--==================================================-->
-<!-- End funnelriverss Main Menu Area -->
+<!-- End funnelrivers Main Menu Area -->
 <!--==================================================-->
 <!-- Sidebar Cart Item -->
 <div class="xs-sidebar-group info-group">
@@ -51,7 +51,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- start funnelriverss slider Area -->
+<!-- start funnelrivers slider Area -->
 <!--==================================================-->
 <div class="breatcumb-area">
 	<div class="container">
@@ -72,7 +72,7 @@
 	</div>
 </div>
 <!--==================================================-->
-<!-- End funnelriverss slider Area -->
+<!-- End funnelrivers slider Area -->
 <!--==================================================-->
 <!--==================================================-->
 <!-- Start dreamit service Area -->
@@ -225,13 +225,13 @@
 			<div class="col-lg-8 col-md-6 col-sm-12 col-xs-12">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="funnelriverss-single-blog-box">
-							<div class="funnelriverss-sigle-tmumb">
+						<div class="funnelrivers-single-blog-box">
+							<div class="funnelrivers-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/blog1.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">funnelriverss-Dagency</a>
+									<a href="#">funnelrivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -243,13 +243,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="funnelriverss-single-blog-box">
-							<div class="funnelriverss-sigle-tmumb">
+						<div class="funnelrivers-single-blog-box">
+							<div class="funnelrivers-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/blog2.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">funnelriverss-Dagency</a>
+									<a href="#">funnelrivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -261,13 +261,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="funnelriverss-single-blog-box">
-							<div class="funnelriverss-sigle-tmumb">
+						<div class="funnelrivers-single-blog-box">
+							<div class="funnelrivers-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/blog3.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">funnelriverss-Dagency</a>
+									<a href="#">funnelrivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -279,13 +279,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="funnelriverss-single-blog-box">
-							<div class="funnelriverss-sigle-tmumb">
+						<div class="funnelrivers-single-blog-box">
+							<div class="funnelrivers-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/blog1.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">funnelriverss-Dagency</a>
+									<a href="#">funnelrivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -297,13 +297,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="funnelriverss-single-blog-box">
-							<div class="funnelriverss-sigle-tmumb">
+						<div class="funnelrivers-single-blog-box">
+							<div class="funnelrivers-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/blog2.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">funnelriverss-Dagency</a>
+									<a href="#">funnelrivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -315,13 +315,13 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<div class="funnelriverss-single-blog-box">
-							<div class="funnelriverss-sigle-tmumb">
+						<div class="funnelrivers-single-blog-box">
+							<div class="funnelrivers-sigle-tmumb">
 								<img loading="lazy" src="assets/images/resource/blog1.jpg" alt="">
 							</div>
 							<div class="em-blog-content">
 								<div class="meta-blog">
-									<a href="#">funnelriverss-Dagency</a>
+									<a href="#">funnelrivers-Dagency</a>
 									<span> September 20, 2021</span>
 								</div>
 								<div class="meta-blog-right"><a href="#"> 0 Comments</a></div>
@@ -329,8 +329,8 @@
 									<h2><a href="blog-details.html">Diverse Intellectual Capital Before Distinctive</a></h2>
 									<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo. Bccaecat cupidatat non proident.</p>
 								</div>
-								<div class="funnelriverss-blog-socails">
-									<div class="funnelriverss-socail-icon">
+								<div class="funnelrivers-blog-socails">
+									<div class="funnelrivers-socail-icon">
 										<a href="blog-details.html"><i class="fab fa-facebook-f"></i></a>
 										<a href="blog-details.html"><i class="fab fa-twitter"></i></a>
 										<a href="blog-details.html"><i class="fab fa-google-plus-g"></i></a>
@@ -347,7 +347,7 @@
 							<h2>Leave Comment</h2>
 						</div>
 						<div class="contact-form-box style-four">
-							<form action="https://formspree.io/f/myyleorq" method="POST" id="funnelriverss-form">
+							<form action="https://formspree.io/f/myyleorq" method="POST" id="funnelrivers-form">
 								<div class="row">
 									<div class="col-lg-6">
 										<div class="from-box">
@@ -439,7 +439,7 @@
 							<ul>
 								<li><a href="blog-details.html">Digital Agency</a></li>
 								<li><a href="blog-details.html">Marketing</a></li>
-								<li><a href="blog-details.html">funnelriverss</a></li>
+								<li><a href="blog-details.html">funnelrivers</a></li>
 							</ul>					
 						</div>
 					</div>	
@@ -680,7 +680,7 @@
 	</script>
 </body>
 
-<!-- Mirrored from html.funnelriversssolution.net/funnelriverss/digital-agency/blog-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:39 GMT -->
+<!-- Mirrored from html.funnelriverssolution.net/funnelrivers/digital-agency/blog-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:11:39 GMT -->
 </html>
 
 <?php include('includes/footer.php'); ?>
