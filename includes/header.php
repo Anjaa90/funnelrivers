@@ -158,16 +158,16 @@
                                 <li><a href="crm.php">CRM Solution</a></li>
                                 <li><a href="hrms.php">HRMS Solution</a></li>
                                 <li><a href="lms.php">LMS</a></li>
-                                <li><a href="pmt.php">Project management tool </a></li>
+                                <li><a href="project-mangement-tool.php">Project management tool </a></li>
                             </ul>
                         </li>
                         <li><a href="">Services <span><i class="fas fa-angle-down"></i></span></a>
                         <ul class="sub-menu">
-                            <li><a href="">Saas based software</a></li>
-                            <li><a href="">Android App</a></li>
-                            <li><a href="">Ios App</a></li>
-                            <li><a href="">E-commerce</a></li>
-                            <li><a href="">CMS Website</a></li>
+                            <li><a href="saas-based-software.php">Saas based software</a></li>
+                            <li><a href="android-app.php">Android App</a></li>
+                            <li><a href="ios.php">Ios App</a></li>
+                            <li><a href="e-commerce.php">E-commerce</a></li>
+                            <li><a href="cms-website.php">CMS Website</a></li>
 
                         </ul>
                         </li>
@@ -222,7 +222,7 @@
                                 <li><a href="crm.php">CRM Solution</a></li>
                                 <li><a href="hrms.php">HRMS Solution</a></li>
                                 <li><a href="lms.php">LMS</a></li>
-                                <li><a href="pmt.php">Project management tool </a></li>
+                                <li><a href="project-mangement-tool.php">Project management tool </a></li>
                             </ul>
                         </li>
                         <li><a href="">Services <span><i class="fas fa-angle-down"></i></span></a>
@@ -285,14 +285,24 @@
 							<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
 						</ul>
 					</li>
-					<li><a href="#">Services and Solution<span><i class="fas fa-angle-down"></i></span></a>
-						<ul class="sub-menu">
-							<li><a href="testimonial.php">CRM Solution</a></li>
-							<li><a href="our-clients.php">HRMS Solution</a></li>
-							<li><a href="career.php">LMS</a></li>
-							<li><a href="#">Project management tool </a></li>
-						</ul>
-					</li>
+					<li><a href="#">Solution<span><i class="fas fa-angle-down"></i></span></a>
+                            <ul class="sub-menu">
+                                <li><a href="crm.php">CRM Solution</a></li>
+                                <li><a href="hrms.php">HRMS Solution</a></li>
+                                <li><a href="lms.php">LMS</a></li>
+                                <li><a href="project-mangement-tool.php">Project management tool </a></li>
+                            </ul>
+                        </li>
+                        <li><a href="">Services <span><i class="fas fa-angle-down"></i></span></a>
+                        <ul class="sub-menu">
+                            <li><a href="">Saas based software</a></li>
+                            <li><a href="">Android App</a></li>
+                            <li><a href="">Ios App</a></li>
+                            <li><a href="">E-commerce</a></li>
+                            <li><a href="">CMS Website</a></li>
+
+                        </ul>
+                        </li>
 					<li><a href="contact-us.php">Contact Us</a></li>
 
 				</ul>
