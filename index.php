@@ -2,60 +2,92 @@
 <!--==================================================-->
 <!-- Start dreamit slider Area -->
 <!--==================================================-->
+<style>
+	input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Textarea styling */
+textarea {
+    height: 100px;
+    resize: none;
+}
+
+/* Submit button */
+button {
+   
+    color: ;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+</style>
 <div class="slider-area slider7 d-flex align-items-center">
 	<div class="container">
 		<div class="row d-flex align-items-center slider">
 			<div class="col-lg-7 col-md-6 col-sm-12">
 				<div class="slider-content text-left pt-110">
-					
+
 					<h1>Elevate Your Brand With funnelrivers</h1>
-					
-					<p>Power up your brand with funnelrivers strategic campaigns, data-driven decisions, social media mastery, SEO supremacy, compelling content, and seamless conversion optimization. Unlock success effortlessly.</p>
+
+					<p>Power up your brand with funnelrivers strategic campaigns, data-driven decisions, social media
+						mastery, SEO supremacy, compelling content, and seamless conversion optimization. Unlock success
+						effortlessly.</p>
 					<div class="slider-button">
 						<a href="#">LEARN MORE <i class="flaticon-right-arrow"></i></a>
 					</div>
 					<div class="rs-video style-four">
-					<!-- <div class="animate-border">
+						<!-- <div class="animate-border">
 						<a class="video-vemo-icon3 venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg">
 						<i class="fas fa-play"></i></a>
 					</div> -->
-				</div>
+					</div>
 				</div>
 				<div class="slider-shape">
-				 	<div class="slider-shape-inner4 bounce-animate3">
-				 		<img loading="lazy" src="assets/images/slider/shape.png" alt="">
-				 	</div>
-				 	<div class="slider-shape-inner5 bounce-animate">
-				 		<img loading="lazy" src="assets/images/slider/shape9.png" alt="">
-				 	</div>
-				 </div>
-			 </div>
-			 <div class="col-lg-5 col-md-6 col-sm-12">
-			 	<div class="dreamit-slider-thumb-2">
-			 		<img loading="lazy" src="assets\images\slider\happy girl.png" alt="">
-			 	</div>
-			 	<div class="circles-thumb">
-			 		<div class="circle-shape-thumb">
-				 		<img loading="lazy" src="assets/images/slider/round1.png" alt="">
-				 	</div>
-			 	</div>
-			 </div>
-			 <div class="slider-shape">
-			 	<!-- <div class="slider-shape-inner1 bounce-animate2">
+					<div class="slider-shape-inner4 bounce-animate3">
+						<img loading="lazy" src="assets/images/slider/shape.png" alt="">
+					</div>
+					<div class="slider-shape-inner5 bounce-animate">
+						<img loading="lazy" src="assets/images/slider/shape9.png" alt="">
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-5 col-md-6 col-sm-12">
+				<div class="dreamit-slider-thumb-2">
+					<img loading="lazy" src="assets\images\slider\happy girl.png" alt="">
+				</div>
+				<div class="circles-thumb">
+					<div class="circle-shape-thumb">
+						<img loading="lazy" src="assets/images/slider/round1.png" alt="">
+					</div>
+				</div>
+			</div>
+			<div class="slider-shape">
+				<!-- <div class="slider-shape-inner1 bounce-animate2">
 			 		<img loading="lazy" src="assets/images/slider/shape1.png" alt="">
 			 	</div>
 			 	<div class="slider-shape-inner2 bounce-animate4">
 			 		<img loading="lazy" src="assets/images/slider/shape2.png" alt=""> -->
-			 	</div>
-			 	<div class="slider-shape-inner3 bounce-animate">
-			 		<img loading="lazy" src="assets/images/slider/shape5.png" alt="">
-			 	</div>
-			 	<div class="slider-shape-inner6 bounce-animate">
-			 		<img loading="lazy" src="assets/images/slider/round2.png" alt="">
-			 	</div>
-			 </div>
+			</div>
+			<div class="slider-shape-inner3 bounce-animate">
+				<img loading="lazy" src="assets/images/slider/shape5.png" alt="">
+			</div>
+			<div class="slider-shape-inner6 bounce-animate">
+				<img loading="lazy" src="assets/images/slider/round2.png" alt="">
+			</div>
 		</div>
 	</div>
+</div>
 </div>
 <!--==================================================-->
 <!--End dreamit slider Area  -->
@@ -71,7 +103,9 @@
 				<div class="dreamit-section-title text-center">
 					<h5>Features</h5>
 					<h1>funnelrivers Awsome Features</h1>
-					<p class="feature-text">Maximize your reach and drive results with our expertly crafted social media ad campaigns. Let funnelrivers transform your advertising strategy into a compelling narrative that captivates your audience and converts leads.</p>
+					<p class="feature-text">Maximize your reach and drive results with our expertly crafted social media
+						ad campaigns. Let funnelrivers transform your advertising strategy into a compelling narrative
+						that captivates your audience and converts leads.</p>
 				</div>
 			</div>
 		</div>
@@ -79,24 +113,28 @@
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="feature-single-box">
 					<div class="feature-icon">
-					<i class="fas fa-bullhorn" style="font-size:32px;"></i>
+						<i class="fas fa-bullhorn" style="font-size:32px;"></i>
 					</div>
 					<div class="feature-title">
 						<h3>Social Media Ads That Convert</h3>
-						<p>Maximize your reach and drive results with our expertly crafted social media ad campaigns. Let funnelrivers transform your advertising strategy into a compelling narrative that captivates your audience and converts leads.</p>
+						<p>Maximize your reach and drive results with our expertly crafted social media ad campaigns.
+							Let funnelrivers transform your advertising strategy into a compelling narrative that
+							captivates your audience and converts leads.</p>
 						<!-- button Explore More -->
 					</div>
 				</div>
-				
+
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-12">
 				<div class="feature-single-box">
 					<div class="feature-icon2">
-					<i class="fas fa-rocket" style="font-size:32px;"></i>
+						<i class="fas fa-rocket" style="font-size:32px;"></i>
 					</div>
 					<div class="feature-title-2">
 						<h3>Unlock Your Brand's Potential</h3>
-						<p>Discover the power of comprehensive marketing solutions at funnelrivers. From SEO and SMO to specialized real estate marketing, we elevate your brand’s online presence, ensuring unparalleled visibility and engagement.</p>
+						<p>Discover the power of comprehensive marketing solutions at funnelrivers. From SEO and SMO to
+							specialized real estate marketing, we elevate your brand’s online presence, ensuring
+							unparalleled visibility and engagement.</p>
 						<!-- button Explore More -->
 					</div>
 				</div>
@@ -108,7 +146,9 @@
 					</div>
 					<div class="feature-title-3">
 						<h3>Crafting Your Digital Identity</h3>
-						<p>In the Creation tab, funnelrivers brings your vision to life. From content writing and web development to stunning graphics and compelling videos, we tailor your digital identity with precision and creativity.</p>
+						<p>In the Creation tab, funnelrivers brings your vision to life. From content writing and web
+							development to stunning graphics and compelling videos, we tailor your digital identity with
+							precision and creativity.</p>
 						<!-- button Explore More -->
 					</div>
 				</div>
@@ -116,7 +156,7 @@
 		</div>
 	</div>
 	<div class="feature-shape-thumb">
-		<div class="feature-shape-img bounce-animate4"> 	
+		<div class="feature-shape-img bounce-animate4">
 			<img loading="lazy" src="assets/images/resource/feature-shape.png" alt="">
 		</div>
 	</div>
@@ -152,7 +192,7 @@
 						<img loading="lazy" src="assets/images/about/shape2.png" alt="">
 					</div>
 				</div>
-			</div>		
+			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="row about-left">
 					<div class="col-lg-12">
@@ -160,7 +200,10 @@
 							<h5>About Us</h5>
 							<h1>Excellence through </h1>
 							<h1>Quality-Driven Training</h1>
-							<p class="about-text">At funnelrivers, we specialize in delivering tailored digital marketing solutions that drive results. Combining creativity with cutting-edge digital strategies, we help businesses boost their online visibility, attract the right audience, and achieve measurable growth.</p>
+							<p class="about-text">At funnelrivers, we specialize in delivering tailored digital
+								marketing solutions that drive results. Combining creativity with cutting-edge digital
+								strategies, we help businesses boost their online visibility, attract the right
+								audience, and achieve measurable growth.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -176,7 +219,7 @@
 					<div class="col-lg-6">
 						<div class="about-single-icon-box2">
 							<div class="about-icon2">
-							<i class="fas fa-chart-bar"></i>
+								<i class="fas fa-chart-bar"></i>
 							</div>
 							<div class="about-title2">
 								<h4>Data-Driven <br>Results</h4>
@@ -186,7 +229,7 @@
 					<div class="col-lg-6">
 						<div class="about-single-icon-box3">
 							<div class="about-icon3">
-								<i class="fas fa-search"></i> 
+								<i class="fas fa-search"></i>
 							</div>
 							<div class="about-title3">
 								<h4>Expert SEO & <br>PPC</h4>
@@ -196,7 +239,7 @@
 					<div class="col-lg-6">
 						<div class="about-single-icon-box4">
 							<div class="about-icon4">
-								<i class="fas fa-laptop-code"></i> 
+								<i class="fas fa-laptop-code"></i>
 							</div>
 							<div class="about-title4">
 								<h4>SEO-Optimized Websites</h4>
@@ -298,11 +341,12 @@
 						<div class="dreamit-service-box-inner">
 							<div class="dreamit-service-content">
 								<div class="dreamit-service-icon">
-								<i class="fas fa-lightbulb"></i>
+									<i class="fas fa-lightbulb"></i>
 								</div>
 								<div class="dreamit-service-title1">
 									<h2>Search Engine Optimization</h2>
-									<p class="responsive">Enthusiastically brand is a positioning scenarios with team driven best</p>
+									<p class="responsive">Enthusiastically brand is a positioning scenarios with team
+										driven best</p>
 								</div>
 							</div>
 							<div class="dreamit-icon1">
@@ -334,7 +378,7 @@
 						<div class="dreamit-service-box-inner">
 							<div class="dreamit-service-content">
 								<div class="dreamit-service-icon3">
-								<i class="fas fa-robot"></i> 
+									<i class="fas fa-robot"></i>
 								</div>
 								<div class="dreamit-service-title3">
 									<h2>Marketing
@@ -353,7 +397,7 @@
 						<div class="dreamit-service-box-inner">
 							<div class="dreamit-service-content">
 								<div class="dreamit-service-icon4">
-								<i class="fas fa-envelope"></i>
+									<i class="fas fa-envelope"></i>
 								</div>
 								<div class="dreamit-service-title4">
 									<h2>Email Marketing</h2>
@@ -610,7 +654,9 @@
 					<h5>Uniqueness</h5>
 					<h1>What Makes Us Unique
 					</h1>
-					<p class="portfolio-text">At funnelrivers, we don’t just follow the trends; we set them. Our unique approach blends digital innovation, strategic thinking, and creative expertise to deliver results that exceed expectations.</p>
+					<p class="portfolio-text">At funnelrivers, we don’t just follow the trends; we set them. Our unique
+						approach blends digital innovation, strategic thinking, and creative expertise to deliver
+						results that exceed expectations.</p>
 				</div>
 			</div>
 		</div>
@@ -623,12 +669,12 @@
 						</div>
 						<div class="single_portfolio_content">
 							<div class="single-portfolio-content-inner">
-								<h3><a href="#"f="portfolio-details.html">All-in-One Mastery</a></h3>
+								<h3><a href="#" f="portfolio-details.html">All-in-One Mastery</a></h3>
 								<p> Streamlining digital success.</p>
 								<div class="portfolio-icon">
 									<a href="#"><i class="fas fa-angle-double-right"></i></a>
 								</div>
-							</div>		
+							</div>
 						</div>
 					</div>
 				</div>
@@ -637,16 +683,18 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_Email marketing specialist.png" alt="Email Marketing Specialist" />
+							<img loading="lazy"
+								src="assets\images\resource\Funnel Reverse_Email marketing specialist.png"
+								alt="Email Marketing Specialist" />
 						</div>
 						<div class="single_portfolio_content-2">
 							<div class="single-portfolio-content-inner-2">
-								<h3><a href="#"f="portfolio-details.html">Email Marketing Specialist</a></h3>
+								<h3><a href="#" f="portfolio-details.html">Email Marketing Specialist</a></h3>
 								<p>Niche-tailored solutions.</p>
 								<div class="portfolio-icon-2">
 									<a href="#"><i class="fas fa-angle-double-right"></i></a>
 								</div>
-							</div>		
+							</div>
 						</div>
 					</div>
 				</div>
@@ -655,16 +703,17 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_Startegic Fusion.png" alt="Strategic Fusion" />
+							<img loading="lazy" src="assets\images\resource\Funnel Reverse_Startegic Fusion.png"
+								alt="Strategic Fusion" />
 						</div>
 						<div class="single_portfolio_content-3">
 							<div class="single-portfolio-content-inner-3">
-								<h3><a href="#"f="portfolio-details.html">Strategic Fusion</a></h3>
+								<h3><a href="#" f="portfolio-details.html">Strategic Fusion</a></h3>
 								<p>Marketing, advertising, creative synergy.</p>
 								<div class="portfolio-icon-3">
 									<a href="#"><i class="fas fa-angle-double-right"></i></a>
 								</div>
-							</div>		
+							</div>
 						</div>
 					</div>
 				</div>
@@ -673,16 +722,17 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_ Data driven precision.png" alt="Data-Driven Precision" />
+							<img loading="lazy" src="assets\images\resource\Funnel Reverse_ Data driven precision.png"
+								alt="Data-Driven Precision" />
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
-								<h3><a href="#"f="portfolio-details.html">Data-Driven Precision</a></h3>
+								<h3><a href="#" f="portfolio-details.html">Data-Driven Precision</a></h3>
 								<p>Optimize, refine, maximize impact.</p>
 								<div class="portfolio-icon-4">
 									<a href="#"><i class="fas fa-angle-double-right"></i></a>
 								</div>
-							</div>		
+							</div>
 						</div>
 					</div>
 				</div>
@@ -691,16 +741,17 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_ Creative Narrative.png" alt="Creative Narratives" />
+							<img loading="lazy" src="assets\images\resource\Funnel Reverse_ Creative Narrative.png"
+								alt="Creative Narratives" />
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
-								<h3><a href="#"f="portfolio-details.html">Creative Narratives</a></h3>
+								<h3><a href="#" f="portfolio-details.html">Creative Narratives</a></h3>
 								<p>Memorable brand experiences.</p>
 								<div class="portfolio-icon-4">
 									<a href="#"><i class="fas fa-angle-double-right"></i></a>
 								</div>
-							</div>		
+							</div>
 						</div>
 					</div>
 				</div>
@@ -709,16 +760,18 @@
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_ client Centric Collebration.png" alt="Client-Centric Collaboration" />
+							<img loading="lazy"
+								src="assets\images\resource\Funnel Reverse_ client Centric Collebration.png"
+								alt="Client-Centric Collaboration" />
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
-								<h3><a href="#"f="portfolio-details.html">Client-Centric Collaboration</a></h3>
+								<h3><a href="#" f="portfolio-details.html">Client-Centric Collaboration</a></h3>
 								<p>Tailored strategies for success.</p>
 								<div class="portfolio-icon-4">
 									<a href="#"><i class="fas fa-angle-double-right"></i></a>
 								</div>
-							</div>		
+							</div>
 						</div>
 					</div>
 				</div>
@@ -727,7 +780,7 @@
 				<div class="portfolio-button text-center">
 					<a href="#">All Product <i class="flaticon-right-arrow"></i></a>
 				</div>
-			</div>	
+			</div>
 		</div>
 	</div>
 </div>
@@ -906,54 +959,41 @@
 <div class="subscribe-area style-six">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 col-md-6 col-sm-12">
+			<div class="col-lg-6 ">
 				<div class="subscribe-single-thumb">
 					<img loading="lazy" src="assets\images\resource\Contact-image-w.png" alt="contact">
 				</div>
 			</div>
-			<div class="col-lg-6 col-md-6 col-sm-12">
-				<div class="contact-form-box style-four upper2">
-				     <div class="contact-form-title-1 pb-30">
-				     	<h3>FEEL FREE TO CONTACT</h3>
-				     	<h3>WITH OUR IT AGENCY</h3>
-				     </div>	
-					<form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
-						<div class="row">
-							<div class="col-lg-12 col-sm-12">
-								<div class="from-box">
-									<input type="text" placeholder="Your Name*">
-								</div>
-							</div>
-							<div class="col-lg-12 col-sm-12">
-								<div class="from-box">
-									<input type="text" placeholder="Your Mail*">
-								</div>
-							</div>
-							<div class="col-lg-12 col-sm-12">
-								<div class="from-box">
-									<input type="text" placeholder="Phone No.">
-								</div>
-							</div>
-							<div class="col-lg-12">
-								<div class="from-box">
-									<textarea name="massage" id="massage" placeholder="Massage*"></textarea>
-								</div>									
-							</div>
+			<div class=" col-md-6 ">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="contact-form-box style-two">
+							<form action="index.php" method="POST" id="funnelrivers-form">
+								<h2>For any inquiries, contact us</h2>
+
+								<input type="text" name="name" placeholder="Enter your Name" required>
+
+								<input type="email" name="email" placeholder="Enter your Email" required>
+
+								<input type="tel" name="phone" placeholder="Enter your Phone Number">
+
+								<select name="service" required>
+									<option value="" disabled selected>Select a Service</option>
+									<option value="saas">SaaS Based Software</option>
+									<option value="android">Android App</option>
+									<option value="ios">iOS App</option>
+									<option value="ecommerce">E-Commerce</option>
+									<option value="cms">CMS Website</option>
+								</select>
+
+								<textarea name="message" placeholder="Enter your Message" required></textarea>
+
+								<button type="submit">Submit Now <span><i
+											class="fas fa-check-square"></i></span></button>
+							</form>
+
+							<div id="status"></div>
 						</div>
-						<div class="from-box2">
-							<button type="submit">Submit Now <span><i class="fas fa-check-square"></i></span></button>
-						</div>
-					</form>
-					<div id="status"></div>
-				</div>
-				<div class="contact-shape-thumb1">
-					<div class="contact-shape-images bounce-animate5">
-						<img loading="lazy" src="assets/images/resource/blog-shape.png" alt="">
-					</div>
-				</div>
-				<div class="contact-shape-thumb">
-					<div class="contact-shape-images-2 bounce-animate4">
-						<img loading="lazy" src="assets/images/resource/contact-shape1.png" alt="">
 					</div>
 				</div>
 			</div>
@@ -971,5 +1011,6 @@
 </body>
 
 <!-- Mirrored from html.dreamitsolution.net/dreamit/digital-agency/index-6.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Dec 2024 13:10:41 GMT -->
+
 </html>
 <?php include('includes/footer.php'); ?>
