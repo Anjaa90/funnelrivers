@@ -37,11 +37,7 @@
 				<div class="funnelrivers-section-title style-two text-center">
 					<h5>CONTACT US</h5>
 					<h1>GET IN TOUCH ANY TIME</h1>
-<<<<<<< HEAD
 					<h1>WITH <span>FUNNELRIVER</span></h1>
-=======
-					<h1>WITH <span>FUNNELRIVE     R</span></h1>
->>>>>>> 72c54ea48901f1f68f124a6879d9b7ce80ad6e95
 				</div>
 			</div>
 		</div>
