@@ -138,105 +138,214 @@
 
 						// navigation reveal
 						var showMeanMenu = function() {
-								var meanStyles = "background:"+meanRevealColour+";color:"+meanRevealColour+";"+meanRevealPos;
-								if (currentWidth <= meanScreenWidth) {
+							var meanStyles = "background:" + meanRevealColour + ";color:" + meanRevealColour + ";" + meanRevealPos;
+						
+							if (currentWidth <= meanScreenWidth) {
 								jQuery(removeElements).addClass('mean-remove');
-									meanMenuExist = true;
-									// add class to body so we don't need to worry about media queries here, all CSS is wrapped in '.mean-container'
-									jQuery(meanContainer).addClass("mean-container");
-									jQuery('.mean-container').prepend('<div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="'+meanStyles+'">Show Navigation</a><nav class="mean-nav"></nav></div>');
-
-									//push meanMenu navigation into .mean-nav
-									var meanMenuContents = jQuery(meanMenu).html();
-									jQuery('.mean-nav').html(meanMenuContents);
-
-									// remove all classes from EVERYTHING inside meanmenu nav
-									if(meanRemoveAttrs) {
-										jQuery('nav.mean-nav ul, nav.mean-nav ul *').each(function() {
-											// First check if this has mean-remove class
-											if (jQuery(this).is('.mean-remove')) {
-												jQuery(this).attr('class', 'mean-remove');
-											} else {
-												jQuery(this).removeAttr("class");
-											}
-											jQuery(this).removeAttr("id");
-										});
-									}
-
-									// push in a holder div (this can be used if removal of nav is causing layout issues)
-									jQuery(meanMenu).before('<div class="mean-push" />');
-									jQuery('.mean-push').css("margin-top",meanNavPush);
-
-									// hide current navigation and reveal mean nav link
-									jQuery(meanMenu).hide();
-									jQuery(".meanmenu-reveal").show();
-
-									// turn 'X' on or off
-									jQuery(meanRevealClass).html(meanMenuOpen);
-									$navreveal = jQuery(meanRevealClass);
-
-									//hide mean-nav ul
-									jQuery('.mean-nav ul').hide();
-
-									// hide sub nav
-									if(meanShowChildren) {
-											// allow expandable sub nav(s)
-											if(meanExpandableChildren){
-												jQuery('.mean-nav ul ul').each(function() {
-														if(jQuery(this).children().length){
-																jQuery(this,'li:first').parent().append('<a class="mean-expand" href="#" style="font-size: '+ meanMenuCloseSize +'">'+ meanExpand +'</a>');
-														}
-												});
-												jQuery('.mean-expand').on("click",function(e){
-														e.preventDefault();
-															if (jQuery(this).hasClass("mean-clicked")) {
-																	jQuery(this).text(meanExpand);
-																jQuery(this).prev('ul').slideUp(300, function(){});
-														} else {
-																jQuery(this).text(meanContract);
-																jQuery(this).prev('ul').slideDown(300, function(){});
-														}
-														jQuery(this).toggleClass("mean-clicked");
-												});
-											} else {
-													jQuery('.mean-nav ul ul').show();
-											}
-									} else {
-											jQuery('.mean-nav ul ul').hide();
-									}
-
-									// add last class to tidy up borders
-									jQuery('.mean-nav ul li').last().addClass('mean-last');
-									$navreveal.removeClass("meanclose");
-									jQuery($navreveal).click(function(e){
-										e.preventDefault();
-								if( menuOn === false ) {
-												$navreveal.css("text-align", "center");
-												$navreveal.css("text-indent", "0");
-												$navreveal.css("font-size", meanMenuCloseSize);
-												jQuery('.mean-nav ul:first').slideDown();
-												menuOn = true;
+								meanMenuExist = true;
+						
+								jQuery('.mean-bar, .mean-push, .mean-nav').remove(); // Remove duplicates
+								jQuery(meanContainer).addClass("mean-container");
+						
+								if (jQuery('.mean-bar').length === 0) {
+									jQuery('.mean-container').prepend('<div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="' + meanStyles + '">Show Navigation</a><nav class="mean-nav"></nav></div>');
+								}
+						
+								var meanMenuContents = jQuery(meanMenu).html();
+								jQuery('.mean-nav').html(meanMenuContents);
+						
+								if (meanRemoveAttrs) {
+									jQuery('nav.mean-nav ul, nav.mean-nav ul *').each(function() {
+										if (jQuery(this).is('.mean-remove')) {
+											jQuery(this).attr('class', 'mean-remove');
 										} else {
-											jQuery('.mean-nav ul:first').slideUp();
-											menuOn = false;
+											jQuery(this).removeAttr("class");
 										}
-											$navreveal.toggleClass("meanclose");
-											meanInner();
-											jQuery(removeElements).addClass('mean-remove');
+										jQuery(this).removeAttr("id");
 									});
-
-									// for one page websites, reset all variables...
-									if ( onePage ) {
-										jQuery('.mean-nav ul > li > a:first-child').on( "click" , function () {
-											jQuery('.mean-nav ul:first').slideUp();
-											menuOn = false;
-											jQuery($navreveal).toggleClass("meanclose").html(meanMenuOpen);
+								}
+						
+								jQuery(meanMenu).before('<div class="mean-push" />');
+								jQuery('.mean-push').css("margin-top", meanNavPush);
+						
+								jQuery(meanMenu).hide();
+								jQuery(".meanmenu-reveal").show();
+						
+								jQuery(meanRevealClass).html(meanMenuOpen);
+								$navreveal = jQuery(meanRevealClass);
+								jQuery('.mean-nav ul').hide(); // Hide all submenus initially
+						
+								// Fix Dropdown Menu
+								if (meanShowChildren) {
+									if (meanExpandableChildren) {
+										jQuery('.mean-nav ul ul').each(function() {
+											if (jQuery(this).children().length) {
+												jQuery(this).parent().append('<a class="mean-expand" href="#" style="font-size: ' + meanMenuCloseSize + '">' + meanExpand + '</a>');
+											}
 										});
+						
+										// Fix click event binding
+										jQuery(document).on("click", ".mean-expand", function(e) {
+											e.preventDefault();
+											var $this = jQuery(this);
+						
+											if ($this.hasClass("mean-clicked")) {
+												$this.text(meanExpand);
+												$this.prev('ul').slideUp(300);
+											} else {
+												$this.text(meanContract);
+												$this.prev('ul').slideDown(300);
+											}
+						
+											$this.toggleClass("mean-clicked");
+										});
+						
+									} else {
+										jQuery('.mean-nav ul ul').show();
 									}
+								} else {
+									jQuery('.mean-nav ul ul').hide();
+								}
+						
+								jQuery('.mean-nav ul li').last().addClass('mean-last');
+								$navreveal.removeClass("meanclose");
+						
+								jQuery($navreveal).click(function(e) {
+									e.preventDefault();
+									if (menuOn === false) {
+										$navreveal.css({
+											"text-align": "center",
+											"text-indent": "0",
+											"font-size": meanMenuCloseSize
+										});
+										jQuery('.mean-nav ul:first').slideDown();
+										menuOn = true;
+									} else {
+										jQuery('.mean-nav ul:first').slideUp();
+										menuOn = false;
+									}
+									$navreveal.toggleClass("meanclose");
+									meanInner();
+									jQuery(removeElements).addClass('mean-remove');
+								});
+						
+								if (onePage) {
+									jQuery('.mean-nav ul > li > a:first-child').on("click", function() {
+										jQuery('.mean-nav ul:first').slideUp();
+										menuOn = false;
+										jQuery($navreveal).toggleClass("meanclose").html(meanMenuOpen);
+									});
+								}
+						
+								jQuery(window).on('resize', function() {
+									jQuery('.mean-bar').not(':first').remove();
+								});
+						
 							} else {
 								meanOriginal();
 							}
 						};
+						
+						// var showMeanMenu = function() {
+						// 		var meanStyles = "background:"+meanRevealColour+";color:"+meanRevealColour+";"+meanRevealPos;
+						// 		if (currentWidth <= meanScreenWidth) {
+						// 		jQuery(removeElements).addClass('mean-remove');
+						// 			meanMenuExist = true;
+						// 			// add class to body so we don't need to worry about media queries here, all CSS is wrapped in '.mean-container'
+						// 			jQuery(meanContainer).addClass("mean-container");
+						// 			jQuery('.mean-container').prepend('<div class="mean-bar"><a href="#nav" class="meanmenu-reveal" style="'+meanStyles+'">Show Navigation</a><nav class="mean-nav"></nav></div>');
+
+						// 			//push meanMenu navigation into .mean-nav
+						// 			var meanMenuContents = jQuery(meanMenu).html();
+						// 			jQuery('.mean-nav').html(meanMenuContents);
+
+						// 			// remove all classes from EVERYTHING inside meanmenu nav
+						// 			if(meanRemoveAttrs) {
+						// 				jQuery('nav.mean-nav ul, nav.mean-nav ul *').each(function() {
+						// 					// First check if this has mean-remove class
+						// 					if (jQuery(this).is('.mean-remove')) {
+						// 						jQuery(this).attr('class', 'mean-remove');
+						// 					} else {
+						// 						jQuery(this).removeAttr("class");
+						// 					}
+						// 					jQuery(this).removeAttr("id");
+						// 				});
+						// 			}
+
+						// 			// push in a holder div (this can be used if removal of nav is causing layout issues)
+						// 			jQuery(meanMenu).before('<div class="mean-push" />');
+						// 			jQuery('.mean-push').css("margin-top",meanNavPush);
+
+						// 			// hide current navigation and reveal mean nav link
+						// 			jQuery(meanMenu).hide();
+						// 			jQuery(".meanmenu-reveal").show();
+
+						// 			// turn 'X' on or off
+						// 			jQuery(meanRevealClass).html(meanMenuOpen);
+						// 			$navreveal = jQuery(meanRevealClass);
+
+						// 			//hide mean-nav ul
+						// 			jQuery('.mean-nav ul').hide();
+
+						// 			// hide sub nav
+						// 			if(meanShowChildren) {
+						// 					// allow expandable sub nav(s)
+						// 					if(meanExpandableChildren){
+						// 						jQuery('.mean-nav ul ul').each(function() {
+						// 								if(jQuery(this).children().length){
+						// 										jQuery(this,'li:first').parent().append('<a class="mean-expand" href="#" style="font-size: '+ meanMenuCloseSize +'">'+ meanExpand +'</a>');
+						// 								}
+						// 						});
+						// 						jQuery('.mean-expand').on("click",function(e){
+						// 								e.preventDefault();
+						// 									if (jQuery(this).hasClass("mean-clicked")) {
+						// 											jQuery(this).text(meanExpand);
+						// 										jQuery(this).prev('ul').slideUp(300, function(){});
+						// 								} else {
+						// 										jQuery(this).text(meanContract);
+						// 										jQuery(this).prev('ul').slideDown(300, function(){});
+						// 								}
+						// 								jQuery(this).toggleClass("mean-clicked");
+						// 						});
+						// 					} else {
+						// 							jQuery('.mean-nav ul ul').show();
+						// 					}
+						// 			} else {
+						// 					jQuery('.mean-nav ul ul').hide();
+						// 			}
+
+						// 			// add last class to tidy up borders
+						// 			jQuery('.mean-nav ul li').last().addClass('mean-last');
+						// 			$navreveal.removeClass("meanclose");
+						// 			jQuery($navreveal).click(function(e){
+						// 				e.preventDefault();
+						// 		if( menuOn === false ) {
+						// 						$navreveal.css("text-align", "center");
+						// 						$navreveal.css("text-indent", "0");
+						// 						$navreveal.css("font-size", meanMenuCloseSize);
+						// 						jQuery('.mean-nav ul:first').slideDown();
+						// 						menuOn = true;
+						// 				} else {
+						// 					jQuery('.mean-nav ul:first').slideUp();
+						// 					menuOn = false;
+						// 				}
+						// 					$navreveal.toggleClass("meanclose");
+						// 					meanInner();
+						// 					jQuery(removeElements).addClass('mean-remove');
+						// 			});
+
+						// 			// for one page websites, reset all variables...
+						// 			if ( onePage ) {
+						// 				jQuery('.mean-nav ul > li > a:first-child').on( "click" , function () {
+						// 					jQuery('.mean-nav ul:first').slideUp();
+						// 					menuOn = false;
+						// 					jQuery($navreveal).toggleClass("meanclose").html(meanMenuOpen);
+						// 				});
+						// 			}
+						// 	} else {
+						// 		meanOriginal();
+						// 	}
+						// };
 
 						if (!isMobile) {
 								// reset menu on resize above meanScreenWidth
