@@ -195,9 +195,9 @@
                 </li>
                 <li><a href="">Marketing <span><i class="fas fa-angle-down"></i></span></a>
                     <ul class="sub-menu">
-                        <li><a href="service.php">SEO</a></li>
-                        <li><a href="service-details.php">SMO</a></li>
-                        <li><a href="service-details.php">Marketing Automation</a></li>
+					<li><a href="seo.php">SEO</a></li>
+					<li><a href="smo.php">SMO</a></li>
+					<li><a href="marketing-automation.php">Marketing Automation</a></li>
                     </ul>
                 </li>
 				<li><a href="">Advertising<span><i class="fas fa-angle-down"></i></span></a>
