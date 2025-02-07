@@ -137,11 +137,11 @@
                         </li>
 						<li><a href="#blog">Advertising<span><i class="fas fa-angle-down"></i></span></a>
 						<ul class="sub-menu">
-							<li><a href="blog-grid.php">Google Ads</a></li>
-							<li><a href="blog-list.php">Facebook Ads</a></li>
-							<li><a href="blog-details.php">Youtube Ads</a></li>
-							<li><a href="blog-2colum.php">X Twitter Ads</a></li>
-							<li><a href="blog-2colum.php">Instagram Ads</a></li>
+							<li><a href="google-ads.php">Google Ads</a></li>
+							<li><a href="facebook-ads.php">Facebook Ads</a></li>
+							<li><a href="youtube-ads.php">Youtube Ads</a></li>
+							<li><a href="X-twitter-ads.php">X Twitter Ads</a></li>
+							<li><a href="instagram-ads.php">Instagram Ads</a></li>
 						</ul>
 					</li>
 					<li><a href="#blog">Creations<span><i class="fas fa-angle-down"></i></span></a>
@@ -150,7 +150,7 @@
 							<li><a href="web-development.php">Website Development</a></li>
 							<li><a href="graphic-videos.php">Graphic & Videos</a></li>
 							<li><a href="resume-making.php">Resume Making</a></li>
-							<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
+							
 						</ul>
 					</li>
 					<li><a href="#">Solution<span><i class="fas fa-angle-down"></i></span></a>
@@ -201,20 +201,20 @@
                 </li>
 				<li><a href="#blog">Advertising<span><i class="fas fa-angle-down"></i></span></a>
 						<ul class="sub-menu">
-							<li><a href="blog-grid.php">Google Ads</a></li>
-							<li><a href="blog-list.php">Facebook Ads</a></li>
-							<li><a href="blog-details.php">Youtube Ads</a></li>
-							<li><a href="blog-2colum.php">X Twitter Ads</a></li>
-							<li><a href="blog-2colum.php">Instagram Ads</a></li>
+							<li><a href="google-ads.php">Google Ads</a></li>
+							<li><a href="facebook-ads.php">Facebook Ads</a></li>
+							<li><a href="youtube-ads.php">Youtube Ads</a></li>
+							<li><a href="X-twitter-ads.php">X Twitter Ads</a></li>
+							<li><a href="instagram-ads.php">Instagram Ads</a></li>
 						</ul>
 					</li>
 					<li><a href="#blog">Creations<span><i class="fas fa-angle-down"></i></span></a>
 						<ul class="sub-menu">
-							<li><a href="blog-grid.php">Content Writing</a></li>
-							<li><a href="blog-list.php">Website Development</a></li>
-							<li><a href="blog-details.php">Graphic & Videos</a></li>
-							<li><a href="blog-2colum.php">Resume Making</a></li>
-							<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
+							<li><a href="content-writing.php">Content Writing</a></li>
+							<li><a href="web-development.php">Website Development</a></li>
+							<li><a href="graphic-videos.php">Graphic & Videos</a></li>
+							<li><a href="resume-making.php">Resume Making</a></li>
+							
 						</ul>
 					</li>
 					<li><a href="#">Solution<span><i class="fas fa-angle-down"></i></span></a>
@@ -227,15 +227,15 @@
                         </li>
                         <li><a href="">Services <span><i class="fas fa-angle-down"></i></span></a>
                         <ul class="sub-menu">
-                            <li><a href="">Saas based software</a></li>
-                            <li><a href="">Android App</a></li>
-                            <li><a href="">Ios App</a></li>
-                            <li><a href="">E-commerce</a></li>
-                            <li><a href="">CMS Website</a></li>
+                            <li><a href="saas-based-software.php">Saas based software</a></li>
+                            <li><a href="android-app.php">Android App</a></li>
+                            <li><a href="ios.php">Ios App</a></li>
+                            <li><a href="e-commerce.php">E-commerce</a></li>
+                            <li><a href="cms-website.php">CMS Website</a></li>
 
                         </ul>
                         </li>
-                <li><a href="contact-us.php">Contact Us</a></li>
+                        <li><a href="contact-us.php">Contact Us</a></li>
             </ul>
         </nav>
     </div>
