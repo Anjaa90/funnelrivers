@@ -968,7 +968,29 @@ button {
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="contact-form-box style-two">
-							                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+							<form action="index.php" method="POST" id="funnelrivers-form">
+								<h2>For any inquiries, contact us</h2>
+
+								<input type="text" name="name" placeholder="Enter your Name" required>
+
+								<input type="email" name="email" placeholder="Enter your Email" required>
+
+								<input type="tel" name="phone" placeholder="Enter your Phone Number">
+
+								<select name="service" required>
+									<option value="" disabled selected>Select a Service</option>
+									<option value="saas">SaaS Based Software</option>
+									<option value="android">Android App</option>
+									<option value="ios">iOS App</option>
+									<option value="ecommerce">E-Commerce</option>
+									<option value="cms">CMS Website</option>
+								</select>
+
+								<textarea name="message" placeholder="Enter your Message" required></textarea>
+
+								<button type="submit">Submit Now <span><i
+											class="fas fa-check-square"></i></span></button>
+							</form>
 
 							<div id="status"></div>
 						</div>

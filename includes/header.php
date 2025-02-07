@@ -146,10 +146,10 @@
 					</li>
 					<li><a href="#blog">Creations<span><i class="fas fa-angle-down"></i></span></a>
 						<ul class="sub-menu">
-							<li><a href="blog-grid.php">Content Writing</a></li>
-							<li><a href="blog-list.php">Website Development</a></li>
-							<li><a href="blog-details.php">Graphic & Videos</a></li>
-							<li><a href="blog-2colum.php">Resume Making</a></li>
+							<li><a href="content-writing.php">Content Writing</a></li>
+							<li><a href="web-development.php">Website Development</a></li>
+							<li><a href="graphic-videos.php">Graphic & Videos</a></li>
+							<li><a href="resume-making.php">Resume Making</a></li>
 							<!-- <li><a href="blog-2colum.html">Instagram Ads</a></li> -->
 						</ul>
 					</li>
