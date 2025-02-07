@@ -21,14 +21,19 @@ textarea {
 
 /* Submit button */
 button {
-   
-    color: ;
+	background-color: #ffffff; /* Color on hover */
+  	color: #ff5733; /* Change text color for contrast */
+  	border: 2px solid #ff5733; /* Optional: add a border for better visibility */
     padding: 10px;
     width: 100%;
-    border: none;
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
+}
+button:hover {
+	background-color:rgb(255, 87, 51); /* Color on hover */
+  color:rgb(255, 255, 255); /* Change text color for contrast */
+  border: 2px solid #ff5733; /* Optional: add a border for better visibility */
 }
 
 

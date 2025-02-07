@@ -26,7 +26,43 @@
 <!--==================================================-->
 <!-- End funnelrivers slider Area -->
 <!--==================================================-->
+<style>
+	input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
 
+/* Textarea styling */
+textarea {
+    height: 100px;
+    resize: none;
+}
+
+/* Submit button */
+button {
+	background-color: #ffffff; /* Color on hover */
+  	color: #ff5733; /* Change text color for contrast */
+  	border: 2px solid #ff5733; /* Optional: add a border for better visibility */
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover {
+	background-color:rgb(255, 87, 51); /* Color on hover */
+  color:rgb(255, 255, 255); /* Change text color for contrast */
+  border: 2px solid #ff5733; /* Optional: add a border for better visibility */
+}
+
+
+
+
+</style>
 <!--==================================================-->
 <!-- Start funnelrivers contact us Area -->
 <!--==================================================-->
@@ -82,67 +118,38 @@
 				</div>
 			</div>
 			<div class="col-lg-8 col-md-6 col-sm-12">
-				<div class="row">
+			<div class="row">
 					<div class="col-lg-12">
-					    <div class="contact-form-box style-two">	
-							<form action="https://formspree.io/f/myyleorq" method="POST" id="funnelrivers-form">
-								<h4>For any inquiries relating to my Retail and Leadership Programs</h4>
-								<div class="row">
-									<div class="col-lg-6 col-md-6 col-sm-12">
-										<div class="form-title">
-											<p>Name (required)</p>
-										</div>
-										<div class="from-box">
-											<input type="text" name="name" placeholder="Your Name*">
-										</div>
-									</div>
-									<div class="col-lg-6 col-md-6 col-sm-12">
-										<div class="form-title">
-											<p>E-Mail Address (required)</p>
-										</div>
-										<div class="from-box">
-											<input type="text" name="mail" placeholder="Your Mail*">
-										</div>
-									</div>
-									<div class="col-lg-6 col-md-6 col-sm-12">
-										<div class="form-title">
-											<p>Phone No. (optional)</p>
-										</div>
-										<div class="from-box">
-											<input type="text" name="phone" placeholder="Phone No.">
-										</div>
-									</div>
-									<div class="col-lg-6 col-md-6 col-sm-12">
-										<div class="form-title">
-											<p>Service (required)</p>
-										</div>
-										<div class="from-box">
-											<select name="Select-Service" id="Select-Service">
-												<option value="Phone No">Select Service</option>
-												<option value="name">Your Name*</option>
-												<option value="Your Mail">Your Mail*</option>
-												<option value="Phone No.">Phone No.</option>
-												<option value="Subject">Subject</option>
-											</select>
-										</div>
-									</div>
-									<div class="col-lg-12">
-										<div class="form-title">
-											<p>Your Message</p>
-										</div>
-										<div class="from-box">
-											<textarea name="massage" id="massage" placeholder="Massage*"></textarea>
-										</div>									
-									</div>
-								</div>
-								<div class="from-box1 pt-35">
-									<button type="submit">Submit Now <span><i class="fas fa-check-square"></i></span></button>
-								</div>
+						<div class="contact-form-box style-two">
+							<form action="index.php" method="POST" id="funnelrivers-form">
+								<h2>For any inquiries relating to my Retail and Leadership Programs</h2>
+
+								<input type="text" name="name" placeholder="Enter your Name" required>
+
+								<input type="email" name="email" placeholder="Enter your Email" required>
+
+								<input type="tel" name="phone" placeholder="Enter your Phone Number">
+
+								<select name="service" required>
+									<option value="" disabled selected>Select a Service</option>
+									<option value="saas">SaaS Based Software</option>
+									<option value="android">Android App</option>
+									<option value="ios">iOS App</option>
+									<option value="ecommerce">E-Commerce</option>
+									<option value="cms">CMS Website</option>
+								</select>
+
+								<textarea name="message" placeholder="Enter your Message" required></textarea>
+
+								<button type="submit">Submit Now <span><i
+											class="fas fa-check-square"></i></span></button>
 							</form>
+
 							<div id="status"></div>
 						</div>
 					</div>
 				</div>
+
 			</div>
 		</div>
 	</div>
