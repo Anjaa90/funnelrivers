@@ -89,7 +89,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="footer-bottom-menu">
-					<p>Terms & Condition | Privacy Policy</p>
+					<p> <a href="terms-condition.php" style="text-decoration: none; color:#fff;">Terms & Condition</a> | <a href="privacy-policy.php" style="text-decoration: none; color:#fff;">Privacy Policy</a></p>
 					
 				</div>
 			</div>
