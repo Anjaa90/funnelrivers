@@ -27,7 +27,7 @@
 <!--==================================================-->
 
 
-<div class="container mt-5 mb-5 text-center">
+<div class="container text-center" style="padding:10%">
     <h1>Coming Soon</h1>
 </div>
 
