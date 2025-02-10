@@ -23,15 +23,12 @@
 <!--==================================================-->
 <!-- Start funnelrivers video Area -->
 <!--==================================================-->
-<div class="video-area">
+
 	<div class="container">
 		<div class="row video-bg">
 			<div class="col-lg-8">
 				<div class="rs-video style-three">
-					<!-- <div class="animate-border">
-						<a class="video-vemo-icon2 venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg">
-						<i class="fas fa-play"></i></a>
-					</div> -->
+					
 				</div>
 			</div>
 			<div class="col-lg-4">
@@ -46,7 +43,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+
 <!--==================================================-->
 <!-- End funnelrivers video Area -->
 <!--==================================================-->
@@ -175,5 +172,7 @@
 		</div>
 	</div>
 </div>
+
+
 
 <?php include('includes/footer.php'); ?>

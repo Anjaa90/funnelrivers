@@ -148,6 +148,15 @@
 		</div>
 	</div>
 </div>
+
+<style>
+.dreamit-single-team-box .single-team-thumb img {
+    width: 100%;  /* Ensures responsiveness */
+    height: 150px;  /* Adjust based on your design */
+    object-fit: contain; /* Ensures the whole image is visible */
+}
+
+</style>
 <!--==================================================-->
 <!--End dreamit team Area -->
 <!--==================================================-->
