@@ -185,7 +185,7 @@ button:hover {
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="dreamit-about-thumb-box">
 					<div class="dreamit-about-thumb-3">
-						<img loading="lazy" src="assets/images/about/about2.png" alt="">
+						<img loading="lazy" src="assets/images/about/about2.webp" alt="">
 					</div>
 				</div>
 				<div class="about-shape-thumb">
@@ -671,7 +671,7 @@ button:hover {
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource/All-in-One Mastery.png" alt="" />
+							<img loading="lazy" src="assets\images\resource/All-in-One Mastery.webp" alt="" />
 						</div>
 						<div class="single_portfolio_content">
 							<div class="single-portfolio-content-inner">
