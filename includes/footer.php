@@ -56,7 +56,7 @@
 						</div>
 						<div class="footer-socail-info">
 							<p>
-								<span>+91-9923707569</span>
+								<span><a href="tel:+919923707569" style="color:white;">+91-9923707569</a></span>
 							</p>
 						</div>
 					</div>
@@ -65,7 +65,7 @@
 							<i class="icon flaticon-email"></i>
 						</div>
 						<div class="footer-socail-info">
-							<p>dipti@funnelrivers.com</p>
+							<p><a href="mailto:dipti@funnelrivers.com" style="color:white;">dipti@funnelrivers.com</a></p>
 						</div>
 					</div>
 					<div class="footer-inner">
