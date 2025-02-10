@@ -15,11 +15,11 @@
 					<div class="breatcumb-title">
 						<h2>career</h2>
 					</div>
-					<!-- <div class="breatcumb-content-text">
+					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Blog list</span></li>
+						<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">About us</a> <i class="fas fa-angle-double-right"></i></span> <span>career</span></li>
 						</ul>
-					</div>	 -->
+					</div>	
 				</div>
 			</div>
 		</div>
