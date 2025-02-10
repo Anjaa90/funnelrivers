@@ -62,7 +62,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>SEO</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">Marketing</a> <i class="fas fa-angle-double-right"></i> <span>SEO</span></li>
 						</ul>
 					</div>	
 				</div>
