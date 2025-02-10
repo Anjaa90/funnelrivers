@@ -8,11 +8,11 @@
 					<div class="breatcumb-title">
 						<h2>Testimonial</h2>
 					</div>
-					<!-- <div class="breatcumb-content-text">
+					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Team Member</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Testimonial</span></li>
 						</ul>
-					</div>	 -->
+					</div>	
 				</div>
 			</div>
 		</div>
