@@ -137,6 +137,8 @@ button:hover {
 									<option value="ios">iOS App</option>
 									<option value="ecommerce">E-Commerce</option>
 									<option value="cms">CMS Website</option>
+									<option value="cms">Others</option>
+
 								</select>
 
 								<textarea name="message" placeholder="Enter your Message" required></textarea>
