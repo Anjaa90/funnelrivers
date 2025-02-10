@@ -138,7 +138,7 @@
 
                     <p><b>Transform Your Business with FunnelRivers iOS App Solutions!
                         </b></p>
-                    <p>Innovate and grow with our expert iOS development services. <b>Contact us now to get started!
+                    <p>Innovate and grow with our expert iOS development services. <a href="contact-us.php" class="contact">Contact us</a> <b>now to get started!
                         </b></p>
                 </div>
             </div>

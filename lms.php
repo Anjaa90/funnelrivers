@@ -162,7 +162,7 @@
 
 								</b>
 							</p>
-							<p>Streamline training and drive growth with our comprehensive LMS solutions.<b>Contact us
+							<p>Streamline training and drive growth with our comprehensive LMS solutions.<a href="contact-us.php" class="contact">Contact us</a> <b>
 									now to get started!</b>
 							</p>
 						</div>

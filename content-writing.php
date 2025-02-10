@@ -83,7 +83,7 @@
 					<div class="col-lg-12 col-sm-12">
 						<div class="dreamit-single-service-box">
 							<div class="dreamit-sigle-tmumb">
-								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
+								<img loading="lazy" src="assets\images\Creations\contentwriting.webp" alt="Content Writing">
 							</div>
 							
 						</div>

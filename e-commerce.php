@@ -140,8 +140,8 @@
                             <br>
                             <p><b>Launch & Grow Your Online Store with FunnelRivers!
                                 </b></p>
-                            <p>Take your e-commerce business to the next level with our expert solutions. <b>Contact us
-                                    now to get started!</b>
+                            <br>Take your e-commerce business to the next level with our expert solutions. </br>
+                            <a href="contact-us.php" class="contact">Contact us</a> <b>now to get started!</b>
                             </p>
                         </div>
                     </div>

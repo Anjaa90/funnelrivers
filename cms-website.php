@@ -156,8 +156,8 @@
                             <p><b>Build & Manage Your Website with Ease – FunnelRivers CMS!
 
                                 </b></p>
-                            <p>Take control of your digital presence with our expert CMS solutions. <b>Contact us
-                                    now to get started!</b>
+                            <p>Take control of your digital presence with our expert CMS solutions. </br>
+                            <a href="contact-us.php" class="contact">Contact us</a> <b>now to get started!</b>
                             </p>
                         </div>
                     </div>

@@ -160,7 +160,7 @@
 							<p>Funnelriver’s Project Management services, businesses can ensure effective execution,
 								operational excellence, and successful project outcomes.
 							</p>
-							<p><b>Contact us now to get started </b>
+							<p><a href="contact-us.php" class="contact">Contact us</a><b> now to get started </b>
 							</p>
 						</div>
 

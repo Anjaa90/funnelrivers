@@ -135,8 +135,7 @@
 						<div>
 							<p><b>Upgrade Your Business with FunnelRivers CRM Today!</b>
 							</p>
-							<p>Streamline operations and drive growth with our comprehensive CRM solutions. <b>Contact
-									us now to get started!</b>
+							<p>Streamline operations and drive growth with our comprehensive CRM solutions. <a href="contact-us.php" class="contact">Contact us</a> <b>now to get started!</b>
 							</p>
 						</div>
 

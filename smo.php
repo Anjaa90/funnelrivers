@@ -85,7 +85,7 @@
 					<div class="col-lg-12 col-sm-12">
 						<div class="dreamit-single-service-box">
 							<div class="dreamit-sigle-tmumb">
-								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
+								<img loading="lazy" src="assets\images\resource\SMO.webp" alt="SMO">
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
@@ -120,7 +120,7 @@
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-thumb">
-							<img loading="lazy" src="assets/images/resource/img-2.png" alt="">
+							<img loading="lazy" src="assets\images\resource\SMOMini.webp" alt="SMO">
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">

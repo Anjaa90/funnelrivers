@@ -147,8 +147,7 @@
 							<p><b>Upgrade Your Business with FunnelRivers HRMS Today!
 								</b>
 							</p>
-							<p>Streamline operations and drive growth with our comprehensive HRMS solutions. <b>Contact
-									us now to get started!</b>
+							<p>Streamline operations and drive growth with our comprehensive HRMS solutions. <a href="contact-us.php" class="contact">Contact us</a> <b>now to get started!</b>
 							</p>
 						</div>
 
