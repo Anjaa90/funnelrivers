@@ -61,20 +61,20 @@ button:hover {
 				</div>
 				<div class="slider-shape">
 					<div class="slider-shape-inner4 bounce-animate3">
-						<img loading="lazy" src="assets/images/slider/shape.png" alt="">
+						<img loading="lazy" src="assets/images/slider/shape.webp" alt="">
 					</div>
 					<div class="slider-shape-inner5 bounce-animate">
-						<img loading="lazy" src="assets/images/slider/shape9.png" alt="">
+						<img loading="lazy" src="assets/images/slider/shape9.webp" alt="">
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-5 col-md-6 col-sm-12">
 				<div class="dreamit-slider-thumb-2">
-					<img loading="lazy" src="assets\images\slider\happy girl.png" alt="">
+					<img loading="lazy" src="assets\images\slider/happy girl.webp" alt="">
 				</div>
 				<div class="circles-thumb">
 					<div class="circle-shape-thumb">
-						<img loading="lazy" src="assets/images/slider/round1.png" alt="">
+						<img loading="lazy" src="assets/images/slider/round1.webp" alt="">
 					</div>
 				</div>
 			</div>
@@ -86,10 +86,10 @@ button:hover {
 			 		<img loading="lazy" src="assets/images/slider/shape2.png" alt=""> -->
 			</div>
 			<div class="slider-shape-inner3 bounce-animate">
-				<img loading="lazy" src="assets/images/slider/shape5.png" alt="">
+				<img loading="lazy" src="assets/images/slider/shape5.webp" alt="">
 			</div>
 			<div class="slider-shape-inner6 bounce-animate">
-				<img loading="lazy" src="assets/images/slider/round2.png" alt="">
+				<img loading="lazy" src="assets/images/slider/round2.webp" alt="">
 			</div>
 		</div>
 	</div>
@@ -195,7 +195,7 @@ button:hover {
 				</div>
 				<div class="about-shape-thumb">
 					<div class="about-shape-img2 bounce-animate4">
-						<img loading="lazy" src="assets/images/about/shape2.png" alt="">
+						<img loading="lazy" src="assets/images/about/shape2.webp" alt="">
 					</div>
 				</div>
 			</div>
@@ -671,7 +671,7 @@ button:hover {
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\All-in-One Mastery.png" alt="" />
+							<img loading="lazy" src="assets\images\resource/All-in-One Mastery.png" alt="" />
 						</div>
 						<div class="single_portfolio_content">
 							<div class="single-portfolio-content-inner">
@@ -690,7 +690,7 @@ button:hover {
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
 							<img loading="lazy"
-								src="assets\images\resource\Funnel Reverse_Email marketing specialist.png"
+								src="assets\images\resource/Funnel Reverse_Email marketing specialist.webp"
 								alt="Email Marketing Specialist" />
 						</div>
 						<div class="single_portfolio_content-2">
@@ -709,7 +709,7 @@ button:hover {
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_Startegic Fusion.png"
+							<img loading="lazy" src="assets\images\resource/Funnel Reverse_Startegic Fusion.webp"
 								alt="Strategic Fusion" />
 						</div>
 						<div class="single_portfolio_content-3">
@@ -728,7 +728,7 @@ button:hover {
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_ Data driven precision.png"
+							<img loading="lazy" src="assets\images\resource/Funnel Reverse_ Data driven precision.webp"
 								alt="Data-Driven Precision" />
 						</div>
 						<div class="single_portfolio_content-4">
@@ -747,7 +747,7 @@ button:hover {
 				<div class="single_portfolio_box">
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
-							<img loading="lazy" src="assets\images\resource\Funnel Reverse_ Creative Narrative.png"
+							<img loading="lazy" src="assets\images\resource/Funnel Reverse_ Creative Narrative.webp"
 								alt="Creative Narratives" />
 						</div>
 						<div class="single_portfolio_content-4">
@@ -767,7 +767,7 @@ button:hover {
 					<div class="single_portfolio_inner">
 						<div class="single_portfolio_thumb">
 							<img loading="lazy"
-								src="assets\images\resource\Funnel Reverse_ client Centric Collebration.png"
+								src="assets\images\resource/Funnel Reverse_ client Centric Collebration.webp"
 								alt="Client-Centric Collaboration" />
 						</div>
 						<div class="single_portfolio_content-4">
@@ -967,7 +967,7 @@ button:hover {
 		<div class="row">
 			<div class="col-lg-6 ">
 				<div class="subscribe-single-thumb">
-					<img loading="lazy" src="assets\images\resource\Contact-image-w.png" alt="contact">
+					<img loading="lazy" src="assets\images\resource/Contact-image-w.webp" alt="contact">
 				</div>
 			</div>
 			<div class=" col-md-6 ">
