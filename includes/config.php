@@ -110,7 +110,7 @@ $pages = [
         "title" => "Privacy Policy | FunnelRivers - Your Data, Our Commitment",
         "description" => "Read FunnelRivers' Privacy Policy to learn how we collect, use & protect your data. Your privacy and security are our top priorities."
     ],
-    "terms.php" => [
+    "terms-condition.php" => [
         "title" => "Terms & Conditions | FunnelRivers - Policies & Guidelines",
         "description" => "Read FunnelRivers' terms & conditions to understand our policies, user rights, and service guidelines for a secure and transparent experience."
     ],
