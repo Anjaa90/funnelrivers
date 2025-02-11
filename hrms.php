@@ -169,7 +169,7 @@
 				</div>
 				<div class="widget-service-thumb-box">
 					<div class="wedget-service-thumb">
-						<img loading="lazy" src="assets\images\Creations\website-development-1-image-370x500.png"
+						<img loading="lazy" src="assets\images/Solution/HRMSicon.webp"
 							alt="">
 
 					</div>
