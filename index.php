@@ -324,6 +324,16 @@ button:hover {
 <!--==================================================-->
 <!-- Start dreamit service Area -->
 <!--==================================================-->
+<style>
+.dreamit-sinlge-service-box3,
+.dreamit-sinlge-service-box4,
+.dreamit-sinlge-service-box5,
+.dreamit-sinlge-service-box6 {
+    height: 350px; /* Adjust the height as needed */
+}
+
+
+</style>
 <div class="service-area style-five">
 	<div class="container">
 		<div class="row">
@@ -351,8 +361,7 @@ button:hover {
 								</div>
 								<div class="dreamit-service-title1">
 									<h2>Search Engine Optimization</h2>
-									<p class="responsive">Enthusiastically brand is a positioning scenarios with team
-										driven best</p>
+									<p class="responsive">Ranks higher, get more traffics SEO boosts visibility with expert strategies.</p>
 								</div>
 							</div>
 							<div class="dreamit-icon1">
@@ -370,7 +379,7 @@ button:hover {
 								</div>
 								<div class="dreamit-service-title2">
 									<h2>Social Media Optimization</h2>
-									<p>Enthusiastically brand is a positioning scenarios with team driven best</p>
+									<p>Funnel Rivers helps you engage, grow, and convert.</p>
 								</div>
 							</div>
 							<div class="dreamit-icon2">
@@ -387,13 +396,12 @@ button:hover {
 									<i class="fas fa-robot"></i>
 								</div>
 								<div class="dreamit-service-title3">
-									<h2>Marketing
-										Automation</h2>
-									<p>Enthusiastically brand is a positioning scenarios with team driven best</p>
+									<h2>WEBSITE DEVELOPMENT</h2>
+									<p>Funnel Rivers creates fast, engaging, and conversion-driven websites.</p>
 								</div>
 							</div>
 							<div class="dreamit-icon3">
-								<a href="marketing-automation.php"><i class="fas fa-angle-double-right"></i></a>
+								<a href="web-development.php"><i class="fas fa-angle-double-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -406,12 +414,12 @@ button:hover {
 									<i class="fas fa-envelope"></i>
 								</div>
 								<div class="dreamit-service-title4">
-									<h2>Email Marketing</h2>
-									<p>Enthusiastically brand is a positioning scenarios with team driven best</p><br>
+									<h2>CRM SOLUTIONS</h2>
+									<p>CRM simplifies sales, automates tasks, and strengthens customer relationships.</p><br>
 								</div>
 							</div>
 							<div class="dreamit-icon4">
-								<a href="#"><i class="fas fa-angle-double-right"></i></a>
+								<a href="crm.php"><i class="fas fa-angle-double-right"></i></a>
 							</div>
 						</div>
 					</div>
