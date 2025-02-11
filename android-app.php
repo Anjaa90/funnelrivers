@@ -41,7 +41,7 @@
                     <div class="col-12">
                         <div class="funnelriverss-single-service-box">
                             <div class="funnelriverss-sigle-tmumb">
-                                <img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
+                                <img loading="lazy" src="assets/images/Services/Andriodapp.webp" alt="">
                             </div>
                             <div class="em-service-content">
                                 <div class="service-page-title">
@@ -86,7 +86,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <div class="service-details-thumb">
-                            <img loading="lazy" src="assets/images/resource/img-2.png" alt="">
+                            <img loading="lazy" src="assets/images/Services/Andriodappmini.webp" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
@@ -112,20 +112,20 @@
                             <div class="features-section">
 
                                 <ul class="feature-list">
-                                    <li><i class="fas fa-check"></i> <b>Data-Driven Results:</b> Constant analysis and
-                                        optimization to ensure the best possible app performance.</li>
-                                    <li><i class="fas fa-check"></i> <b>Custom Android App Development:</b> Developing
+                                    <p><i class="fas fa-check"></i> <b>Data-Driven Results:</b> Constant analysis and
+                                        optimization to ensure the best possible app performance.</p>
+                                    <p><i class="fas fa-check"></i> <b>Custom Android App Development:</b> Developing
                                         fully custom Android applications that reflect your brand’s identity and cater
-                                        to your target audience.</li>
-                                    <li><i class="fas fa-check"></i> <b>App Maintenance & Updates:</b> Offering ongoing
+                                        to your target audience.</p>
+                                    <p><i class="fas fa-check"></i> <b>App Maintenance & Updates:</b> Offering ongoing
                                         support, regular updates, and performance improvements to keep your app running
-                                        smoothly.</li>
-                                    <li><i class="fas fa-check"></i> <b>SEO-Optimized Android Apps:</b> Ensuring your
+                                        smoothly.</p>
+                                    <p><i class="fas fa-check"></i> <b>SEO-Optimized Android Apps:</b> Ensuring your
                                         app is SEO-friendly for better discoverability on app stores and improved
-                                        organic traffic.</li>
-                                    <li><i class="fas fa-check"></i> <b>UI/UX Design:</b> Designing intuitive and
+                                        organic traffic.</p>
+                                    <p><i class="fas fa-check"></i> <b>UI/UX Design:</b> Designing intuitive and
                                         visually appealing Android apps that provide a seamless user experience across
-                                        devices.</li>
+                                        devices.</p>
                                 </ul>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="widget-service-thumb-box">
                     <div class="wedget-service-thumb">
-                        <img loading="lazy" src="assets/images/Creations/website-development-1-image-370x500.png"
+                        <img loading="lazy" src="assets/images/Services/AndroidAppicon.webp"
                             alt="">
                     </div>
                 </div>
@@ -161,6 +161,37 @@
 </div>
 <!--==================================================-->
 <!-- End funnelriverss service Area -->
+<!--==================================================-->
+<!--==================================================-->
+<!-- Start funnelrivers subscribe Area -->
+<!--==================================================-->
+<div class="subscribe-area">
+	<div class="container">
+		<div class="row subscribe-bg">
+			<div class="col-lg-6 col-md-6 col-sm-12">
+				<div class="subscribe-content white">
+					<div class="subscribe-title">
+						<h1>Subscribe our newsletter</h1>
+						<p>Please Subscribe our news letter and and get update.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12">
+			    <div class="contact-form-box">	
+					<form id="contact_form" action="https://html.funnelriverssolution.net/funnelrivers/digital-agency/mail.php" method="POST">
+						<div class="from-box">
+							<input type="text" placeholder="Enter E-Mail Address">
+							<button>Subscribe</button>
+						</div>
+					</form>
+					<p class="form-message"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- End funnelrivers subscribe Area -->
 <!--==================================================-->
 
 

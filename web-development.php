@@ -57,11 +57,11 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>WEB DEVELOPMENT</h2>
+						<h2>Website DEVELOPMENT</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">creations</a> <i class="fas fa-angle-double-right"></i></span> <span>WEB DEVELOPMENT</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">creations</a> <i class="fas fa-angle-double-right"></i></span> <span>Website DEVELOPMENT</span></li>
 						</ul>
 					</div>	
 				</div>

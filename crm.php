@@ -40,7 +40,7 @@
 					<div class="col-lg-12 col-sm-12">
 						<div class="funnelriverss-single-service-box">
 							<div class="funnelriverss-sigle-tmumb">
-								<img loading="lazy" src="assets/images/resource/img-1.jpg" alt="">
+								<img loading="lazy" src="assets/images/Solution/CRM.webp" alt="">
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
@@ -90,7 +90,7 @@
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
 						<div class="service-details-thumb">
-							<img loading="lazy" src="assets/images/resource/img-2.png" alt="">
+							<img loading="lazy" src="assets/images/Solution/CRMMini.webp" alt="">
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12">
@@ -168,6 +168,37 @@
 <!--==================================================-->
 <!-- End funnelriverss service Area -->
 
+<!--==================================================-->
+<!-- Start funnelrivers subscribe Area -->
+<!--==================================================-->
+<div class="subscribe-area">
+	<div class="container">
+		<div class="row subscribe-bg">
+			<div class="col-lg-6 col-md-6 col-sm-12">
+				<div class="subscribe-content white">
+					<div class="subscribe-title">
+						<h1>Subscribe our newsletter</h1>
+						<p>Please Subscribe our news letter and and get update.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12">
+			    <div class="contact-form-box">	
+					<form id="contact_form" action="https://html.funnelriverssolution.net/funnelrivers/digital-agency/mail.php" method="POST">
+						<div class="from-box">
+							<input type="text" placeholder="Enter E-Mail Address">
+							<button>Subscribe</button>
+						</div>
+					</form>
+					<p class="form-message"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- End funnelrivers subscribe Area -->
+<!--==================================================-->
 
 
 <?php include('includes/footer.php'); ?>
