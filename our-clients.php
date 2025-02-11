@@ -10,7 +10,7 @@
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>Team Member</h2>
+						<h2>Our Clients</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
@@ -35,7 +35,7 @@
 			<div class="col-lg-12">
 				<div class="dreamit-section-title style-two text-center">
 					<h5>OUR CLIENTS</h5>
-					<h1>MEET THE EXPERT <span>TEAM</span></h1>
+					<h1>MEET OUR <span>CLIENTS</span></h1>
 				</div>
 			</div>
 		</div>

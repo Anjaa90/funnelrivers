@@ -50,7 +50,7 @@ button:hover {
 						mastery, SEO supremacy, compelling content, and seamless conversion optimization. Unlock success
 						effortlessly.</p>
 					<div class="slider-button">
-						<a href="#">LEARN MORE <i class="flaticon-right-arrow"></i></a>
+						<a href="contact-us.php">Get Started Now<i class="flaticon-right-arrow"></i></a>
 					</div>
 					<div class="rs-video style-four">
 						<!-- <div class="animate-border">
@@ -253,7 +253,7 @@ button:hover {
 						</div>
 					</div>
 					<div class="about-button2">
-						<a href="#">Learn More <i class="flaticon-right-arrow"></i></a>
+						<a href="contact-us.php">Join Us Now<i class="flaticon-right-arrow"></i></a>
 					</div>
 				</div>
 			</div>
@@ -336,7 +336,7 @@ button:hover {
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="service-button text-right pt-5">
-					<a href="#">All Services <i class="flaticon-right-arrow"></i></a>
+					<a href="seo.php">All Services <i class="flaticon-right-arrow"></i></a>
 				</div>
 			</div>
 		</div>
@@ -356,7 +356,7 @@ button:hover {
 								</div>
 							</div>
 							<div class="dreamit-icon1">
-								<a href="#"><i class="fas fa-angle-double-right"></i></a>
+								<a href="seo.php"><i class="fas fa-angle-double-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -374,7 +374,7 @@ button:hover {
 								</div>
 							</div>
 							<div class="dreamit-icon2">
-								<a href="#"><i class="fas fa-angle-double-right"></i></a>
+								<a href="smo.php"><i class="fas fa-angle-double-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -393,7 +393,7 @@ button:hover {
 								</div>
 							</div>
 							<div class="dreamit-icon3">
-								<a href="#"><i class="fas fa-angle-double-right"></i></a>
+								<a href="marketing-automation.php"><i class="fas fa-angle-double-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -678,7 +678,7 @@ button:hover {
 								<h3><a href="#" f="portfolio-details.html">All-in-One Mastery</a></h3>
 								<p> Streamlining digital success.</p>
 								<div class="portfolio-icon">
-									<a href="#"><i class="fas fa-angle-double-right"></i></a>
+									<a href="google-ads.php"><i class="fas fa-angle-double-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -695,10 +695,10 @@ button:hover {
 						</div>
 						<div class="single_portfolio_content-2">
 							<div class="single-portfolio-content-inner-2">
-								<h3><a href="#" f="portfolio-details.html">Email Marketing Specialist</a></h3>
+								<h3><a href="#" f="portfolio-details.html">Social Media Marketing Specialist</a></h3>
 								<p>Niche-tailored solutions.</p>
 								<div class="portfolio-icon-2">
-									<a href="#"><i class="fas fa-angle-double-right"></i></a>
+									<a href="facebook-ads.php"><i class="fas fa-angle-double-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -717,7 +717,7 @@ button:hover {
 								<h3><a href="#" f="portfolio-details.html">Strategic Fusion</a></h3>
 								<p>Marketing, advertising, creative synergy.</p>
 								<div class="portfolio-icon-3">
-									<a href="#"><i class="fas fa-angle-double-right"></i></a>
+									<a href="content-writing.php"><i class="fas fa-angle-double-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -736,7 +736,7 @@ button:hover {
 								<h3><a href="#" f="portfolio-details.html">Data-Driven Precision</a></h3>
 								<p>Optimize, refine, maximize impact.</p>
 								<div class="portfolio-icon-4">
-									<a href="#"><i class="fas fa-angle-double-right"></i></a>
+									<a href="saas-based-software.php"><i class="fas fa-angle-double-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -755,7 +755,7 @@ button:hover {
 								<h3><a href="#" f="portfolio-details.html">Creative Narratives</a></h3>
 								<p>Memorable brand experiences.</p>
 								<div class="portfolio-icon-4">
-									<a href="#"><i class="fas fa-angle-double-right"></i></a>
+									<a href="web-development.php"><i class="fas fa-angle-double-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -775,7 +775,7 @@ button:hover {
 								<h3><a href="#" f="portfolio-details.html">Client-Centric Collaboration</a></h3>
 								<p>Tailored strategies for success.</p>
 								<div class="portfolio-icon-4">
-									<a href="#"><i class="fas fa-angle-double-right"></i></a>
+									<a href="crm.php"><i class="fas fa-angle-double-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -784,7 +784,8 @@ button:hover {
 			</div>
 			<div class="col-lg-12 col-md-6 col-sm-12">
 				<div class="portfolio-button text-center">
-					<a href="#">All Product <i class="flaticon-right-arrow"></i></a>
+					<h3>Transform Your Brand with FunnelRivers!</h3>
+					<a href="contact-us.php">Get Started Today<i class="flaticon-right-arrow"></i></a>
 				</div>
 			</div>
 		</div>
