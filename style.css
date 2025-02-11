@@ -5760,7 +5760,7 @@ span.fill.my-class2 {
 .single-team-thumb img {
     height: auto;
     width: 100%;
-    -webkit-filter: grayscale(100%);
+    -webkit-filter: grayscale(0%);
     transition: .5s;
 }
 .team-socail-icon {
@@ -5798,9 +5798,9 @@ span.fill.my-class2 {
 .team-title h3 {
     font-size: 24px;
 }
-.team-text p {
+/* .team-text p {
     color: #ED2921;
-}
+} */
 .team-icon a {
     display: inline-block;
     font-size: 16px;

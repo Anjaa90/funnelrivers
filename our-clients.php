@@ -40,7 +40,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-3 col-md-6 col-sm-12">
+			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img loading="lazy" src="https://vruhienviro.com/wp-content/uploads/2024/12/cropped-cropped-VRUHI-ENVIRO-LOGO-1-246x174.png" alt="">
@@ -57,7 +57,7 @@
 							</h3>
 						</div>
 						<div class="team-text">
-							<p>Helping local and growing businesses establish a strong online presence through digital marketing, web development, and branding.</p>
+							<p>Helping local and growing businesses establish a strong online presence through digital marketing, web development, and branding.</p><br>
 						</div>
 					</div>
 					<!-- <div class="team-icon">
@@ -67,7 +67,7 @@
 					</div> -->
 				</div>
 			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12">
+			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img loading="lazy" src="https://vruhisvillafarm.com/wp-content/uploads/2024/11/cropped-cropped-Vruhi_s_Villa-removebg-preview-1-162x97.png" alt="">
@@ -83,7 +83,7 @@
 							<h3>Startups</h3>
 						</div>
 						<div class="team-text">
-							<p>Supporting startups with brand development, digital marketing strategies, and website creation. <br><br><br><br></p>
+							<p>Supporting startups with brand development, digital marketing strategies, and website creation. <br><br><br></p>
 						</div>
 					</div>
 					<!-- <div class="team-icon">
@@ -93,7 +93,7 @@
 					</div> -->
 				</div>
 			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12">
+			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
 					<div class="single-team-thumb">
 						<img loading="lazy" src="assets\images\resource\our-clients1.png" alt="">
@@ -109,8 +109,8 @@
 							<h3>E-Commerce Brands</h3>
 						</div>
 						<div class="team-text">
-							<p>Empowering e-commerce businesses with advanced website solutions, product catalog integration, and digital marketing strategies. <br><br><br></p>
-						</div>
+							<p>Empowering e-commerce businesses with advanced website solutions, product catalog integration, and digital marketing strategies. <br></p>
+						</div><br>
 					</div>
 					<!-- <div class="team-icon">
 						<a href="#"><i class="far fa-envelope"></i> <span>Email</span></a>
@@ -119,9 +119,9 @@
 					</div> -->
 				</div>
 			</div>
-			<div class="col-lg-3 col-md-6 col-sm-12">
+			<div class="col-lg-6 col-md-6 col-sm-12">
 				<div class="dreamit-single-team-box">
-					<div class="single-team-thumb">
+					<div class="single-team-thumb"><br>
 						<img loading="lazy" src="https://earringa.com/wp-content/uploads/2024/06/cropped-Earringa-Logo-registered-1-99x99.png" alt="">
 						<!-- <div class="team-socail-icon">
 							<a href="#"><i class="fab fa-facebook-f"></i></a>
