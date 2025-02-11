@@ -329,7 +329,7 @@ button:hover {
 .dreamit-sinlge-service-box4,
 .dreamit-sinlge-service-box5,
 .dreamit-sinlge-service-box6 {
-    height: 350px; /* Adjust the height as needed */
+    height: 300px; /* Adjust the height as needed */
 }
 
 
