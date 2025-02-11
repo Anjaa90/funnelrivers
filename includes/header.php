@@ -16,7 +16,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" sizes="56x56" href="assets\images\fav-icon\funnelicon.png">
+	<link rel="icon" type="image/png" sizes="56x56" href="assets\images\fav-icon\funnelFavicon.webp">
 	<!-- bootstrap CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
 	<!-- carousel CSS -->
@@ -95,9 +95,9 @@
             <i class="fa-solid fa-envelope"></i> dipti@funnelrivers.com
         </div>
         <div class="social-icons">
-            <a href="#" class="text-white me-2"><i class="fa-brands fa-facebook"></i> &nbsp; | &nbsp;</a>
-            <a href="#" class="text-white me-2"><i class="fa-brands fa-x-twitter"></i> &nbsp; | &nbsp;</a>
-            <a href="#" class="text-white me-2"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://www.facebook.com/people/FunnelRivers/61557146642817/" class="text-white me-2"><i class="fa-brands fa-facebook"></i> &nbsp; | &nbsp;</a>
+            <a href="https://www.instagram.com/puradkardipti/" class="text-white me-2"><i class="fab fa-instagram"></i> &nbsp; | &nbsp;</a>
+            <a href="https://www.linkedin.com/company/funnelrivers/" class="text-white me-2"><i class="fa-brands fa-linkedin"></i></a>
         </div>
     </div>
 </div>

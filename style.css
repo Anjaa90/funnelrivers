@@ -8278,4 +8278,40 @@ p.text-pt {
             transform: translateX(0);
   }
 }        
+/* Top-Navbar Media Queries */
+@media (max-width: 768px) {
+    .top-navbar {
+        text-align: center; 
+        padding: 10px 0; 
+    }
 
+    .top-navbar .container {
+        flex-direction: column;
+        gap: 10px; 
+    }
+
+    .contact-info {
+        font-size: 14px;
+    }
+
+    .social-icons a {
+        font-size: 18px;
+        margin: 0 5px; 
+    }
+}
+
+@media (max-width: 480px) {
+    .contact-info {
+        font-size: 12px;
+    }
+
+    .social-icons a {
+        font-size: 16px;
+    }
+
+    .top-navbar .container {
+        flex-direction: column;
+        text-align: center;
+        gap: 5px;
+    }
+}

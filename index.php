@@ -683,7 +683,7 @@ button:hover {
 						</div>
 						<div class="single_portfolio_content">
 							<div class="single-portfolio-content-inner">
-								<h3><a href="#" f="portfolio-details.html">All-in-One Mastery</a></h3>
+								<h3><a href="google-ads.php" f="portfolio-details.html">All-in-One Mastery</a></h3>
 								<p> Streamlining digital success.</p>
 								<div class="portfolio-icon">
 									<a href="google-ads.php"><i class="fas fa-angle-double-right"></i></a>
@@ -703,7 +703,7 @@ button:hover {
 						</div>
 						<div class="single_portfolio_content-2">
 							<div class="single-portfolio-content-inner-2">
-								<h3><a href="#" f="portfolio-details.html">Social Media Marketing Specialist</a></h3>
+								<h3><a href="facebook-ads.php" f="portfolio-details.html">Social Media Marketing Specialist</a></h3>
 								<p>Niche-tailored solutions.</p>
 								<div class="portfolio-icon-2">
 									<a href="facebook-ads.php"><i class="fas fa-angle-double-right"></i></a>
@@ -722,7 +722,7 @@ button:hover {
 						</div>
 						<div class="single_portfolio_content-3">
 							<div class="single-portfolio-content-inner-3">
-								<h3><a href="#" f="portfolio-details.html">Strategic Fusion</a></h3>
+								<h3><a href="content-writing.php" f="portfolio-details.html">Strategic Fusion</a></h3>
 								<p>Marketing, advertising, creative synergy.</p>
 								<div class="portfolio-icon-3">
 									<a href="content-writing.php"><i class="fas fa-angle-double-right"></i></a>
@@ -741,7 +741,7 @@ button:hover {
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
-								<h3><a href="#" f="portfolio-details.html">Data-Driven Precision</a></h3>
+								<h3><a href="saas-based-software.php" f="portfolio-details.html">Data-Driven Precision</a></h3>
 								<p>Optimize, refine, maximize impact.</p>
 								<div class="portfolio-icon-4">
 									<a href="saas-based-software.php"><i class="fas fa-angle-double-right"></i></a>
@@ -760,7 +760,7 @@ button:hover {
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
-								<h3><a href="#" f="portfolio-details.html">Creative Narratives</a></h3>
+								<h3><a href="web-development.php" f="portfolio-details.html">Creative Narratives</a></h3>
 								<p>Memorable brand experiences.</p>
 								<div class="portfolio-icon-4">
 									<a href="web-development.php"><i class="fas fa-angle-double-right"></i></a>
@@ -780,7 +780,7 @@ button:hover {
 						</div>
 						<div class="single_portfolio_content-4">
 							<div class="single-portfolio-content-inner-4">
-								<h3><a href="#" f="portfolio-details.html">Client-Centric Collaboration</a></h3>
+								<h3><a href="crm.php" f="portfolio-details.html">Client-Centric Collaboration</a></h3>
 								<p>Tailored strategies for success.</p>
 								<div class="portfolio-icon-4">
 									<a href="crm.php"><i class="fas fa-angle-double-right"></i></a>

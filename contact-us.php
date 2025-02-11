@@ -67,95 +67,109 @@ button:hover {
 <!-- Start funnelrivers contact us Area -->
 <!--==================================================-->
 <div class="contact-us-area style-two pt-100">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="funnelrivers-section-title style-two text-center">
-					<h5>CONTACT US</h5>
-					<h1>GET IN TOUCH ANY TIME</h1>
-					<h1>WITH <span>FUNNELRIVERS</span></h1>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-4 col-md-6 col-sm-12">
-				<div class="row">
-					<div class="col-lg-12">
-						<div class="contact-us-single-box">
-							<div class="contact-us-icon">
-								<i class="flaticon-suitcase"></i>
-							</div>
-							<div class="contact-us-title">
-								<h2>Office Address</h2>
-								<p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="contact-us-single-box">
-							<div class="contact-us-icon">
-								<i class="flaticon-call"></i>
-							</div>
-							<div class="contact-us-title">
-								<h2>CONTACT NO.</h2>
-								<p>+91-9923707569</p>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="contact-us-single-box">
-							<div class="contact-us-icon">
-								<i class="flaticon-communications"></i>
-							</div>
-							<div class="contact-us-title">
-								<h2>E-MAIL ADDRESS</h2>
-								<p>dipti@funnelrivers.com</p>
-								
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-8 col-md-6 col-sm-12">
-			<div class="row">
-					<div class="col-lg-12">
-						<div class="contact-form-box style-two">
-							<form action="index.php" method="POST" id="funnelrivers-form">
-								<h2>For any inquiries relating to my Retail and Leadership Programs</h2>
+    <div class="container funnelrivers-form">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="funnelrivers-section-title style-two text-center">
+                    <h5>CONTACT US</h5>
+                    <h1>GET IN TOUCH ANY TIME</h1>
+                    <h1>WITH <span>FUNNELRIVERS</span></h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="contact-us-single-box">
+                            <div class="contact-us-icon">
+                                <i class="flaticon-suitcase"></i>
+                            </div>
+                            <div class="contact-us-title">
+                                <h2>Office Address</h2>
+                                <p>C/O KTown, Sai Nagar Society, Plot No-26, Sector 4, Kalamboli, Panvel, Navi Mumbai, Maharashtra 410218</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="contact-us-single-box">
+                            <div class="contact-us-icon">
+                                <i class="flaticon-call"></i>
+                            </div>
+                            <div class="contact-us-title">
+                                <h2>CONTACT NO.</h2>
+                                <p>+91-9923707569</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="contact-us-single-box">
+                            <div class="contact-us-icon">
+                                <i class="flaticon-communications"></i>
+                            </div>
+                            <div class="contact-us-title">
+                                <h2>E-MAIL ADDRESS</h2>
+                                <p>dipti@funnelrivers.com</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-6 col-sm-12">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="contact-form-box style-two">
+                            <!-- Alert Message (Hidden Initially) -->
+                            <div id="alertMessage" class="alert alert-success" role="alert" style="display: none;">
+                                Your form has been submitted successfully!
+                            </div>
 
-								<input type="text" name="name" placeholder="Enter your Name" required>
+                            <form id="funnelrivers-form">
+                                <h2>For any inquiries relating to my Retail and Leadership Programs</h2>
 
-								<input type="email" name="email" placeholder="Enter your Email" required>
+                                <input type="text" name="name" placeholder="Enter your Name" required>
+                                <input type="email" name="email" placeholder="Enter your Email" required>
+                                <input type="tel" name="phone" placeholder="Enter your Phone Number">
 
-								<input type="tel" name="phone" placeholder="Enter your Phone Number">
+                                <select name="service" required>
+                                    <option value="" disabled selected>Select a Service</option>
+                                    <option value="saas">SaaS Based Software</option>
+                                    <option value="android">Android App</option>
+                                    <option value="ios">iOS App</option>
+                                    <option value="ecommerce">E-Commerce</option>
+                                    <option value="cms">CMS Website</option>
+                                    <option value="others">Others</option>
+                                </select>
 
-								<select name="service" required>
-									<option value="" disabled selected>Select a Service</option>
-									<option value="saas">SaaS Based Software</option>
-									<option value="android">Android App</option>
-									<option value="ios">iOS App</option>
-									<option value="ecommerce">E-Commerce</option>
-									<option value="cms">CMS Website</option>
-									<option value="cms">Others</option>
+                                <textarea name="message" placeholder="Enter your Message" required></textarea>
 
-								</select>
-
-								<textarea name="message" placeholder="Enter your Message" required></textarea>
-
-								<button type="submit">Submit Now <span><i
-											class="fas fa-check-square"></i></span></button>
-							</form>
-
-							<div id="status"></div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
+                                <button type="submit">Submit Now <span><i class="fas fa-check-square"></i></span></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
+<!-- JavaScript for Form Submission Alert -->
+<script>
+document.getElementById("funnelrivers-form").addEventListener("submit", function(event) {
+    event.preventDefault(); 
+    
+    document.getElementById("alertMessage").style.display = "block";
+
+    
+    setTimeout(function() {
+        document.getElementById("alertMessage").style.display = "none";
+    }, 4000);
+
+    
+    document.getElementById("funnelrivers-form").reset();
+});
+</script>
+
 <!--==================================================-->
 <!-- End funnelrivers contact us Area -->
 <!--==================================================-->

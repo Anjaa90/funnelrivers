@@ -37,7 +37,7 @@
 						<h4>AGENCY THAT GETS EXCITED ABOUT</h4>
 					</div>
 					<div class="video-button text-right">
-						<a href="#">Learn More <span><i class="fas fa-check-square"></i></span></a>
+						<a href="contact-us.php">Contact Us <span><i class="fas fa-check-square"></i></span></a>
 					</div>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 					<div class="funnelrivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img loading="lazy" src="assets/images/resource/testi5.png" alt="">
+								<img loading="lazy" src="assets\images\resource\Mahatreoptics.webp" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>Mhatre Optics</h2>
@@ -88,13 +88,13 @@
 					<div class="funnelrivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
+								<img loading="lazy" src="assets\images\resource\humantroop.webp" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>HumanTroop Ventures</h2>
 								<span>21 january, 2024.</span>
 							</div>
-							<div class="testimonial-text"><p>“I wanted to take a moment to express our gratitude for the incredible digital marketing strategies you provided for Human Troop Ventures. Your insights and efforts have made a tangible impact on our marketing efforts. We are truly satisfied with the results.”</p></div>
+							<div class="testimonial-text"><p style="font-size: 12px;">“I wanted to take a moment to express our gratitude for the incredible digital marketing strategies you provided for Human Troop Ventures. Your insights and efforts have made a tangible impact on our marketing efforts. We are truly satisfied with the results.”</p></div>
 							<div class="testimonial-star">
 								<i class="fa fa-star active"></i>
 								<i class="fa fa-star active"></i>
@@ -109,7 +109,7 @@
 					<div class="funnelrivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img loading="lazy" src="assets/images/resource/testi5.png" alt="">
+								<img loading="lazy" src="assets\images\resource\Gayatri.webp" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>Gayatri</h2>
@@ -130,7 +130,7 @@
 					<div class="funnelrivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
+								<img loading="lazy" src="assets\images\resource\SD Enterprises.webp" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>SD enterprises</h2>
@@ -151,7 +151,7 @@
 					<div class="funnelrivers-single-testimonial-box">
 						<div class="testimonial-content">
 							<div class="testimonial-thumb">
-								<img loading="lazy" src="assets/images/resource/testi4.png" alt="">
+								<img loading="lazy" src="assets\images\resource\AnkushIkhar.webp" alt="">
 							</div>
 							<div class="testi-titile">
 								<h2>Ankush Ikhar</h2>

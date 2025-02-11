@@ -42,7 +42,7 @@ $pages = [
         "title" => "FunnelRivers YouTube Ads – Increase Engagement & Conversions",
         "description" => "Capture your audience’s attention with compelling YouTube Ads. FunnelRivers optimizes campaigns to drive traffic, generate leads, and improve ROI."
     ],
-    "twitter-ads.php" => [
+    "X-twitter-ads.php" => [
         "title" => "Maximize Engagement with FunnelRivers’ Twitter Ads Services",
         "description" => "Increase brand visibility and drive traffic with FunnelRivers’ expert Twitter Ads campaigns and social media strategies."
     ],
@@ -54,11 +54,11 @@ $pages = [
         "title" => "High-Quality Content Writing Services by FunnelRivers",
         "description" => "Elevate your brand with compelling content. FunnelRivers delivers customized writing services that resonate with your audience and improve SEO."
     ],
-    "website-development.php" => [
+    "web-development.php" => [
         "title" => "Website Development by FunnelRivers – Design, Build, Optimize",
         "description" => "FunnelRivers offers custom website development, e-commerce solutions, and mobile-friendly designs to enhance user experience and drive conversions."
     ],
-    "graphic-video.php" => [
+    "graphic-videos.php" => [
         "title" => "FunnelRivers Graphic Design & Video Services – Impactful Visuals",
         "description" => "Boost your marketing efforts with FunnelRivers’ professional graphic design and video services. Custom visuals and videos tailored to your brand’s message."
     ],
@@ -82,23 +82,23 @@ $pages = [
         "title" => "Top LMS Solution | FunnelRivers - eLearning Made Easy",
         "description" => "Enhance learning with FunnelRivers' LMS. Manage courses, track progress & boost engagement with our advanced eLearning platform in Navi Mumbai."
     ],
-    "project-management.php" => [
+    "project-mangement-tool.php" => [
         "title" => "Best Project Management Tool | FunnelRivers for Efficiency",
         "description" => "Manage tasks and improve team collaboration with FunnelRivers’ project management tool. Boost efficiency with smart solutions in Navi Mumbai."
     ],
-    "saas-software.php" => [
+    "saas-based-software.php" => [
         "title" => "SaaS-Based Software Solutions | FunnelRivers Navi Mumbai",
         "description" => "Scalable & secure SaaS solutions by FunnelRivers. Streamline operations, boost efficiency & grow your business with cloud-based software."
     ],
-    "android-app-development.php" => [
+    "android-app.php" => [
         "title" => "Custom Android App Development | FunnelRivers Navi Mumbai",
         "description" => "Get custom Android apps with FunnelRivers. Scalable, high-performance solutions for your business."
     ],
-    "ios-app-development.php" => [
+    "ios.php" => [
         "title" => "Top iOS App Development | FunnelRivers Navi Mumbai",
         "description" => "Get custom iOS app solutions with FunnelRivers. Scalable, secure & user-friendly apps for your business. Elevate your digital presence today!"
     ],
-    "ecommerce.php" => [
+    "e-commerce.php" => [
         "title" => "E-Commerce Solutions | FunnelRivers - Grow Your Online Store",
         "description" => "Boost sales with FunnelRivers' e-commerce solutions. Get seamless store setup, secure payments & marketing to scale your online business easily."
     ],
