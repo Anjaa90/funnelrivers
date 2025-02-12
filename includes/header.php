@@ -91,8 +91,8 @@
 <div class="top-navbar text-white py-2" style="Background-color:#F65B3E">
     <div class="container d-flex justify-content-between align-items-center">
         <div class="contact-info">
-            <i class="fa-solid fa-phone"></i> +91-9923707569 &nbsp; | &nbsp;
-            <i class="fa-solid fa-envelope"></i> dipti@funnelrivers.com
+            <i class="fa-solid fa-phone"></i> <a href="tel:+919923707569" style="color:white;">+91-9923707569</a> &nbsp; | &nbsp;
+            <i class="fa-solid fa-envelope"></i><a href="mailto:dipti@funnelrivers.com" style="color:white;"> dipti@funnelrivers.com</a>
         </div>
         <div class="social-icons">
             <a href="https://www.facebook.com/people/FunnelRivers/61557146642817/" class="text-white me-2"><i class="fa-brands fa-facebook"></i> &nbsp; | &nbsp;</a>

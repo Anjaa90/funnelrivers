@@ -389,7 +389,7 @@
 <!--==================================================-->
 <!-- Start dreamit subscribe Area -->
 <!--==================================================-->
-<div class="subscribe-area">
+<!-- <div class="subscribe-area">
 	<div class="container">
 		<div class="row subscribe-bg">
 			<div class="col-lg-6 col-md-6 col-sm-12">
@@ -413,10 +413,45 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
+<div class="testimonial-area style-three cta">
+	<div class="container text-center">
+		<h1>Grow Your Business with <span style="color: #ED2C41;">SEO</span>!</h1>
+		<a href="contact-us.php" class="cta-button">Get a Free SEO Audit</a>
+	</div>
+</div>
+
+
+<style>
+	.cta{
+		padding: 70px 0px 50px !important;
+	}
+	 .cta-button {
+		background-color: white;
+		color:#ED2C41;
+		font-weight: bold;
+		padding: 10px 20px;
+		border-radius: 50px;
+		text-decoration: none;
+		display: inline-block;
+		margin-top: 10px;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+		transition: background-color 0.3s, color 0.3s;
+	}
+	.cta-button:hover {
+		background-color: #ED2C41;
+		color: white;
+	}
+	@media (min-width: 300px) and (max-width: 600px) {
+		.cta{
+			padding: 5px 0px 20px !important;
+		}
+	}
+		
+</style>
 
 
 
