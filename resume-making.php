@@ -61,7 +61,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-						<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">creations</a> <i class="fas fa-angle-double-right"></i></span> <span>Resume Making</span></li>
+						<li><a href="index.php">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">creations</a> <i class="fas fa-angle-double-right"></i></span> <span>Resume Making</span></li>
 						</ul>
 					</div>	
 				</div>

@@ -13,7 +13,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span><a
+							<li><a href="index.php">home</a> <i class="fas fa-angle-double-right"></i> <span><a
 										href="#">About Us</a> <i class="fas fa-angle-double-right"></i></span> <span>Blogs</span></li>
 						</ul>
 					</div>

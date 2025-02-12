@@ -14,7 +14,7 @@
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a><i class="fas fa-angle-double-right"></i> <span><a href="#">About us</a> <i class="fas fa-angle-double-right"></i> <span>Our Clients</span></li>
+							<li><a href="index.php">home</a> <i class="fas fa-angle-double-right"></i> <span><a href="#">About us</a> <i class="fas fa-angle-double-right"></i> <span>Our Clients</span></li>
 						</ul>
 					</div>	
 				</div>
