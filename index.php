@@ -983,6 +983,9 @@ button:hover {
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="contact-form-box style-two">
+						<div id="alertMessage" class="alert alert-success" role="alert" style="display: none;">
+                                Your form has been submitted successfully!
+                            </div>
 							<form action="index.php" method="POST" id="funnelrivers-form">
 								<h2>For any inquiries, contact us</h2>
 
@@ -1016,6 +1019,23 @@ button:hover {
 		</div>
 	</div>
 </div>
+
+<!-- JavaScript for Form Submission Alert -->
+<script>
+document.getElementById("funnelrivers-form").addEventListener("submit", function(event) {
+    event.preventDefault(); 
+    
+    document.getElementById("alertMessage").style.display = "block";
+
+    
+    setTimeout(function() {
+        document.getElementById("alertMessage").style.display = "none";
+    }, 4000);
+
+    
+    document.getElementById("funnelrivers-form").reset();
+});
+</script>
 <!--==================================================-->
 <!-- End dreamit subscribe Area -->
 <!--==================================================-->
