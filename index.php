@@ -684,7 +684,7 @@ button:hover {
 						<div class="single_portfolio_content">
 							<div class="single-portfolio-content-inner">
 								<h3><a href="google-ads.php" f="portfolio-details.html">All-in-One Mastery</a></h3>
-								<p> Streamlining digital success.</p>
+								<p> Streamlining digital success.</p><br>
 								<div class="portfolio-icon">
 									<a href="google-ads.php"><i class="fas fa-angle-double-right"></i></a>
 								</div>
